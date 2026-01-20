@@ -1,5 +1,5 @@
 import React from 'react';
-import Map from '@/components/Map';
+import BaseMap from '@/components/Map/BaseMap';
 import { APP_CONFIG } from '@/config/appConfig';
 
 const App: React.FC = () => {
@@ -9,7 +9,7 @@ const App: React.FC = () => {
         <h1 className="text-xl font-bold">{APP_CONFIG.name}</h1>
       </header>
       <main className="flex-grow relative">
-        <Map />
+        <BaseMap />
       </main>
     </div>
   );
