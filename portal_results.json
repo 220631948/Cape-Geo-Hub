@@ -1,0 +1,3636 @@
+{
+  "CCT": {
+    "Official Suburbs": [
+      {
+        "name": "Suburbs",
+        "owner": "WTTJAM002",
+        "url": "https://www.arcgis.com/home/item.html?id=714472e76922457fa866a4b1f182ffbf",
+        "source_url": "https://services3.arcgis.com/GMycIhSIBQnnjV35/arcgis/rest/services/Suburbs/FeatureServer",
+        "updated": 1570913159000,
+        "snippet": "Suburbs Used as AOI"
+      },
+      {
+        "name": "ADM BND LGASANDSUBURBS PV",
+        "owner": "GIS.SERVICES_COP",
+        "url": "https://www.arcgis.com/home/item.html?id=90c98e01e1fa466eb2abe1edaa851c32",
+        "source_url": "https://services7.arcgis.com/v8XBa2naYNQGOjlG/arcgis/rest/services/ADM_BND_LGASANDSUBURBS_PV/FeatureServer",
+        "updated": 1604893783000,
+        "snippet": "COP suburbs, suburbs and  LGAs  in the metro region"
+      },
+      {
+        "name": "Greater Adelaide Suburbs Theft Offences 2020 21 WFL1",
+        "owner": "a1819786",
+        "url": "https://www.arcgis.com/home/item.html?id=d8902e19e3924da886c71c3e90de9b3a",
+        "source_url": "https://services2.arcgis.com/3THQHWc29EM54DFH/arcgis/rest/services/Greater_Adelaide_Suburbs_Theft_Offences_2020_21_WFL1/FeatureServer",
+        "updated": 1680680306000,
+        "snippet": "Cases of Theft and Related Offences in the Greater Adelaide Suburbs for the year 2020 to 2021."
+      },
+      {
+        "name": "SmarterWX Collaborate Official Data Template",
+        "owner": "smarterwx",
+        "url": "https://www.arcgis.com/home/item.html?id=c023839165b54f789778ee30ce93636d",
+        "source_url": "https://services6.arcgis.com/DcypVq3XOBljDlSF/arcgis/rest/services/SmarterWX_Template/FeatureServer",
+        "updated": 1589265678000,
+        "snippet": "A feature layer template to be used when creating Projects or Exclusion Zones in ArcGIS Online for loading into SmarterWX Collaborate. Start by creating your own feature layer from this template."
+      },
+      {
+        "name": "Official Plan",
+        "owner": "gisadmin@orangeville.ca_orangeville",
+        "url": "https://www.arcgis.com/home/item.html?id=6bf3c5af5eee448b8b0efbb393d60808",
+        "source_url": "https://gis.orangeville.ca/arcgis/rest/services/PlanningCadastre/OfficialPlan/MapServer",
+        "updated": 1605212368000,
+        "snippet": "Town of Orangeville Official Plan Designations and Schedules"
+      },
+      {
+        "name": "Elected Official Districts",
+        "owner": "PeachtreeCornersGA",
+        "url": "https://www.arcgis.com/home/item.html?id=002a96f320f24a41894430c240345297",
+        "source_url": "https://services3.arcgis.com/jEYjQXUX2JTVoctH/arcgis/rest/services/Elected_Official_Districts/FeatureServer",
+        "updated": 1643896450000,
+        "snippet": "Elected Official Districts"
+      },
+      {
+        "name": "Suburbs shp",
+        "owner": "SOFBY001_agol",
+        "url": "https://www.arcgis.com/home/item.html?id=35b25f32700045ec8216838ab5add454",
+        "source_url": "https://services5.arcgis.com/Lmcs3aS4AodOs221/arcgis/rest/services/Suburbs_shp/FeatureServer",
+        "updated": 1602123895000,
+        "snippet": null
+      },
+      {
+        "name": "Greater Suburbs Adelaide crime data 2020 2021 WFL1",
+        "owner": "a1804279",
+        "url": "https://www.arcgis.com/home/item.html?id=78c5f94b9b1a4328af3b48de2bd6a53a",
+        "source_url": "https://services2.arcgis.com/3THQHWc29EM54DFH/arcgis/rest/services/Greater_Suburbs_Adelaide_crime_data_2020_2021_WFL1/FeatureServer",
+        "updated": 1680759851000,
+        "snippet": "Crime Statistics in South Australian suburbs in 2021."
+      },
+      {
+        "name": "Official Tumwater Basemap",
+        "owner": "gstrobin_tumwater",
+        "url": "https://www.arcgis.com/home/item.html?id=8f1397ff256c4c14a4222d565931fad1",
+        "source_url": "https://services6.arcgis.com/ovypB8ighP2NPfFE/arcgis/rest/services/Official_Tumwater_Basemap/FeatureServer",
+        "updated": 1715021921000,
+        "snippet": "Official City of Tumwater basemap to be used for the Explore Tumwater map."
+      },
+      {
+        "name": "[ARCHIVE] Race and the American Suburbs AGOL Upload WFL1",
+        "owner": "carr_mapsNLC",
+        "url": "https://www.arcgis.com/home/item.html?id=77f9a12a33ee43ea8bef6efa8b2f10c8",
+        "source_url": "https://services3.arcgis.com/En2ZrkJMypSRtyTK/arcgis/rest/services/Race_and_the_American_Suburbs_AGOL_Upload_WFL1/FeatureServer",
+        "updated": 1646170452000,
+        "snippet": "Race_and_the_American_Suburbs_AGOL_Upload"
+      },
+      {
+        "name": "Official Plan ScheduleG Transportation",
+        "owner": "DufferinGIS",
+        "url": "https://www.arcgis.com/home/item.html?id=fdce4c1f80444d218c2f2ea29d77f7b3",
+        "source_url": "https://services5.arcgis.com/C0BEdgagVaXzcw0W/arcgis/rest/services/Official_Plan_ScheduleG_Transportation/FeatureServer",
+        "updated": 1505505856000,
+        "snippet": "Dufferin County Official Plan - Schedule G - Transportation"
+      },
+      {
+        "name": "AdministrativeAreas",
+        "owner": "lccspatial",
+        "url": "https://www.arcgis.com/home/item.html?id=0ccaf091a7cf49e6bf8a4b94c0fbb0a8",
+        "source_url": "https://services.arcgis.com/yeXpdyjk3azbqItW/arcgis/rest/services/AdministrativeAreasNew/FeatureServer",
+        "updated": 1726189316000,
+        "snippet": "City of Launceston Administrative Areas"
+      },
+      {
+        "name": "AdministrativeAreas",
+        "owner": "lccspatial",
+        "url": "https://www.arcgis.com/home/item.html?id=d622bbe04fb74325a6b0c18e1678e965",
+        "source_url": "https://services.arcgis.com/yeXpdyjk3azbqItW/arcgis/rest/services/AdministrativeAreas/FeatureServer",
+        "updated": 1726194827000,
+        "snippet": "City of Launceston Administrative Areas"
+      },
+      {
+        "name": "SSC (2016) \u2013 ASGS Ed. 2",
+        "owner": "abs_aus_digitalatlas",
+        "url": "https://www.arcgis.com/home/item.html?id=ce33d090c6dd4db4b9d52875429ff8c5",
+        "source_url": "https://geo.abs.gov.au/arcgis/rest/services/ASGS2016/SSC/FeatureServer",
+        "updated": 1748241146000,
+        "snippet": "State Suburbs are an ABS Mesh Block approximation of gazetted localities."
+      },
+      {
+        "name": "SAL (2021) \u2013 ASGS Ed. 3",
+        "owner": "abs_aus_digitalatlas",
+        "url": "https://www.arcgis.com/home/item.html?id=e3fe2ba8b18f48029b789297a27e8b41",
+        "source_url": "https://geo.abs.gov.au/arcgis/rest/services/ASGS2021/SAL/FeatureServer",
+        "updated": 1748241015000,
+        "snippet": "Suburbs and Localities (formerly State Suburbs) are an ABS Mesh Block approximation of gazetted localities."
+      },
+      {
+        "name": "Planning Official Plan DEV",
+        "owner": "BramptonMaps",
+        "url": "https://www.arcgis.com/home/item.html?id=0ab74a0b55f944a88183d499eafea03e",
+        "source_url": "https://services3.arcgis.com/rl7ACuZkiFsmDA2g/arcgis/rest/services/Planning_Official_Plan_DEV/FeatureServer",
+        "updated": 1686057141000,
+        "snippet": "Official plan open data (DEV)"
+      },
+      {
+        "name": "Planning Official Plan UAT",
+        "owner": "BramptonMaps",
+        "url": "https://www.arcgis.com/home/item.html?id=1905b354ab7645d1a6a158350fff9826",
+        "source_url": "https://services3.arcgis.com/rl7ACuZkiFsmDA2g/arcgis/rest/services/Planning_Official_Plan_UAT/FeatureServer",
+        "updated": 1686057287000,
+        "snippet": "Official plan open data (UAT)"
+      },
+      {
+        "name": "Wilmot Official Plan",
+        "owner": "cameron.miller_wilmot",
+        "url": "https://www.arcgis.com/home/item.html?id=a2fcad7729714a2d92c854dc3b53303f",
+        "source_url": "https://services.arcgis.com/ExP11I9o3OS7Krz9/arcgis/rest/services/Wilmot_Official_Plan/FeatureServer",
+        "updated": 1759252136000,
+        "snippet": "Contains datasets pertaining to The Township of Wilmot's Official Plan including designations, overlays, settlement boundaries and the countryside line."
+      },
+      {
+        "name": "Planning Official Plan",
+        "owner": "BramptonMaps",
+        "url": "https://www.arcgis.com/home/item.html?id=eeb198f7e52a4315a8225d23394d3834",
+        "source_url": "https://services3.arcgis.com/rl7ACuZkiFsmDA2g/arcgis/rest/services/Planning_Official_Plan/FeatureServer",
+        "updated": 1661452927000,
+        "snippet": "Open data datasets from City of Brampton for Official Plan"
+      },
+      {
+        "name": "Zoning Official",
+        "owner": "nhicks_marblefallstx",
+        "url": "https://www.arcgis.com/home/item.html?id=4b6bbca268b34189b432c66c634da4e7",
+        "source_url": "https://services8.arcgis.com/IeXFMFwivjBzu9iB/arcgis/rest/services/Zoning_Official/FeatureServer",
+        "updated": 1712068157000,
+        "snippet": "Official Zoning Map of Marble Falls, Texas"
+      }
+    ],
+    "Wards": [
+      {
+        "name": "Chief Albert Wards",
+        "owner": "sinenhlanhlas_GSDM",
+        "url": "https://www.arcgis.com/home/item.html?id=6f5922bb7ca34c78bb2026ac0050bd59",
+        "source_url": "https://services7.arcgis.com/DmBinE41fRvAC57J/arcgis/rest/services/Chief_Albert_Wards/FeatureServer",
+        "updated": 1601396680000,
+        "snippet": "Wards"
+      },
+      {
+        "name": "City wards",
+        "owner": "hopegis",
+        "url": "https://www.arcgis.com/home/item.html?id=07cedf2324bf479e89ccb4143728a936",
+        "source_url": "https://services5.arcgis.com/RVMSajYQji1bjmZ4/arcgis/rest/services/City_wards/FeatureServer",
+        "updated": 1758209427000,
+        "snippet": "City of Hope Arkansas Board of Directors' Wards"
+      },
+      {
+        "name": "City wards",
+        "owner": "hopegis",
+        "url": "https://www.arcgis.com/home/item.html?id=b6872173c3d04d2badec240c35cc9015",
+        "source_url": "https://services5.arcgis.com/RVMSajYQji1bjmZ4/arcgis/rest/services/City_wards/FeatureServer",
+        "updated": 1588969297000,
+        "snippet": "City of Hope Arkansas Board of Directors' Wards"
+      },
+      {
+        "name": "Wards Corridor",
+        "owner": "udye1121",
+        "url": "https://www.arcgis.com/home/item.html?id=47c224ccc41d45c0b073c56715343278",
+        "source_url": "https://services3.arcgis.com/RkVgS6sXBDRsCyQg/arcgis/rest/services/Wards_Corridor/FeatureServer",
+        "updated": 1611790184000,
+        "snippet": "Wards, Entry Corridor, Airport Overlay, City Limits"
+      },
+      {
+        "name": "Wards",
+        "owner": "StatsNZGeospatial",
+        "url": "https://www.arcgis.com/home/item.html?id=0582a08ad3a648d8963507a716d4935c",
+        "source_url": "https://services2.arcgis.com/vKb0s8tBIA3bdocZ/arcgis/rest/services/Wards/FeatureServer",
+        "updated": 1733426464000,
+        "snippet": "This service contains ward and M\u0101ori ward boundaries."
+      },
+      {
+        "name": "OSNIAdministrativeBoundaries -Wards 2012",
+        "owner": "SpatialNIAdmin",
+        "url": "https://www.arcgis.com/home/item.html?id=85f82a548396459bb5644db5a54976fd",
+        "source_url": "https://utility.arcgis.com/usrsvcs/servers/85f82a548396459bb5644db5a54976fd/rest/services/Boundaries/OSNIAdministrativeBoundaries/MapServer/6\r\n",
+        "updated": 1747731040000,
+        "snippet": null
+      },
+      {
+        "name": "Reno City Limits and Wards 2021",
+        "owner": "friedlandere_cityofreno",
+        "url": "https://www.arcgis.com/home/item.html?id=a0344cac98f94849bea63d2e046f9981",
+        "source_url": "https://services5.arcgis.com/RjM4BJrv5ZkqP4XC/arcgis/rest/services/Reno_City_Limits_and_Wards_2021/FeatureServer",
+        "updated": 1693251346000,
+        "snippet": "City of Reno Wards as of 2021"
+      },
+      {
+        "name": "Trees Wards",
+        "owner": "admincoh",
+        "url": "https://www.arcgis.com/home/item.html?id=85896fd3c6f0447193ac4fafce666a54",
+        "source_url": "https://services1.arcgis.com/1pXnFsHirWAc6772/arcgis/rest/services/Trees_Wards/FeatureServer",
+        "updated": 1471544408000,
+        "snippet": "Tree with wards"
+      },
+      {
+        "name": "Enid Wards Map AGO",
+        "owner": "mkock_Enid",
+        "url": "https://www.arcgis.com/home/item.html?id=daadf07063714be5827c3be9a3c2829c",
+        "source_url": "https://services6.arcgis.com/LIvKKeLD11lMmJuJ/arcgis/rest/services/Enid_Wards_Map_AGO/FeatureServer",
+        "updated": 1574703075000,
+        "snippet": "Public overview of the city of Enid, including zoning boundaries, city wards, parks, precincts, and transportation layers."
+      },
+      {
+        "name": "Summarize Religious Gathering Spaces within Wards",
+        "owner": "npa9177",
+        "url": "https://www.arcgis.com/home/item.html?id=6b76772ed364481496ce3a27a6282a69",
+        "source_url": "https://services.arcgis.com/aScBVpZOvioggfOZ/arcgis/rest/services/Summarize_Religious_Gathering_Spaces_within_Wards/FeatureServer",
+        "updated": 1589166650000,
+        "snippet": "Feature layer generated from Summarize Within"
+      },
+      {
+        "name": "Election Wards",
+        "owner": "CS_Winslow",
+        "url": "https://www.arcgis.com/home/item.html?id=a56f65a29a0d497585844646851b144f",
+        "source_url": "https://services3.arcgis.com/sm4Xf4yN8UfC4qMG/arcgis/rest/services/Election_Wards/FeatureServer",
+        "updated": 1616706663000,
+        "snippet": "Winslow Township Election Wards"
+      },
+      {
+        "name": "Aggregation of Code Cases-MultiFamily to Wards",
+        "owner": "NashuaAdmin",
+        "url": "https://www.arcgis.com/home/item.html?id=a4331ad3fcee488e860907656f67145d",
+        "source_url": "https://services1.arcgis.com/WwJAqA4K2ienzdKW/arcgis/rest/services/Aggregation%20of%20Code%20Cases-MultiFamily%20to%20Wards/FeatureServer",
+        "updated": 1453837713000,
+        "snippet": "Analysis Feature Service generated from Aggregate Points"
+      },
+      {
+        "name": "Council Wards",
+        "owner": "kristin.judy",
+        "url": "https://www.arcgis.com/home/item.html?id=15ea07bd10514f0982a2fee5de7e3778",
+        "source_url": "https://gis.hillsboro-oregon.gov/public/rest/services/public/Council_Wards/FeatureServer",
+        "updated": 1649099672000,
+        "snippet": "City of Hillsboro Council Wards."
+      },
+      {
+        "name": "Aggregation 3 of Needle Drop Boxes and Take it Back! to Wards",
+        "owner": "stephaniehtaylor_Carleton_U",
+        "url": "https://www.arcgis.com/home/item.html?id=83a1fb7518fc45f79d2182e2c7a6873d",
+        "source_url": "https://services1.arcgis.com/V0HKtaD602PKtWJz/arcgis/rest/services/Aggregation_3_of_Needle_Drop_Boxes_and_Take_it_Back!_to_Wards/FeatureServer",
+        "updated": 1618561085000,
+        "snippet": "Feature layer generated from Aggregate Points"
+      },
+      {
+        "name": "Wards",
+        "owner": "aeltahir_marion",
+        "url": "https://www.arcgis.com/home/item.html?id=0c3076b20a26453f8448355586fc6600",
+        "source_url": "https://services2.arcgis.com/D5rqJ85qM97IJslY/arcgis/rest/services/Wards/FeatureServer",
+        "updated": 1584721619000,
+        "snippet": "Council Wards"
+      },
+      {
+        "name": "Summarize NoBldgPermits within NewWards-Wards",
+        "owner": "NashuaAdmin",
+        "url": "https://www.arcgis.com/home/item.html?id=9e1d35d737a14dc6a75cfb984f5c3b79",
+        "source_url": "https://services1.arcgis.com/WwJAqA4K2ienzdKW/arcgis/rest/services/Summarize%20NoBldgPermits%20within%20NewWards-Wards/FeatureServer",
+        "updated": 1438090656000,
+        "snippet": "Analysis Feature Service generated from Summarize Within"
+      },
+      {
+        "name": "Ward MCA Results",
+        "owner": "lndungo_esrieaCommercial",
+        "url": "https://www.arcgis.com/home/item.html?id=b9804d6e52ae4ebca19fabed9a9c2eba",
+        "source_url": "https://services7.arcgis.com/gYHOe4V6gFqvbVJj/arcgis/rest/services/Ward_MCA_Results/FeatureServer",
+        "updated": 1493807204000,
+        "snippet": "Wards in Kenya"
+      },
+      {
+        "name": "MichiganCityWards",
+        "owner": "abazil_MichiganCityIN",
+        "url": "https://www.arcgis.com/home/item.html?id=86a0e0a59fe747bda7af8d2d6e227cdc",
+        "source_url": "https://services8.arcgis.com/01oq2N3cUfdKDUBU/arcgis/rest/services/MichiganCityWards/FeatureServer",
+        "updated": 1704299362000,
+        "snippet": "wards"
+      },
+      {
+        "name": "VotingWards",
+        "owner": "Hartford2010",
+        "url": "https://www.arcgis.com/home/item.html?id=e46abb9bed304ac097c0c308d797dac0",
+        "source_url": "https://services5.arcgis.com/j0UfBSlXJiINWcjz/arcgis/rest/services/VotingWards/FeatureServer",
+        "updated": 1474387772000,
+        "snippet": "Wards"
+      },
+      {
+        "name": "Overlaying parishes UDC wards and County Electoral Divisions",
+        "owner": "uttlesford1",
+        "url": "https://www.arcgis.com/home/item.html?id=a967bc6589824dd489c1c7bc1bc4657f",
+        "source_url": "https://services.arcgis.com/wDcUiJYKtMulHM03/arcgis/rest/services/Overlaying_parishes_UDC_wards_and_County_Electoral_Divisions/FeatureServer",
+        "updated": 1636645158000,
+        "snippet": "Overlaying parishes, UDC wards and county electoral divisions"
+      }
+    ],
+    "Informal Settlements": [
+      {
+        "name": "HDA InformalSettlements gdb",
+        "owner": "hremas",
+        "url": "https://www.arcgis.com/home/item.html?id=6eab021a2b8449ca9c3701f7515eb476",
+        "source_url": "https://services.arcgis.com/0QTbS9dOzA9di1jl/arcgis/rest/services/HDA_InformalSettlements_gdb/FeatureServer",
+        "updated": 1590578791000,
+        "snippet": null
+      },
+      {
+        "name": "Informal Settlements in Kenya and Ghana",
+        "owner": "jdindiok_adra_ghana",
+        "url": "https://www.arcgis.com/home/item.html?id=d667b41c65b944a0a52c989fbdd8fc20",
+        "source_url": "https://services1.arcgis.com/93Ieg4hfTR8LTwJ7/arcgis/rest/services/Accra_Informal_Settlements/FeatureServer",
+        "updated": 1725450579000,
+        "snippet": "This web map provides a comprehensive visualization of informal settlements in Kenya and Ghana, highlighting key economic activities, population density, and common diseases affecting these communities. The map is designed to support data-driven decision-making for urban planning, public health interventions, and sustainable development initiatives. It leverages geospatial data to offer insights into the challenges and opportunities within these densely populated areas."
+      },
+      {
+        "name": "Stakeholder Settlements Western Limb Operations WFL1",
+        "owner": "Satplan",
+        "url": "https://www.arcgis.com/home/item.html?id=19c820a7662d4aa49421226beeddedf3",
+        "source_url": "https://services8.arcgis.com/qH8zjYRAW90u8Vtu/arcgis/rest/services/Stakeholder_Settlements_Western_Limb_Operations_WFL1/FeatureServer",
+        "updated": 1687161401000,
+        "snippet": "Webmap of Stakeholder Settlements for Glencore Western Limb Operations "
+      },
+      {
+        "name": "AGOL Rural Settlements",
+        "owner": "shaw_b",
+        "url": "https://www.arcgis.com/home/item.html?id=ea1aa2c5030e465dad96b94845bd9967",
+        "source_url": "https://services1.arcgis.com/FGUXPreBedGXDRFM/arcgis/rest/services/AGOL_Rural_Settlements/FeatureServer",
+        "updated": 1759478578000,
+        "snippet": "NISRA Rural Classified Settlements"
+      },
+      {
+        "name": "Informal Settlements",
+        "owner": "gis@nkhopheleh.co.za",
+        "url": "https://www.arcgis.com/home/item.html?id=669193e1308945fb890b42a3f2515589",
+        "source_url": "https://services2.arcgis.com/fBaP2JVe62xtbsit/arcgis/rest/services/Informal_Settlements/FeatureServer",
+        "updated": 1737475472000,
+        "snippet": ""
+      },
+      {
+        "name": "AGOL Urban Settlements",
+        "owner": "shaw_b",
+        "url": "https://www.arcgis.com/home/item.html?id=d39232c2d284491095cbc4c2239017bd",
+        "source_url": "https://services1.arcgis.com/FGUXPreBedGXDRFM/arcgis/rest/services/AGOL_Urban_Settlements/FeatureServer",
+        "updated": 1759479344000,
+        "snippet": "NISRA Urban Classified Settlements "
+      },
+      {
+        "name": "Kibera Atlas",
+        "owner": "dkyalo_Cadasta",
+        "url": "https://www.arcgis.com/home/item.html?id=af168b9cbeed4620a759c1fbdf69c27a",
+        "source_url": "https://services8.arcgis.com/8tX9OH8doNBidChm/arcgis/rest/services/Kibera_Atlas/FeatureServer",
+        "updated": 1632645985000,
+        "snippet": "Kibera atlas"
+      },
+      {
+        "name": "Colonial Settlements 1607 1699",
+        "owner": "vgagis",
+        "url": "https://www.arcgis.com/home/item.html?id=8029558a3d2541aebcb4c2384510ebc4",
+        "source_url": "https://services1.arcgis.com/TQSFiGYN0xveoERF/arcgis/rest/services/Colonial_Settlements_1607_1699/FeatureServer",
+        "updated": 1585349466000,
+        "snippet": "Colonial settlements 1607-1699"
+      },
+      {
+        "name": "Informal Settlements WFL1",
+        "owner": "One_to_One",
+        "url": "https://www.arcgis.com/home/item.html?id=aef15f1094ff435292e1f887b34a5651",
+        "source_url": "https://services6.arcgis.com/I02x1zJfLX46L5tx/arcgis/rest/services/Informal_Settlements_WFL1/FeatureServer",
+        "updated": 1730355607000,
+        "snippet": ""
+      },
+      {
+        "name": "Informal settlements south america",
+        "owner": "lurgancoll_admin",
+        "url": "https://www.arcgis.com/home/item.html?id=a5a2f215370e49c6b803475ecde1796d",
+        "source_url": "https://services4.arcgis.com/jrFk2Dy6GRgxmTji/arcgis/rest/services/Informal_settlements_south_america/FeatureServer",
+        "updated": 1649836639000,
+        "snippet": null
+      },
+      {
+        "name": "Kouga LM Informal Settlements Survey",
+        "owner": "kouga_admin",
+        "url": "https://www.arcgis.com/home/item.html?id=6d6fb1bc8a464016bb47ce4a576874e5",
+        "source_url": "https://services6.arcgis.com/HrQQGPZkIr5BuMyY/arcgis/rest/services/service_88cfc8e9b4c5434da50519502d3b64f7/FeatureServer",
+        "updated": 1688047089000,
+        "snippet": null
+      },
+      {
+        "name": "Micmac and European settlements in 1630 and 1740",
+        "owner": "EsriCanadaEducation",
+        "url": "https://www.arcgis.com/home/item.html?id=e29a8d356e8947ea9ae078d46cd42534",
+        "source_url": "https://services.arcgis.com/As5CFN3ThbQpy8Ph/arcgis/rest/services/Acadia_OtherSettlements/FeatureServer",
+        "updated": 1549391303000,
+        "snippet": "Micmac and European settlements in Acadia circa 1630 and 1740."
+      },
+      {
+        "name": "Aggregation of Settlements of Belize to Districts",
+        "owner": "adele_o_ramos",
+        "url": "https://www.arcgis.com/home/item.html?id=0d10cfdd003d4eb5b4be1030f87b7cea",
+        "source_url": "https://services7.arcgis.com/nepqZq6X1y0gxouO/arcgis/rest/services/Aggregation%20of%20Settlements%20of%20Belize%20to%20Districts/FeatureServer",
+        "updated": 1477969033000,
+        "snippet": "Analysis Feature Service generated from Aggregate Points"
+      },
+      {
+        "name": "HousingSnapshotsUpdate 20 04 2022",
+        "owner": "st63_AUB",
+        "url": "https://www.arcgis.com/home/item.html?id=d017599ab9d9429dac65980d6c53afa9",
+        "source_url": "https://services3.arcgis.com/tuNLpt6Wfhd22qmO/arcgis/rest/services/HousingSnapshotsUpdate_20_04_2022/FeatureServer",
+        "updated": 1650462171000,
+        "snippet": "EXPLOITATIVE RENT LAYER"
+      },
+      {
+        "name": "Public Review Informal Appeals Base",
+        "owner": "StarkCountyOH",
+        "url": "https://www.arcgis.com/home/item.html?id=3898abb58d1746ffacd7a2a8afedf907",
+        "source_url": "https://scgisa.starkcountyohio.gov/arcgis/rest/services/Auditor/PublicReview/MapServer",
+        "updated": 1722601794000,
+        "snippet": "Public Review Informal Appeals Base parcels features, Buildings, and Other Building Features service"
+      },
+      {
+        "name": "WC IS Sanitation Heatmap WFL1",
+        "owner": "DlaminiS_dwa",
+        "url": "https://www.arcgis.com/home/item.html?id=6485866a37834998b7b1de1b503ac7fa",
+        "source_url": "https://services3.arcgis.com/QdLJLZBqzVAhCil8/arcgis/rest/services/WC_IS_Sanitation_Heatmap_WFL1/FeatureServer",
+        "updated": 1750338042000,
+        "snippet": "Heatmap showing density of informal settlements in the Western Cape"
+      },
+      {
+        "name": "CitizenProblems Planning and Economic Development Integrated Human Settlements Housing Development",
+        "owner": "stelliesgis",
+        "url": "https://www.arcgis.com/home/item.html?id=0b035657aca54f159deae0801402a59d",
+        "source_url": "https://services7.arcgis.com/1VIB2KKteTyIpwkV/arcgis/rest/services/CitizenProblems_Planning_and_Economic_Development_Integrated_Human_Settlements_Housing_Development/FeatureServer",
+        "updated": 1628164763000,
+        "snippet": "Problems reported by general public through focused citizen engagement applications.\nPlanning and Economic Development - Integrated Human Settlements, Housing Development"
+      },
+      {
+        "name": "Police stations distribution   Informal Settlements in Argentina WFL1",
+        "owner": "nottage.s@northeastern.edu_NU",
+        "url": "https://www.arcgis.com/home/item.html?id=8d99be95b2a8474ca32bcf074e1c226f",
+        "source_url": "https://services1.arcgis.com/KUeKSLlMUcWvuPRM/arcgis/rest/services/Police_stations_distribution___Informal_Settlements_in_Argentina_WFL1/FeatureServer",
+        "updated": 1763060295000,
+        "snippet": ""
+      },
+      {
+        "name": "Settlements",
+        "owner": "npulumo_Ehlanzeni",
+        "url": "https://www.arcgis.com/home/item.html?id=1ee252b37ef0448fa483af9902a76b60",
+        "source_url": "https://services7.arcgis.com/fNVuaETlEDvt1x1Y/arcgis/rest/services/Settlements/FeatureServer",
+        "updated": 1597242898000,
+        "snippet": "EDM Settlements"
+      },
+      {
+        "name": "DEVNET BER INFORMAL HEARING MAP EXPLORER TEST WFL1",
+        "owner": "devnet_ucnc_gis",
+        "url": "https://www.arcgis.com/home/item.html?id=5209f9fd37104f569c479dae7a5d22b2",
+        "source_url": "https://services2.arcgis.com/Z7YhSKLuj0a3XHN6/arcgis/rest/services/DEVNET_BER_INFORMAL_HEARING_MAP_EXPLORER_TEST_WFL1/FeatureServer",
+        "updated": 1674838906000,
+        "snippet": "BER Informal Hearings map explorer - Union"
+      }
+    ],
+    "Zoning": [
+      {
+        "name": "ZONING",
+        "owner": "agolpro_Wildomar",
+        "url": "https://www.arcgis.com/home/item.html?id=e2c7ff85f9bf4f1aa945f0e41f2a4232",
+        "source_url": "https://services6.arcgis.com/kIJQVjhDSsSdR0Xt/arcgis/rest/services/ZONING/FeatureServer",
+        "updated": 1767983574000,
+        "snippet": "Feature Class published from Interwest SDE."
+      },
+      {
+        "name": "Zoning Districts",
+        "owner": "Kerik",
+        "url": "https://www.arcgis.com/home/item.html?id=33ef8855ee644680b4b4d439121ff8bf",
+        "source_url": "https://services1.arcgis.com/jwbgoAzqzCbiJmg4/arcgis/rest/services/Zoning_Districts/FeatureServer",
+        "updated": 1766763995000,
+        "snippet": "Zoning districts throughout the City of Novi."
+      },
+      {
+        "name": "Zoning Map Layer 2023",
+        "owner": "jcrookston_mcpw",
+        "url": "https://www.arcgis.com/home/item.html?id=b2123fc87aa74c33bb13c0f0e4543a5e",
+        "source_url": "https://services1.arcgis.com/BrJrVYDObuVeZdbH/arcgis/rest/services/20211104ZoningMapletonCityUtah/FeatureServer",
+        "updated": 1716902570000,
+        "snippet": "Mapleton City Utah Zoning Updated to November 4, 2021"
+      },
+      {
+        "name": "Zoning Data",
+        "owner": "matthilderman9",
+        "url": "https://www.arcgis.com/home/item.html?id=9eaed0c8a08043e2b0d480496237ae9a",
+        "source_url": "https://services6.arcgis.com/8xmMYBLanDLIUCUt/arcgis/rest/services/Zoning_Data_view_01_2025/FeatureServer",
+        "updated": 1748454122000,
+        "snippet": "- Zoning Amendments - Zoning Overlays - Zoning Districts"
+      },
+      {
+        "name": "Zoning",
+        "owner": "mgiarrusso",
+        "url": "https://www.arcgis.com/home/item.html?id=7ece0f27fecf4d5ebfa4ebe5d5e3c6aa",
+        "source_url": "https://services5.arcgis.com/bmiwyveTUuaT56jB/arcgis/rest/services/Zoning/FeatureServer",
+        "updated": 1758734638000,
+        "snippet": "Zoning"
+      },
+      {
+        "name": "Zoning",
+        "owner": "jdonovan",
+        "url": "https://www.arcgis.com/home/item.html?id=3524b5fb6ffe44e6a53a8cc8761b9ae0",
+        "source_url": "https://services1.arcgis.com/ee8aYF9sH8nrhkjZ/arcgis/rest/services/Zoning/FeatureServer",
+        "updated": 1730833354000,
+        "snippet": "Zoning"
+      },
+      {
+        "name": "Zoning",
+        "owner": "Campus_Planning",
+        "url": "https://www.arcgis.com/home/item.html?id=e45b0d3d994b4bb09b85dc4dbe58130c",
+        "source_url": "https://services3.arcgis.com/m3XdyJh55Jrxxk0l/arcgis/rest/services/Zoning/FeatureServer",
+        "updated": 1593703406000,
+        "snippet": "Zoning"
+      },
+      {
+        "name": "Zoning",
+        "owner": "richard.jackson_Sarnia",
+        "url": "https://www.arcgis.com/home/item.html?id=e8a503e43ab241778807f473f02d51c3",
+        "source_url": "https://services1.arcgis.com/ICybsLmBXrZCZV3x/arcgis/rest/services/Zoning/FeatureServer",
+        "updated": 1732786754000,
+        "snippet": "Planning Zoning Layers. The City of Sarnia does not guarantee accuracy and completeness of this dataset. "
+      },
+      {
+        "name": "Zoning",
+        "owner": "pward_lakeforestca",
+        "url": "https://www.arcgis.com/home/item.html?id=85ce3585de4b4a5690ff1d9a235b5cc5",
+        "source_url": "https://services.arcgis.com/ZNy8hnJqYHIKCiV1/arcgis/rest/services/Zoning3/FeatureServer",
+        "updated": 1743723012000,
+        "snippet": "Zoning"
+      },
+      {
+        "name": "Zoning",
+        "owner": "mgiarrusso",
+        "url": "https://www.arcgis.com/home/item.html?id=da4b176aa9d642d1abd680be1298fcb2",
+        "source_url": "https://arcgisserver.cranstonri.org/arcgis/rest/services/Zoning/FeatureServer",
+        "updated": 1731441417000,
+        "snippet": "Zoning"
+      },
+      {
+        "name": "Zoning",
+        "owner": "COB_GIS_ADMIN",
+        "url": "https://www.arcgis.com/home/item.html?id=29ccd4e8e624442faad73bd7b7251577",
+        "source_url": "https://services2.arcgis.com/AbeGRKIiXK4snvXa/arcgis/rest/services/Zoning/FeatureServer",
+        "updated": 1522346054000,
+        "snippet": "City Zoning"
+      },
+      {
+        "name": "Zoning",
+        "owner": "centervillecity",
+        "url": "https://www.arcgis.com/home/item.html?id=c84e1d19ca95472b8765425904328f3e",
+        "source_url": "https://services1.arcgis.com/rdQPhMjJQVUQCDzu/arcgis/rest/services/Zoning/FeatureServer",
+        "updated": 1756237620000,
+        "snippet": "Zoning - Last Update 6/17/25\nsubs - Last Update 8/26/25"
+      },
+      {
+        "name": "Zoning",
+        "owner": "gskrehart",
+        "url": "https://www.arcgis.com/home/item.html?id=6881e591dc714c079d895769adcf0191",
+        "source_url": "https://gis-portal.cityofcorinth.com/gisserver/rest/services/CorServices/Zoning/FeatureServer",
+        "updated": 1554928793000,
+        "snippet": "This is the Zoning layer for the City of Corinth."
+      },
+      {
+        "name": "Zoning Overlay Districts",
+        "owner": "EastonGIS",
+        "url": "https://www.arcgis.com/home/item.html?id=86ea207ab9a34156a77be776fd6ff5a9",
+        "source_url": "https://services2.arcgis.com/G6TP4SnXQoFs2r0T/arcgis/rest/services/ZoningOverlayDistricts/FeatureServer",
+        "updated": 1724772218000,
+        "snippet": "The purpose of this data is to map the boundary of the types of zoning overlay districts defined in the Town of Easton Zoning By-Law."
+      },
+      {
+        "name": "Zoning",
+        "owner": "CoolidgeGIS",
+        "url": "https://www.arcgis.com/home/item.html?id=0816999aa60f4fae8e3a8d7fddf4e4df",
+        "source_url": "https://services1.arcgis.com/hnot1QWoGcUQ9WmN/arcgis/rest/services/Zoning1/FeatureServer",
+        "updated": 1741361405000,
+        "snippet": "Zoning"
+      },
+      {
+        "name": "Zoning",
+        "owner": "cowsmap",
+        "url": "https://www.arcgis.com/home/item.html?id=ee0d2472675b402680fa5f9e811f4be8",
+        "source_url": "https://services6.arcgis.com/A8DUNSj9dejOAHeu/arcgis/rest/services/Zoning/FeatureServer",
+        "updated": 1718303380000,
+        "snippet": "Zoning and land use map for the City of Willow Springs, Missouri"
+      },
+      {
+        "name": "Zoning",
+        "owner": "RochesterNHGIS",
+        "url": "https://www.arcgis.com/home/item.html?id=b320867ecc7a49fda4315cc670565c27",
+        "source_url": "https://services.arcgis.com/tslDSeWNuCpGNCV9/arcgis/rest/services/Zoning/FeatureServer",
+        "updated": 1679063359000,
+        "snippet": "Zoning and Overlay Districts"
+      },
+      {
+        "name": "Zoning",
+        "owner": "tlockamy@nhcgov.com_nhcgov",
+        "url": "https://www.arcgis.com/home/item.html?id=7a27ec7289544c7c99de5c24f03449e7",
+        "source_url": "https://services1.arcgis.com/KHqZAAIdlp1670Ft/arcgis/rest/services/Zoning/FeatureServer",
+        "updated": 1744928739000,
+        "snippet": "This service contains the zoning information for New Hanover County, NC. "
+      },
+      {
+        "name": "Zoning PUBLIC",
+        "owner": "penfieldny.admin",
+        "url": "https://www.arcgis.com/home/item.html?id=e3567e86e8d84419880d300082a1ba37",
+        "source_url": "https://services2.arcgis.com/WosK7QpOS4eVSn36/arcgis/rest/services/Zoning_PUBLIC/FeatureServer",
+        "updated": 1665147002000,
+        "snippet": "Zoning"
+      },
+      {
+        "name": "Zoning 20170517",
+        "owner": "emilywpsgn",
+        "url": "https://www.arcgis.com/home/item.html?id=dd41c856bc004fe5a63859b9ba2c039b",
+        "source_url": "https://services1.arcgis.com/rC2NOGn7lIsp3hfc/arcgis/rest/services/20170517_Map_Final_v5_WebEdition/FeatureServer",
+        "updated": 1502991186000,
+        "snippet": "Zoning Summary"
+      }
+    ],
+    "Water": [
+      {
+        "name": "Water Mobile App",
+        "owner": "mterrell",
+        "url": "https://www.arcgis.com/home/item.html?id=cb7d02310f144144bf09385d01b3ccf1",
+        "source_url": "https://services.arcgis.com/5iWzb1srkjPDXmpL/arcgis/rest/services/Water_Mobile_App/FeatureServer",
+        "updated": 1548852014000,
+        "snippet": "Water Distribution System"
+      },
+      {
+        "name": "water",
+        "owner": "Beatriz",
+        "url": "https://www.arcgis.com/home/item.html?id=0f70091f51be439b9bbba444197ddba0",
+        "source_url": "https://services.arcgis.com/S6jIPb0RwFTS01gX/arcgis/rest/services/water/FeatureServer",
+        "updated": 1476348868000,
+        "snippet": "Water"
+      },
+      {
+        "name": "Water Distribution Infrastructure",
+        "owner": "mterrell",
+        "url": "https://www.arcgis.com/home/item.html?id=2298aded91084cc0ada6e2ea4e3f65c0",
+        "source_url": "https://services.arcgis.com/5iWzb1srkjPDXmpL/arcgis/rest/services/Water_Distribution_Infrastructure/FeatureServer",
+        "updated": 1556549419000,
+        "snippet": "Water Distribution System"
+      },
+      {
+        "name": "Water",
+        "owner": "ckostner_frankfort",
+        "url": "https://www.arcgis.com/home/item.html?id=25d1f36421124716b6c687d4946712a3",
+        "source_url": "https://services.arcgis.com/SOVgyYCFVBkOrKDZ/arcgis/rest/services/Water/FeatureServer",
+        "updated": 1674082829000,
+        "snippet": "Water"
+      },
+      {
+        "name": "Martinsburg Water Distribution Pipes",
+        "owner": "adotson",
+        "url": "https://www.arcgis.com/home/item.html?id=7ad6773978ca457fb0d65c178693df1d",
+        "source_url": "https://services6.arcgis.com/deAS8KeQ1ASFd1S2/arcgis/rest/services/Martinsburg_Water_Distribution_Pipes/FeatureServer",
+        "updated": 1752250821000,
+        "snippet": "Martinsburg Water Distribution System - Pipe only"
+      },
+      {
+        "name": "OLD Water Mains",
+        "owner": "Raines",
+        "url": "https://www.arcgis.com/home/item.html?id=6a00b001d21c48109aebfc405b5df3ee",
+        "source_url": "https://services5.arcgis.com/oHyVM17u2FMyV4oB/arcgis/rest/services/W_Main/FeatureServer",
+        "updated": 1600284321000,
+        "snippet": " A principal supply pipe in an arrangement of pipes for distributing potable water."
+      },
+      {
+        "name": "Martinsburg Water Distribution Valves",
+        "owner": "adotson",
+        "url": "https://www.arcgis.com/home/item.html?id=ce6a13104c1d496b8f61f9c07fbc3413",
+        "source_url": "https://services6.arcgis.com/deAS8KeQ1ASFd1S2/arcgis/rest/services/Martinsburg_Water_Distribution_Valves/FeatureServer",
+        "updated": 1752251026000,
+        "snippet": "Martinsburg Water Distribution System - Valves Only\n"
+      },
+      {
+        "name": "Water",
+        "owner": "cccmap",
+        "url": "https://www.arcgis.com/home/item.html?id=6a370d0f416146a2bd16be4b1285d78c",
+        "source_url": "https://services1.arcgis.com/faTiISwEuJk1lvB1/arcgis/rest/services/Water/FeatureServer",
+        "updated": 1767623135000,
+        "snippet": "Service for water related data layers in Clear Creek County."
+      },
+      {
+        "name": "Water",
+        "owner": "nh_pwd",
+        "url": "https://www.arcgis.com/home/item.html?id=52a29240260b40cfb33efbb57eb3b162",
+        "source_url": "https://services6.arcgis.com/gTVQjOemHjQpAWul/arcgis/rest/services/Water/FeatureServer",
+        "updated": 1737121435000,
+        "snippet": "Water New Hampton"
+      },
+      {
+        "name": "Water",
+        "owner": "hopegis",
+        "url": "https://www.arcgis.com/home/item.html?id=16dbc2998fbe47bb9992645a4c6530ea",
+        "source_url": "https://services5.arcgis.com/RVMSajYQji1bjmZ4/arcgis/rest/services/Water/FeatureServer",
+        "updated": 1673448732000,
+        "snippet": "Hope Water & Light fire hydrants and water lines"
+      },
+      {
+        "name": "Water Distribution System",
+        "owner": "gisnorco_congis",
+        "url": "https://www.arcgis.com/home/item.html?id=813b8f23252847f69b9fc93b4a57c98e",
+        "source_url": "https://services6.arcgis.com/KEzHLslVRHHoUXir/arcgis/rest/services/WaterDistributionSystem_540600ddade242bca5152512f857e4b4/FeatureServer",
+        "updated": 1717520881000,
+        "snippet": "A service used to administer the Water Distribution System feature service."
+      },
+      {
+        "name": "Drinking Water Sources",
+        "owner": "cenobite",
+        "url": "https://www.arcgis.com/home/item.html?id=a551c11cb6104698b142ebcd13f008dc",
+        "source_url": "https://mercator.env.nm.gov/server/rest/services/dwb/drinking_water_sources/FeatureServer",
+        "updated": 1715694122000,
+        "snippet": "These layers comprise active and inactive permits for public water utilities."
+      },
+      {
+        "name": "Water",
+        "owner": "mdigiannantonio_COJ",
+        "url": "https://www.arcgis.com/home/item.html?id=e8efe50e00094868be8536ee2deb0566",
+        "source_url": "https://services2.arcgis.com/RMSabPClYIvVQ6Si/arcgis/rest/services/Water/FeatureServer",
+        "updated": 1748455821000,
+        "snippet": "City of Joliet Potable Water system"
+      },
+      {
+        "name": "Water Distribution",
+        "owner": "apeddiquantel",
+        "url": "https://www.arcgis.com/home/item.html?id=264f69ea783b41aaa6a955ffaafe5168",
+        "source_url": "https://services5.arcgis.com/mVOIzFBNXdKZdDdU/arcgis/rest/services/Water_Distribution/FeatureServer",
+        "updated": 1617103371000,
+        "snippet": "Water"
+      },
+      {
+        "name": "Utility Water",
+        "owner": "klafferty",
+        "url": "https://www.arcgis.com/home/item.html?id=079c4b48e5f0455a9c28ea8ac09d42b3",
+        "source_url": "https://services6.arcgis.com/s3ZVfsWPHgxFM2HE/arcgis/rest/services/Utility_Water/FeatureServer",
+        "updated": 1636118236000,
+        "snippet": "Wakefield Water Data"
+      },
+      {
+        "name": "OB Water Infrastructure pv",
+        "owner": "mvdukes",
+        "url": "https://www.arcgis.com/home/item.html?id=d8ad847afb364241ad4bf1a1f1113250",
+        "source_url": "https://services1.arcgis.com/FNsEJ848HT5uDOHD/arcgis/rest/services/OB_Water_Infrastructure_pv/FeatureServer",
+        "updated": 1747748282000,
+        "snippet": "This 'view' of the data is intended for the public as it is not editable.  All data, except for the water tanks, was provided by Environmental Partners in October 2024.  Tank data per Tata & Howard as of 2015."
+      },
+      {
+        "name": "Water Service",
+        "owner": "brendanweiner",
+        "url": "https://www.arcgis.com/home/item.html?id=0f2dbc50e8fe47f09d0fcc7e0a4574fc",
+        "source_url": "https://services2.arcgis.com/7a7OULZOTqe87h9O/arcgis/rest/services/Water_Service/FeatureServer",
+        "updated": 1614091510000,
+        "snippet": "The water service utilities for Toms River Township"
+      },
+      {
+        "name": "Water Mains",
+        "owner": "phillipnwwatersystems",
+        "url": "https://www.arcgis.com/home/item.html?id=ec8bd21bbdf44989a1696f3ca7c2b8b7",
+        "source_url": "https://services7.arcgis.com/jxbz2f5FyYXw438P/arcgis/rest/services/Water_Mains_10cf6871f7e24e5487656c9431bcb3d0/FeatureServer",
+        "updated": 1661296095000,
+        "snippet": "This feature layer is used to manage the water main assets of the water system.\n"
+      },
+      {
+        "name": "Water Connections",
+        "owner": "BVITCP",
+        "url": "https://www.arcgis.com/home/item.html?id=ad2390dafb0d4398aff33fdde9403ab5",
+        "source_url": "https://services6.arcgis.com/ynGHe0Yy1JG8d8DW/arcgis/rest/services/Water_Connections/FeatureServer",
+        "updated": 1512747809000,
+        "snippet": "Water Connections"
+      },
+      {
+        "name": "water",
+        "owner": "Washington_County_MN",
+        "url": "https://www.arcgis.com/home/item.html?id=8166ba2fd693451796cce01786e5d320",
+        "source_url": "https://services1.arcgis.com/3fjYPqJf7qalQMlb/arcgis/rest/services/water/FeatureServer",
+        "updated": 1550688920000,
+        "snippet": "Water features in Washington County"
+      }
+    ],
+    "Sanitation": [
+      {
+        "name": "Sanitation Data",
+        "owner": "sambusagol1",
+        "url": "https://www.arcgis.com/home/item.html?id=7213f88ec17b4592bc29eb04abdb4d42",
+        "source_url": "https://services1.arcgis.com/m9p5y180BqMf6JT7/arcgis/rest/services/Sanitation_Data/FeatureServer",
+        "updated": 1418653026000,
+        "snippet": "Sanitation monitoring"
+      },
+      {
+        "name": "Sanitation Individual Routes",
+        "owner": "cmuldoon_syr",
+        "url": "https://www.arcgis.com/home/item.html?id=7e8eb5a5f5024c0dad9e2fad5e376dfe",
+        "source_url": "https://services6.arcgis.com/bdPqSfflsdgFRVVM/arcgis/rest/services/Sanitation_Individual_Routes/FeatureServer",
+        "updated": 1666017593000,
+        "snippet": null
+      },
+      {
+        "name": "SPM Sanitation",
+        "owner": "SPMGIS",
+        "url": "https://www.arcgis.com/home/item.html?id=c874aaab253c466a95409917c3875f01",
+        "source_url": "https://services2.arcgis.com/V9xWeKFsczvmgrcv/arcgis/rest/services/SPM_Sanitation/FeatureServer",
+        "updated": 1470314090000,
+        "snippet": "SPM Sanitation"
+      },
+      {
+        "name": "Metro Sanitation Routes",
+        "owner": "GCRuser",
+        "url": "https://www.arcgis.com/home/item.html?id=c1eaa0c9ce0a4ca6bd8608e7216cf23e",
+        "source_url": "https://services1.arcgis.com/JbKmzpUJDB0d0o8l/arcgis/rest/services/Metro_Sanitation_Routes/FeatureServer",
+        "updated": 1505944727000,
+        "snippet": "Sanitation and recycling routes for Metro Services in New Orleans for 2017"
+      },
+      {
+        "name": "Sanitation Services",
+        "owner": "cob-gis_bloomingtonin",
+        "url": "https://www.arcgis.com/home/item.html?id=4a8f051e451848d2acfd7500474e041b",
+        "source_url": "https://services9.arcgis.com/47GwVXZ9a8thrviM/arcgis/rest/services/Sanitation_Services/FeatureServer",
+        "updated": 1720552709000,
+        "snippet": "City of Bloomington, IN sanitation pickup zones and drop-off recycling locations. Used in the Sanitation Services Public Map."
+      },
+      {
+        "name": "Sanitation Route Map Shared",
+        "owner": "TOMConservation1",
+        "url": "https://www.arcgis.com/home/item.html?id=b1269d2add8b4f5aa1f23011396e17d4",
+        "source_url": "https://services6.arcgis.com/7j9z34UqhFp1gapT/arcgis/rest/services/Sanitation_Route_Map_Shared/FeatureServer",
+        "updated": 1731443649000,
+        "snippet": "Proposed Sanitation Routes Updated Nov 12, 2024"
+      },
+      {
+        "name": "sanitation districts and spheres",
+        "owner": "Brent_Rolf",
+        "url": "https://www.arcgis.com/home/item.html?id=75f18dbf20c8456087564ba4b9209064",
+        "source_url": "https://services.arcgis.com/aA3snZwJfFkVyDuP/arcgis/rest/services/sanitation_districts_and_spheres/FeatureServer",
+        "updated": 1704759532000,
+        "snippet": "Sanitation Districts and their Spheres of Influence"
+      },
+      {
+        "name": "Sanitation Collection Zones",
+        "owner": "HartsvilleFire11",
+        "url": "https://www.arcgis.com/home/item.html?id=8fd2415fa566490f8535b21fd1f9a579",
+        "source_url": "https://services2.arcgis.com/8u9NYhN82FiN5n38/arcgis/rest/services/Sanitation_Collection_Zones/FeatureServer",
+        "updated": 1715285819000,
+        "snippet": "This map is a visual representation of the collection schedule practiced by the Sanitation Department when collecting trash, recycling, and yard debris. "
+      },
+      {
+        "name": "Sanitation",
+        "owner": "lsmallman_ECity",
+        "url": "https://www.arcgis.com/home/item.html?id=acf8fe0599c34bd280b18f122db0a0d4",
+        "source_url": "https://services.arcgis.com/jkjoY4K3AKme8wiO/arcgis/rest/services/Sanitation/FeatureServer",
+        "updated": 1608661524000,
+        "snippet": "Sanitation"
+      },
+      {
+        "name": "Sanitation",
+        "owner": "lsmallman_ECity",
+        "url": "https://www.arcgis.com/home/item.html?id=05d1d9404a9a4fbc90930629ef21381a",
+        "source_url": "https://services.arcgis.com/jkjoY4K3AKme8wiO/arcgis/rest/services/Sanitation/FeatureServer",
+        "updated": 1595616311000,
+        "snippet": "Yard Waste, Limbs, Recycling"
+      },
+      {
+        "name": "Sonoma Water Sanitation MH and Pipe",
+        "owner": "tgahagan@scwa.ca.gov_sonomawater",
+        "url": "https://www.arcgis.com/home/item.html?id=3906b3bd38c247518948480f2956e6fd",
+        "source_url": "https://utility.arcgis.com/usrsvcs/servers/3906b3bd38c247518948480f2956e6fd/rest/services/Sanitation/SW_SanitationCollection/FeatureServer",
+        "updated": 1754430869000,
+        "snippet": "Web Map containing basic MH and pipe location information for the seven Sonoma Water zones and districts."
+      },
+      {
+        "name": "Sanitation",
+        "owner": "avanderpas_Lewiston",
+        "url": "https://www.arcgis.com/home/item.html?id=69b4a100e2bf450b9a69e6632e22be68",
+        "source_url": "https://services5.arcgis.com/R6cBwHlkwfCfBjSM/arcgis/rest/services/Sanitation/FeatureServer",
+        "updated": 1482345554000,
+        "snippet": "City of Lewiston sanitation route base map"
+      },
+      {
+        "name": "Thief River Falls Sanitation Map",
+        "owner": "nbetland@citytrf.net",
+        "url": "https://www.arcgis.com/home/item.html?id=256a1608b3724c39ac8a7b175937d367",
+        "source_url": "https://services6.arcgis.com/PZH7SMMue6M4l4UQ/arcgis/rest/services/Thief_River_Falls_Sanitation_Map_WFL1/FeatureServer",
+        "updated": 1674752611000,
+        "snippet": "Current map of the sanitation services for the City of Thief River Falls"
+      },
+      {
+        "name": "Sanitation 2",
+        "owner": "lsmallman_ECity",
+        "url": "https://www.arcgis.com/home/item.html?id=9306e967d21e4317a7cc0a63efa6af76",
+        "source_url": "https://services.arcgis.com/jkjoY4K3AKme8wiO/arcgis/rest/services/Sanitation_2/FeatureServer",
+        "updated": 1597943335000,
+        "snippet": "Sanitation"
+      },
+      {
+        "name": "Sanitation Areas",
+        "owner": "mwassonfigis",
+        "url": "https://www.arcgis.com/home/item.html?id=c646b502eeed4e0bb22402fc06585bf0",
+        "source_url": "https://services3.arcgis.com/YQLyddqtM8cTAr6Y/arcgis/rest/services/Sanitation_Areas/FeatureServer",
+        "updated": 1763667659000,
+        "snippet": ""
+      },
+      {
+        "name": "Sanitation SIRS Loc",
+        "owner": "stpetegis",
+        "url": "https://www.arcgis.com/home/item.html?id=94614513389e4827bb9c1399e8a90b0a",
+        "source_url": "https://services2.arcgis.com/9qPLjNtocjo438CJ/arcgis/rest/services/Sanitation_SIRS_Loc_Updated/FeatureServer",
+        "updated": 1614629486000,
+        "snippet": null
+      },
+      {
+        "name": "Sanitation Layer",
+        "owner": "Grant.Timentwa@mit.muckleshoot.nsn.us_muckleshoot",
+        "url": "https://www.arcgis.com/home/item.html?id=e0e92e443962499296a998c6ae1c95d3",
+        "source_url": "https://services6.arcgis.com/gGlRS1WahxzuoQUZ/arcgis/rest/services/Sanitation_Layer/FeatureServer",
+        "updated": 1690412127000,
+        "snippet": "Muckleshoot Canoe Journey Sanitation Layers"
+      },
+      {
+        "name": "SANITATION MAP WFL1",
+        "owner": "EastPointGIS",
+        "url": "https://www.arcgis.com/home/item.html?id=8fa917d5c3e54994855962c2a8a0e76d",
+        "source_url": "https://services7.arcgis.com/CPLm4MuWYjfnA2R9/arcgis/rest/services/SANITATION_MAP_WFL1/FeatureServer",
+        "updated": 1542225545000,
+        "snippet": "SANITATION WORKFORCE MAP v1"
+      },
+      {
+        "name": "Improved Sanitation Facilities WFL1",
+        "owner": "cjn1017_myunh",
+        "url": "https://www.arcgis.com/home/item.html?id=39423f0093224e8e8823cd55d625686e",
+        "source_url": "https://services8.arcgis.com/4eSmkZn4Z1xN6dXf/arcgis/rest/services/Improved_Sanitation_Facilities_WFL1/FeatureServer",
+        "updated": 1574555871000,
+        "snippet": "Improved Sanitation"
+      },
+      {
+        "name": "Sanitation Layer view",
+        "owner": "Grant.Timentwa@mit.muckleshoot.nsn.us_muckleshoot",
+        "url": "https://www.arcgis.com/home/item.html?id=4639d93cd36d47ae8d7221854c7ccc33",
+        "source_url": "https://services6.arcgis.com/gGlRS1WahxzuoQUZ/arcgis/rest/services/Sanitation_Layer_view/FeatureServer",
+        "updated": 1683595557000,
+        "snippet": "Muckleshoot Canoe Journey Sanitation View Layers"
+      }
+    ],
+    "MyCiTi": [
+      {
+        "name": "Administrative Areas (MCS)",
+        "owner": "GIS_001",
+        "url": "https://www.arcgis.com/home/item.html?id=891da899a86f49eca3937d173453f706",
+        "source_url": "https://services1.arcgis.com/KvhR4yxUNNPvtbwc/arcgis/rest/services/AdministrativeAreas_MCS/FeatureServer",
+        "updated": 1663257200000,
+        "snippet": "Administrative Area Layers for My City Services App"
+      },
+      {
+        "name": "Addresses (MCS)",
+        "owner": "GIS_001",
+        "url": "https://www.arcgis.com/home/item.html?id=e021fa8eff3c48a6b6ec4808851565f0",
+        "source_url": "https://services1.arcgis.com/KvhR4yxUNNPvtbwc/arcgis/rest/services/AddressSearch_MCS/FeatureServer",
+        "updated": 1674753485000,
+        "snippet": "Layers to source the address search function in the Near Me widget for the My City Services App"
+      },
+      {
+        "name": "Address Search Layers (MCS)",
+        "owner": "GIS_001",
+        "url": "https://www.arcgis.com/home/item.html?id=439ff06ec514412e995e19c6af87c0ef",
+        "source_url": "https://services1.arcgis.com/KvhR4yxUNNPvtbwc/arcgis/rest/services/AddressSearchLayers_MCS/FeatureServer",
+        "updated": 1761239223000,
+        "snippet": "Address Search layers for My City Services app"
+      },
+      {
+        "name": "WaterUtilities MCS",
+        "owner": "GIS_001",
+        "url": "https://www.arcgis.com/home/item.html?id=5d8132d044c44805873115ab62f12642",
+        "source_url": "https://services1.arcgis.com/KvhR4yxUNNPvtbwc/arcgis/rest/services/WaterUtilities_MCS/FeatureServer",
+        "updated": 1663189026000,
+        "snippet": "Water Service Layers for My City Services App"
+      },
+      {
+        "name": "My City Map WFL1",
+        "owner": "barerj_carleton",
+        "url": "https://www.arcgis.com/home/item.html?id=90d263e3d5f1409bb0abca74a244e6e2",
+        "source_url": "https://services.arcgis.com/ULBqC49IEeIR01GF/arcgis/rest/services/My_City_Map_WFL1/FeatureServer",
+        "updated": 1712540004000,
+        "snippet": ""
+      },
+      {
+        "name": "My City SAR Survey",
+        "owner": "bradyhoak6",
+        "url": "https://www.arcgis.com/home/item.html?id=24574bb785c44dd99011d27f8966a1d9",
+        "source_url": "https://services5.arcgis.com/Tdv33HTcS0jkSmE1/arcgis/rest/services/service_7d5f8331c120454aa373b7a16630a02f/FeatureServer",
+        "updated": 1571178709000,
+        "snippet": null
+      },
+      {
+        "name": "Smell My City Data Consolidated",
+        "owner": "lekrau180",
+        "url": "https://www.arcgis.com/home/item.html?id=83088d144b4944d695003f77a6fab4e6",
+        "source_url": "https://services1.arcgis.com/cRvLdSPAsRupRo7I/arcgis/rest/services/Smell_My_City_Data_Consolidated/FeatureServer",
+        "updated": 1652287425000,
+        "snippet": "All layers concerned with Smell My City May deadline"
+      },
+      {
+        "name": "Construction in My City view",
+        "owner": "JOrndorff_OCSan",
+        "url": "https://www.arcgis.com/home/item.html?id=6e0347a1ecc240e588346d26ded1be6f",
+        "source_url": "https://services6.arcgis.com/XaaDWcg464CpB1DN/arcgis/rest/services/Construction_in_My_City_view/FeatureServer",
+        "updated": 1721656952000,
+        "snippet": "For OC San website showing sewer and pump station construction projects for the public."
+      }
+    ],
+    "Transport": [
+      {
+        "name": "Casa Transport",
+        "owner": "draoui_geomatic",
+        "url": "https://www.arcgis.com/home/item.html?id=a98bb5dac9d74dec9a59ed279c47b238",
+        "source_url": "https://services3.arcgis.com/hjUMsSJ87zgoicvl/arcgis/rest/services/Casa_Transport/FeatureServer",
+        "updated": 1636625414000,
+        "snippet": "transport"
+      },
+      {
+        "name": "Transport",
+        "owner": "Daniel.Byrnes_UC",
+        "url": "https://www.arcgis.com/home/item.html?id=6f57ea367f0447c89a426dbd1f19e4e3",
+        "source_url": "https://services3.arcgis.com/iR1gOFe0FlzMQ2yd/arcgis/rest/services/Transport/FeatureServer",
+        "updated": 1624000780000,
+        "snippet": "Transport"
+      },
+      {
+        "name": "Transport",
+        "owner": "Collectivite",
+        "url": "https://www.arcgis.com/home/item.html?id=de43ac1e20774aefba1d8ab2918d12db",
+        "source_url": "https://services.arcgis.com/IxBNIBPKRhNtmwFX/arcgis/rest/services/Transport/FeatureServer",
+        "updated": 1402281617000,
+        "snippet": "Transport d\u00e9partement 06"
+      },
+      {
+        "name": "APPLI METIER TRANSPORT",
+        "owner": "m.menard",
+        "url": "https://www.arcgis.com/home/item.html?id=3368823cd59a43ee8b60fb36fe289f60",
+        "source_url": "https://services.arcgis.com/wLDmHsvxROjaiPKt/arcgis/rest/services/APPLI_METIER_TRANSPORT/FeatureServer",
+        "updated": 1481625231000,
+        "snippet": "Application m\u00e9tier transport Cergy"
+      },
+      {
+        "name": "EHINZ Transport InjuryDeaths",
+        "owner": "Healthspace",
+        "url": "https://www.arcgis.com/home/item.html?id=1e3d140c3b484489b0aa187b5b8d20b4",
+        "source_url": "https://services6.arcgis.com/ZVM1rEuVZjtC1Wwk/arcgis/rest/services/EHINZ_Transport_InjuryDeaths/FeatureServer",
+        "updated": 1732741197000,
+        "snippet": "This dataset contains statistics on deaths caused by road traffic injuries in New Zealand. The data comes from the Ministry of Transport\u2019s annual road toll statistics and the New Zealand Mortality Collection. "
+      },
+      {
+        "name": "Full Stirling and Clackmannanshire Public Transport Network",
+        "owner": "gis@stirling",
+        "url": "https://www.arcgis.com/home/item.html?id=8121fa7829464786a6371cab161a1d48",
+        "source_url": "https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Full_Stirling_and_Clackmannanshire_Public_Transport_Network_view/FeatureServer",
+        "updated": 1699530064000,
+        "snippet": "Full Stirling and Clackmannanshire public transport network, incorporating public transport across road and rail travel modes, active travel opportunities, and ferry services."
+      },
+      {
+        "name": "Toute offre transport",
+        "owner": "sicoval_31",
+        "url": "https://www.arcgis.com/home/item.html?id=7e1cc48d98c94765926dc92401d6b129",
+        "source_url": "https://services.arcgis.com/cXnUYN7xWCdTSvbG/arcgis/rest/services/Toute_offre_transport/FeatureServer",
+        "updated": 1767719844000,
+        "snippet": "Toute l'offre transport publi\u00e9e au grand public"
+      },
+      {
+        "name": "Transport a\u00e9rien",
+        "owner": "geo.djaballah.mourad",
+        "url": "https://www.arcgis.com/home/item.html?id=b990a512825341abbd4e78e7eba512e9",
+        "source_url": "https://services6.arcgis.com/133a00biU9FItiqJ/arcgis/rest/services/Transport_a%C3%A9rien/FeatureServer",
+        "updated": 1689789237000,
+        "snippet": "Transport a\u00e9rien"
+      },
+      {
+        "name": "EU transport",
+        "owner": "76412_muni",
+        "url": "https://www.arcgis.com/home/item.html?id=c1306156e54b4a018ca772311216cc51",
+        "source_url": "https://services.arcgis.com/ui1VEKalYDDIAi4N/arcgis/rest/services/EU_transport/FeatureServer",
+        "updated": 1649829563000,
+        "snippet": "EU transport"
+      },
+      {
+        "name": "Vicmap Transport",
+        "owner": "GeoSavvy",
+        "url": "https://www.arcgis.com/home/item.html?id=ad5d8f4126f44d1e8497d9333b14229f",
+        "source_url": "https://services-ap1.arcgis.com/P744lA0wf4LlBZ84/arcgis/rest/services/Vicmap_Transport/FeatureServer",
+        "updated": 1762919836000,
+        "snippet": "Vicmap Transport"
+      },
+      {
+        "name": "EHINZ Transport InjuryHospitalisations",
+        "owner": "Healthspace",
+        "url": "https://www.arcgis.com/home/item.html?id=67ebe78ca3534baab79732601c786530",
+        "source_url": "https://services6.arcgis.com/ZVM1rEuVZjtC1Wwk/arcgis/rest/services/EHINZ_Transport_InjuryHospitalisations/FeatureServer",
+        "updated": 1749527529000,
+        "snippet": "Statistics for hospitalisations caused by road traffic injuries in Aotearoa New Zealand."
+      },
+      {
+        "name": "NTA - Public Transport",
+        "owner": "ianhand_osi",
+        "url": "https://www.arcgis.com/home/item.html?id=b7bb3e290c79476e9706761da2880257",
+        "source_url": "https://services1.arcgis.com/eNO7HHeQ3rUcBllm/arcgis/rest/services/NTA/FeatureServer",
+        "updated": 1566917262000,
+        "snippet": "Feature Service showing public transport routes and stops in Ireland as published by the NTA through https://data.gov.ie/data"
+      },
+      {
+        "name": "Rail Transport",
+        "owner": "deanp_BCMMGIS",
+        "url": "https://www.arcgis.com/home/item.html?id=f49efd71656047caa9cd63ca5e74a0f7",
+        "source_url": "https://services.arcgis.com/VeXHjqBHnpY8EFv9/arcgis/rest/services/Rail_Transport/FeatureServer",
+        "updated": 1592462297000,
+        "snippet": "BCMM Infrastructure, Rail Transport and Stations"
+      },
+      {
+        "name": "TRANSPORT MARITIME",
+        "owner": "cneris",
+        "url": "https://www.arcgis.com/home/item.html?id=62da92b5b0524f38be3205d3944371ed",
+        "source_url": "https://services.arcgis.com/GjgkQADsh6qwpaom/arcgis/rest/services/TRANSPORT_MARITIME/FeatureServer",
+        "updated": 1456930680000,
+        "snippet": "Lignes de transports maritimes dans la baie de Fort-de-France Martinique"
+      },
+      {
+        "name": "Rail transport risk mapping NYS",
+        "owner": "FTKaren",
+        "url": "https://www.arcgis.com/home/item.html?id=3902de17189a416c895f795063f2d52f",
+        "source_url": "https://services.arcgis.com/jDGuO8tYggdCCnUJ/arcgis/rest/services/Rail_transport_risk_mapping_NYS/FeatureServer",
+        "updated": 1424735740000,
+        "snippet": "This map shows locations of public and private schools in New York State, and is part of a project assessing population risks to crude oil rail transport."
+      },
+      {
+        "name": "Temporary Transport Stategy",
+        "owner": "GlasgowGIS",
+        "url": "https://www.arcgis.com/home/item.html?id=42aa9701c51e4fd6a1566c8b7821a40d",
+        "source_url": "https://services2.arcgis.com/Ne8d9gKn5SJ3eAaw/arcgis/rest/services/Temporary_Transport_Stategy/FeatureServer",
+        "updated": 1570787469000,
+        "snippet": "Temporary service for Transport Strategy"
+      },
+      {
+        "name": "Transport Route Options Oct 2023",
+        "owner": "CEN_Admin",
+        "url": "https://www.arcgis.com/home/item.html?id=106bb412097d41ec8434c04806627cce",
+        "source_url": "https://services2.arcgis.com/z1S7iMa3ZcbplKGG/arcgis/rest/services/Transport_Route_Options_2023_10/FeatureServer",
+        "updated": 1722287104000,
+        "snippet": "Southland Wind Farm Transport Route Options (October 2023)"
+      },
+      {
+        "name": "master stirling and clackmannanshire public transport network - open data",
+        "owner": "gis@stirling",
+        "url": "https://www.arcgis.com/home/item.html?id=977181964ef242788561a8bef5860b56",
+        "source_url": "https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Interactive_Public_Transport_Map/FeatureServer",
+        "updated": 1741479399000,
+        "snippet": "master stirling and clackmannanshire public transport network - open data : This dataset is published as Open Data. A complete Stirling and Clackmannanshire public transport network, incorporating public transport across road and rail travel modes, active travel opportunities, and ferry services."
+      },
+      {
+        "name": "Transport Hubs Hosted",
+        "owner": "GlasgowGIS",
+        "url": "https://www.arcgis.com/home/item.html?id=3fd2379c0cb84e4c8d7500493d85dc06",
+        "source_url": "https://services2.arcgis.com/Ne8d9gKn5SJ3eAaw/arcgis/rest/services/Transport_Hubs_Hosted/FeatureServer",
+        "updated": 1629195830000,
+        "snippet": "Transport Hubs including Railway Stations, Underground Stations and Bus Stops"
+      },
+      {
+        "name": "Transport urbain opendata",
+        "owner": "hukeseba",
+        "url": "https://www.arcgis.com/home/item.html?id=cdb83ddc53604ac0b570e47d78efae8e",
+        "source_url": "https://services1.arcgis.com/V9xtXbeaozrYojAm/arcgis/rest/services/Transport_urbain_opendata/FeatureServer",
+        "updated": 1516637419000,
+        "snippet": "Ce service localise les arr\u00eats de bus et les lignes de bus du r\u00e9seau de transport urbain de l'Agglom\u00e9ration spinalienne"
+      }
+    ],
+    "Police": [
+      {
+        "name": "Police",
+        "owner": "gisproc_sys",
+        "url": "https://www.arcgis.com/home/item.html?id=7e98bd44d3da4b2da8be7cba42b2a783",
+        "source_url": "https://services2.arcgis.com/G5vR3cOjh6g2Ed8E/arcgis/rest/services/Police/FeatureServer",
+        "updated": 1768823300000,
+        "snippet": "Police layers for Durham, NC"
+      },
+      {
+        "name": "Seattle Police Department CCTV",
+        "owner": "SPDGIS_Admin",
+        "url": "https://www.arcgis.com/home/item.html?id=f2116328951a46cca136553b346b12d2",
+        "source_url": "https://services.arcgis.com/ZOyb2t4B0UYuYNYH/arcgis/rest/services/Seattle_Police_Department_CCTV_Pilot_Areas/FeatureServer",
+        "updated": 1763490943000,
+        "snippet": "CCTV Camera Locations and Emphasis Area Boundaries."
+      },
+      {
+        "name": "Police Station",
+        "owner": "Richard.Tuinstra",
+        "url": "https://www.arcgis.com/home/item.html?id=56b6726874fc4e71a0f83e607f9a89e3",
+        "source_url": "https://services1.arcgis.com/GwaLJVJq0Y6voqEc/arcgis/rest/services/PoliceWiFi/FeatureServer",
+        "updated": 1580927812000,
+        "snippet": "Police WiFi"
+      },
+      {
+        "name": "Police",
+        "owner": "SteveGochenaur",
+        "url": "https://www.arcgis.com/home/item.html?id=9f5435ae014f41a3ba93270861132265",
+        "source_url": "https://services1.arcgis.com/I6XnrlnguPDoEObn/arcgis/rest/services/Police/FeatureServer",
+        "updated": 1460742724000,
+        "snippet": "Police coverage boundaries and police department locations."
+      },
+      {
+        "name": "Seattle Police Department Precinct & MCPP Boundaries",
+        "owner": "SPDGIS_Admin",
+        "url": "https://www.arcgis.com/home/item.html?id=60fc4fd0836c4259b5d607aa266edf6c",
+        "source_url": "https://services.arcgis.com/ZOyb2t4B0UYuYNYH/arcgis/rest/services/SPD_Boundaries/FeatureServer",
+        "updated": 1728856859000,
+        "snippet": "Seattle Police Department precincts and MCPP as of 2019"
+      },
+      {
+        "name": "COVID 19 POLICE STATIONS",
+        "owner": "NTGAdmin",
+        "url": "https://www.arcgis.com/home/item.html?id=19fc164bb7f6403db2407ea3aee41133",
+        "source_url": "https://services6.arcgis.com/Ctf7KokwtVwTnOnh/arcgis/rest/services/COVID_19_POLICE_STATIONS/FeatureServer",
+        "updated": 1591084891000,
+        "snippet": "COVID-19 POLICE STATIONS"
+      },
+      {
+        "name": "Police Community Patrol Zones",
+        "owner": "cocgisadmin",
+        "url": "https://www.arcgis.com/home/item.html?id=9c8223e62f5c4de1ac24b5f37fd03e0c",
+        "source_url": "https://services3.arcgis.com/4pohxs3ZXJsQTQod/arcgis/rest/services/Police_Community_Patrol_Zones/FeatureServer",
+        "updated": 1493830977000,
+        "snippet": "Police Community Patrol Zones"
+      },
+      {
+        "name": "Police Stations in Accra",
+        "owner": "pofori_atta_ugarc",
+        "url": "https://www.arcgis.com/home/item.html?id=cf4b9fe8a0394099ae0668d616467e35",
+        "source_url": "https://services2.arcgis.com/4WiMNWDUQZIvdL5U/arcgis/rest/services/Police_Maps_in_Accra/FeatureServer",
+        "updated": 1441221955000,
+        "snippet": "Police Stations"
+      },
+      {
+        "name": "MD Police",
+        "owner": "JKirkendallUMB",
+        "url": "https://www.arcgis.com/home/item.html?id=d0f507a4736d44a190ab9f70966c4cae",
+        "source_url": "https://geodata.md.gov/imap/rest/services/PublicSafety/MD_Police/FeatureServer",
+        "updated": 1586052790000,
+        "snippet": "Map service of Maryland police stations and barracks."
+      },
+      {
+        "name": "PWC Police Facilities ",
+        "owner": "PrinceWilliamCounty",
+        "url": "https://www.arcgis.com/home/item.html?id=2a6b5e653e4a4ff29d18286060f2a57c",
+        "source_url": "https://services2.arcgis.com/0Q7l03Ls62VG0fy4/arcgis/rest/services/PoliceFacilities/FeatureServer",
+        "updated": 1547139914000,
+        "snippet": "Locations of police facilities within Prince William County. "
+      },
+      {
+        "name": "Community Safety - Maryland Police Stations (MSP)",
+        "owner": "HSEMA_PPD",
+        "url": "https://www.arcgis.com/home/item.html?id=6cad4a8f2e9144f6a29e0e99b05949cf",
+        "source_url": "https://geodata.md.gov/imap/rest/services/PublicSafety/MD_Police/FeatureServer",
+        "updated": 1689010103000,
+        "snippet": "Map service of Maryland police stations and barracks."
+      },
+      {
+        "name": "police sectors all",
+        "owner": "thomas.vogel_KDPS",
+        "url": "https://www.arcgis.com/home/item.html?id=867f950bff0f4b53909ccd61bd713bbf",
+        "source_url": "https://services5.arcgis.com/oHyVM17u2FMyV4oB/arcgis/rest/services/police_sectors_all/FeatureServer",
+        "updated": 1668718573000,
+        "snippet": null
+      },
+      {
+        "name": "Lowell Police Routes",
+        "owner": "jdonovan",
+        "url": "https://www.arcgis.com/home/item.html?id=3d308a12e54742ee8905c2d40c9b67e1",
+        "source_url": "https://services1.arcgis.com/ee8aYF9sH8nrhkjZ/arcgis/rest/services/LowellPoliceRoutes/FeatureServer",
+        "updated": 1755010595000,
+        "snippet": "Lowell Police Routes"
+      },
+      {
+        "name": "Police Calls for Service (Transient Activity)",
+        "owner": "CityofEscondido",
+        "url": "https://www.arcgis.com/home/item.html?id=67f8006ec65a46b9964a0f2f164b7363",
+        "source_url": "https://services2.arcgis.com/eJcVbjTyyZIzZ5Ye/arcgis/rest/services/Police_Transient_Activity/FeatureServer",
+        "updated": 1615232566000,
+        "snippet": "Escondido Police Department calls for service related to transient activity"
+      },
+      {
+        "name": "Police Station",
+        "owner": "planning.gisonline_ladcp",
+        "url": "https://www.arcgis.com/home/item.html?id=86bc896f7bca44d195e6974bff7a2d73",
+        "source_url": "https://services1.arcgis.com/tzwalEyxl2rpamKs/arcgis/rest/services/Police_Station/FeatureServer",
+        "updated": 1580343556000,
+        "snippet": "Police Stations in the City of Los Angeles"
+      },
+      {
+        "name": "Police Map Service",
+        "owner": "jfranco33",
+        "url": "https://www.arcgis.com/home/item.html?id=20f9bed1b8e04d5c8561b1cbe774747c",
+        "source_url": "https://services2.arcgis.com/baoUryRiOxhCY0yb/arcgis/rest/services/Police_Map_Service/FeatureServer",
+        "updated": 1517239013000,
+        "snippet": "City of Lawton Police Zones"
+      },
+      {
+        "name": "Police Location Data",
+        "owner": "StrategicAnalysis",
+        "url": "https://www.arcgis.com/home/item.html?id=c2456af407be444982fd7e5df7d2b4ea",
+        "source_url": "https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Police_Location_Data/FeatureServer",
+        "updated": 1549048485000,
+        "snippet": "Police Precincts and Police Stations"
+      },
+      {
+        "name": "Police Hospitals Baltimore",
+        "owner": "kcolli43_GISandData",
+        "url": "https://www.arcgis.com/home/item.html?id=db4e76e2727e42f69b856d9c8501528d",
+        "source_url": "https://services1.arcgis.com/0MSEUqKaxRlEPj5g/arcgis/rest/services/Police_Hospitals_Baltimore/FeatureServer",
+        "updated": 1505688090000,
+        "snippet": "Police Stations and Hospitals in Baltimore City, MD. "
+      },
+      {
+        "name": "Police Transparency - Calls for Service - All Data (Dataset)",
+        "owner": "TempeData",
+        "url": "https://www.arcgis.com/home/item.html?id=d2937ee4e83140559d94080237a6e84c",
+        "source_url": "https://services.arcgis.com/lQySeXwbBg53XWDi/arcgis/rest/services/Calls_For_Service/FeatureServer",
+        "updated": 1760118920000,
+        "snippet": "This feature layer represents a consolidated dataset of police calls for service requests in the City of Tempe. This dataset contains multiple layers to reflect differences in reporting systems and to improve performance when working with large volumes of records. For more context, please see the detailed description below."
+      },
+      {
+        "name": "School to Police",
+        "owner": "psaulenas",
+        "url": "https://www.arcgis.com/home/item.html?id=175be3e01b7e4d30b4292f5e7d517b1d",
+        "source_url": "https://services3.arcgis.com/tBDgogHFnygSRyLU/arcgis/rest/services/School%20to%20Police/FeatureServer",
+        "updated": 1490633227000,
+        "snippet": "Feature layer generated from Find Nearest"
+      }
+    ],
+    "Fire Station": [
+      {
+        "name": "Fire Station Search",
+        "owner": "BramptonMaps",
+        "url": "https://www.arcgis.com/home/item.html?id=3dc15d4e2fc14a50ab1359793074b8d2",
+        "source_url": "https://services3.arcgis.com/rl7ACuZkiFsmDA2g/arcgis/rest/services/Fire_Station_Search/FeatureServer",
+        "updated": 1611088157000,
+        "snippet": "Layers for fire station search WebApp"
+      },
+      {
+        "name": "Proposed Fire Station Response Time",
+        "owner": "debruitj1",
+        "url": "https://www.arcgis.com/home/item.html?id=1e556313765049c19777d4f66c606e7e",
+        "source_url": "https://services8.arcgis.com/deR2GmCznCnyAVvu/arcgis/rest/services/Proposed_Fire_Station_Response_Time/FeatureServer",
+        "updated": 1648653072000,
+        "snippet": "Response time analysis for a proposed fire station on McMarthy/Champion."
+      },
+      {
+        "name": "Fire & Rescue Fire Station Survey",
+        "owner": "CalOESFire_DM",
+        "url": "https://www.arcgis.com/home/item.html?id=a2f301b9e72e41228bcef099682f0983",
+        "source_url": "https://services.arcgis.com/BLN4oKB0N1YSgvY8/arcgis/rest/services/service_8769f95704ac4da8b4e8d73d055def4a/FeatureServer",
+        "updated": 1679517981000,
+        "snippet": "Statewide inventory of fire and rescue resources collected from every California fire station"
+      },
+      {
+        "name": "Fire Incidents By Station",
+        "owner": "kingstonarcgisadmin",
+        "url": "https://www.arcgis.com/home/item.html?id=83ea060a01634eac99addbc239188db5",
+        "source_url": "https://services1.arcgis.com/5GRYvurYYUwAecLQ/arcgis/rest/services/FireIncidentsByStation2/FeatureServer",
+        "updated": 1738685779000,
+        "snippet": "This dataset contains information about incidents attended by Kingston Fire & Rescue since 2016. The data are organized by Fire Station."
+      },
+      {
+        "name": "Fire Stations",
+        "owner": "justinjwalker",
+        "url": "https://www.arcgis.com/home/item.html?id=13c355ff0aeb4d599cbe93b28748080a",
+        "source_url": "https://services2.arcgis.com/IBzYhBCRzaU95bKO/arcgis/rest/services/Fire_Stations/FeatureServer",
+        "updated": 1411046845000,
+        "snippet": "Map of the Hospitals, Landing Zones, and Fire Stations"
+      },
+      {
+        "name": "Fire Station Districts",
+        "owner": "ncreedon@uaoh.net_UAOH",
+        "url": "https://www.arcgis.com/home/item.html?id=aa10a2ea2ab04d259bb165e9ee95fc86",
+        "source_url": "https://services5.arcgis.com/ImL8oyfZuCxsvjaT/arcgis/rest/services/Hydrant_and_Fire_Station_Districts/FeatureServer",
+        "updated": 1727703497000,
+        "snippet": "Hydrant and Fire Station Districts"
+      },
+      {
+        "name": "Fire Station Response",
+        "owner": "dduncan_hemet",
+        "url": "https://www.arcgis.com/home/item.html?id=29a736a965c1425188914c7a274044b8",
+        "source_url": "https://services3.arcgis.com/czrgcV6qkPuBJCRH/arcgis/rest/services/Fire_Station_Response/FeatureServer",
+        "updated": 1692804558000,
+        "snippet": "Fire Station Response Areas"
+      },
+      {
+        "name": "Map of 10 minute drive time to a Coon Rapids Fire Station",
+        "owner": "CityOfCoonRapids_GIS",
+        "url": "https://www.arcgis.com/home/item.html?id=0d9412b009bd4a5f90b8f734dea4f3e9",
+        "source_url": "https://services5.arcgis.com/B4M0GvwRaKduZ9Wo/arcgis/rest/services/Map_of_10_minute_drive_time_to_a_Coon_Rapids_Fire_Station_WFL1/FeatureServer",
+        "updated": 1724867449000,
+        "snippet": "Drive time analysis run for Sunday August 31 at 3 am."
+      },
+      {
+        "name": "\uc804\uad6d \uc18c\ubc29\uc11c \ubc0f \uc548\uc804\uc13c\ud130 / Korea Fire Station and Substation",
+        "owner": "Esri_KR_Content",
+        "url": "https://www.arcgis.com/home/item.html?id=5ad7143528da4520b8b9a78ddc38ee70",
+        "source_url": "https://portal.esrikr.com/arcgis/rest/services/Hosted/KR_FireStation/FeatureServer",
+        "updated": 1768374048000,
+        "snippet": "\ud589\uc815\uc548\uc804\ubd80\uc5d0\uc11c \uc81c\uacf5\ud558\ub294 \ubbfc\uc6d0\ud589\uc815\uae30\uad00 \uc804\uc790\uc9c0\ub3c4, \uacf5\uacf5\ub370\uc774\ud130\ud3ec\ud138\uc758 \uc18c\ubc29\uccad \uc18c\ubc29\uc11c, 119\uc548\uc804\uc13c\ud130 \uc8fc\uc18c\ub97c \ubc14\ud0d5\uc73c\ub85c \uc9c0\uc624\ucf54\ub529\ud558\uc5ec \uc704\uce58\ub97c \ub098\ud0c0\ub0b4\ub294 \ub808\uc774\uc5b4\uc785\ub2c8\ub2e4. This layer is point data of geocoded locations based on addresses of fire stations, 119 emergency centers for South Korea downloaded from Ministry of Interior and Safety and Public Data Portal."
+      },
+      {
+        "name": "Fire",
+        "owner": "Mary.Martin@accgov.com_AthensClarke",
+        "url": "https://www.arcgis.com/home/item.html?id=88a84b2fcb374ac59c7051ce2875e9d1",
+        "source_url": "https://services2.arcgis.com/xSEULKvB31odt3XQ/arcgis/rest/services/Fire/FeatureServer",
+        "updated": 1711727950000,
+        "snippet": "Athens-Clarke County fire station and service area locations."
+      },
+      {
+        "name": "Nigeria Fire Station WFL1",
+        "owner": "sgnl_eyakubu",
+        "url": "https://www.arcgis.com/home/item.html?id=1302e3aa5c254c1c8830c7edbc8aefc4",
+        "source_url": "https://services1.arcgis.com/m9p5y180BqMf6JT7/arcgis/rest/services/Nigeria_Fire_Station_WFL1/FeatureServer",
+        "updated": 1705595002000,
+        "snippet": "This is a map showing some fire station points in NIgeria. "
+      },
+      {
+        "name": "Routes to Fire Station",
+        "owner": "whlui1",
+        "url": "https://www.arcgis.com/home/item.html?id=172e4f031f664159bab8c4113e2cb474",
+        "source_url": "https://services5.arcgis.com/xH8UmTNerx1qYfXM/arcgis/rest/services/Routes_to_Fire_Station/FeatureServer",
+        "updated": 1618343284000,
+        "snippet": "Feature layer generated from Plan Routes"
+      },
+      {
+        "name": "Fire Station layers",
+        "owner": "GEOinovoSolutions",
+        "url": "https://www.arcgis.com/home/item.html?id=c6430fb2b81d45268c8d992ec7f9ba7c",
+        "source_url": "https://services9.arcgis.com/ybzFD1uUTRhdICj1/arcgis/rest/services/GEOinovoSolutions_Fire_Station_layers/FeatureServer",
+        "updated": 1717453535000,
+        "snippet": ""
+      },
+      {
+        "name": "Fire Station 22 GIS Layers",
+        "owner": "Timothy.Eubanks@tucsonaz.gov_cotgis",
+        "url": "https://www.arcgis.com/home/item.html?id=13049c5310634368923f07b52438bafd",
+        "source_url": "https://services3.arcgis.com/9coHY2fvuFjG9HQX/arcgis/rest/services/Fire_Station_22_GIS_Layers/FeatureServer",
+        "updated": 1725583303000,
+        "snippet": ""
+      },
+      {
+        "name": "Cosumnes CSD Fire Station Locations: Layer File",
+        "owner": "MarcGisler",
+        "url": "https://www.arcgis.com/home/item.html?id=6bea27f120f74d6cab22b164c88060af",
+        "source_url": "https://services2.arcgis.com/kC7o6Onzcn1qsIwk/arcgis/rest/services/Cosumnes_CSD_Fire_Station_Locations_Web_App_WFL1/FeatureServer",
+        "updated": 1730399942000,
+        "snippet": "Cosumnes CSD Fire Station Locations: Layer File"
+      },
+      {
+        "name": "Fire Hub",
+        "owner": "gisadmin_cityofreno",
+        "url": "https://www.arcgis.com/home/item.html?id=f0b5576def5a47d495c92ce3f125b08f",
+        "source_url": "https://services5.arcgis.com/RjM4BJrv5ZkqP4XC/arcgis/rest/services/Fire_Hub/FeatureServer",
+        "updated": 1768814229000,
+        "snippet": "Feature layer containing Regional Fire Stations and Fire Station Boundaries. Available for download from City of Reno GIS Open Data Hub at https://data-cityofreno.opendata.arcgis.com"
+      },
+      {
+        "name": "Nearest Buildings in 500 Year Floodplain from the County Fire Station Annapolis ",
+        "owner": "nbaren1",
+        "url": "https://www.arcgis.com/home/item.html?id=30423dfd3dba4bf39ea694264d6357ef",
+        "source_url": "https://services1.arcgis.com/FLgshDLgxaIsVNWq/arcgis/rest/services/Nearest%20Buildings_FiveHundredYear_Floodplain_Annapolis%20to%20County%20Fire%20Stations/FeatureServer",
+        "updated": 1481485686000,
+        "snippet": "Connecting lines and nearest buildings in the 500 year floodplain in Annapolis from the County Fire Station. Analysis Feature Service generated from Find Nearest"
+      },
+      {
+        "name": "Nearest Buildings in 100 Year Floodplain from the County Fire Station Annapolis",
+        "owner": "nbaren1",
+        "url": "https://www.arcgis.com/home/item.html?id=dcfb43af13dd469b9f6c80e3ca630351",
+        "source_url": "https://services1.arcgis.com/FLgshDLgxaIsVNWq/arcgis/rest/services/Nearest%20Buildings_HundredYear_Floodplain_Annapolis%20to%20County%20Fire%20Stations/FeatureServer",
+        "updated": 1481487038000,
+        "snippet": "Connecting lines and nearest buildings in the 100 year floodplain in Annapolis from the County Fire Station. Analysis Feature Service generated from Find Nearest"
+      },
+      {
+        "name": "Inter Township Fire Station - Owen Sound",
+        "owner": "Loomex_AGOL",
+        "url": "https://www.arcgis.com/home/item.html?id=157660685e3747c0b09310feaf75a919",
+        "source_url": "https://services1.arcgis.com/wE2uWQWlTTnVDgyt/arcgis/rest/services/Grey_County_Reference_Layers_-_Open_Data/FeatureServer",
+        "updated": 1742918995000,
+        "snippet": "Public service locations in Grey County"
+      },
+      {
+        "name": "Nearest Buildings in Community Flood Risk Areas from the County Fire Station Annapolis",
+        "owner": "nbaren1",
+        "url": "https://www.arcgis.com/home/item.html?id=d0fcd6114ea34fc5acc74326e50bbb7b",
+        "source_url": "https://services1.arcgis.com/FLgshDLgxaIsVNWq/arcgis/rest/services/Nearest%20buildings_floodrisk_areas_annapolis%20to%20County%20Fire%20Stations/FeatureServer",
+        "updated": 1481486301000,
+        "snippet": "Connecting lines and nearest buildings in the Community Flood Risk Areas in Annapolis from the County Fire Station. Analysis Feature Service generated from Find Nearest"
+      }
+    ],
+    "Clinic": [
+      {
+        "name": "Clinic Panic Buttons",
+        "owner": "entrjess",
+        "url": "https://www.arcgis.com/home/item.html?id=17f9924a332e43ea886b21fc55717dd7",
+        "source_url": "https://services1.arcgis.com/z5tlnpYHokW9isdE/arcgis/rest/services/Clinic_Panic_Buttons/FeatureServer",
+        "updated": 1660314500000,
+        "snippet": "This shows the rooms where panic buttons are located in the clinic area of ISU's Meridian campus. This map is designed for internal use."
+      },
+      {
+        "name": "HOSPITAL CLINIC",
+        "owner": "Syafuan_5123",
+        "url": "https://www.arcgis.com/home/item.html?id=52c3aa65a96047c0ac4b8b866c6c2578",
+        "source_url": "https://services5.arcgis.com/2ZRAaoTSJbQ20ceg/arcgis/rest/services/HOSPITAL_CLINIC/FeatureServer",
+        "updated": 1480510293000,
+        "snippet": "HOSPITAL"
+      },
+      {
+        "name": "Clinic Web Layer",
+        "owner": "Dylan.Petersen_WKKF",
+        "url": "https://www.arcgis.com/home/item.html?id=2f9fec1fc003453dbf67379c64d11ac7",
+        "source_url": "https://services5.arcgis.com/LZ4OoSCijnlgkZex/arcgis/rest/services/Clinic_Web_Layer/FeatureServer",
+        "updated": 1594335883000,
+        "snippet": "Clinic Web Layer"
+      },
+      {
+        "name": "PetWell Clinic",
+        "owner": "lczire_HRRetail",
+        "url": "https://www.arcgis.com/home/item.html?id=3214e43270a847e09eef0457057e6aca",
+        "source_url": "https://services7.arcgis.com/Zb4O2iaRvsbTmu4i/arcgis/rest/services/lczire_HRRetail_BA_Exported_Map_10/FeatureServer",
+        "updated": 1642685449000,
+        "snippet": "PetWell Clinic Rockville, MD Location"
+      },
+      {
+        "name": "medical clinic layers",
+        "owner": "Raman@kleingroup.com_CCIM",
+        "url": "https://www.arcgis.com/home/item.html?id=dba61a7d104b4cee8e0024e89881befb",
+        "source_url": "https://services2.arcgis.com/82iS1Pc7dgs3LFZv/arcgis/rest/services/Raman_kleingroup_com_CCIM_medical_clinic/FeatureServer",
+        "updated": 1763231481000,
+        "snippet": ""
+      },
+      {
+        "name": "Summarize Fertility Clinic Survey 2021 within JoinACSST5Y2019to tl 2019 us cbsa",
+        "owner": "mmcgari2_GISandData",
+        "url": "https://www.arcgis.com/home/item.html?id=08206155761446b098fdd5c84569f905",
+        "source_url": "https://services1.arcgis.com/0MSEUqKaxRlEPj5g/arcgis/rest/services/Summarize_Fertility_Clinic_Survey_2021_within_JoinACSST5Y2019to_tl_2019_us_cbsa/FeatureServer",
+        "updated": 1613929716000,
+        "snippet": "Feature layer generated from Summarize Within"
+      },
+      {
+        "name": "Summarize Metro Bus Stops in Urgent Care Clinic locations quartmile",
+        "owner": "fjm57_georgetownuniv",
+        "url": "https://www.arcgis.com/home/item.html?id=105d7c21fc994f57ad5c9260ba91af4a",
+        "source_url": "https://services3.arcgis.com/vQ3OYhyPnynK3Zqb/arcgis/rest/services/Summarize_Metro_Bus_Stops_in_Urgent_Care_Clinic_locations_quartmile/FeatureServer",
+        "updated": 1582517527000,
+        "snippet": "Feature layer generated from Summarize Nearby"
+      },
+      {
+        "name": "Summarize Metro Bus Stops in Urgent Care Clinic locations 2",
+        "owner": "fjm57_georgetownuniv",
+        "url": "https://www.arcgis.com/home/item.html?id=b59f99095e3745fba5701ba80dc65894",
+        "source_url": "https://services3.arcgis.com/vQ3OYhyPnynK3Zqb/arcgis/rest/services/Summarize_Metro_Bus_Stops_in_Urgent_Care_Clinic_locations_2/FeatureServer",
+        "updated": 1582517001000,
+        "snippet": "Feature layer generated from Summarize Nearby"
+      },
+      {
+        "name": "Nearest Hospitals and Medical Centers to free low cost clinic 1",
+        "owner": "tgalvez_lahubcom",
+        "url": "https://www.arcgis.com/home/item.html?id=839814d9d2b94f6087cd0098749fc2f7",
+        "source_url": "https://services9.arcgis.com/2ynJbr9BE17vXxR8/arcgis/rest/services/Nearest_Hospitals_and_Medical_Centers_to_free_low_cost_clinic_1/FeatureServer",
+        "updated": 1650430704000,
+        "snippet": "Feature layer generated from Find Nearest"
+      },
+      {
+        "name": "Metro Bus Stops within 0 25mi walk CVS Minute Clinic locations",
+        "owner": "fjm57_georgetownuniv",
+        "url": "https://www.arcgis.com/home/item.html?id=8ac1d48ffbd44c0a9217b200af56207c",
+        "source_url": "https://services3.arcgis.com/vQ3OYhyPnynK3Zqb/arcgis/rest/services/Metro_Bus_Stops_within_0_25mi_walk_CVS_Minute_Clinic_locations/FeatureServer",
+        "updated": 1582572485000,
+        "snippet": "Feature layer generated from Summarize Nearby"
+      },
+      {
+        "name": "Summarize Metro Bus Stops in CVS Minute Clinic locations quart mile",
+        "owner": "fjm57_georgetownuniv",
+        "url": "https://www.arcgis.com/home/item.html?id=94a7278618ba429b91d8186ae1289692",
+        "source_url": "https://services3.arcgis.com/vQ3OYhyPnynK3Zqb/arcgis/rest/services/Summarize_Metro_Bus_Stops_in_CVS_Minute_Clinic_locations_quart_mile/FeatureServer",
+        "updated": 1582519126000,
+        "snippet": "Feature layer generated from Summarize Nearby"
+      },
+      {
+        "name": "Columbia Parc to Health Clinic",
+        "owner": "FrizzelleCPC",
+        "url": "https://www.arcgis.com/home/item.html?id=991cea7ac0be4dd8a31fffcc88457095",
+        "source_url": "https://services.arcgis.com/ycIuRaoIC4UuCDAS/arcgis/rest/services/Columbia_Parc_to_Health_Clinic/FeatureServer",
+        "updated": 1521657956000,
+        "snippet": "Walking route from Columbia Parc to Ochsner Health Clinic"
+      },
+      {
+        "name": "Metro Bus Stops within 0 5mi walk of CVS Minute Clinic locations",
+        "owner": "fjm57_georgetownuniv",
+        "url": "https://www.arcgis.com/home/item.html?id=975bc097ce6f404fab9fe2eeb511d3f3",
+        "source_url": "https://services3.arcgis.com/vQ3OYhyPnynK3Zqb/arcgis/rest/services/Metro_Bus_Stops_within_0_5mi_walk_of_CVS_Minute_Clinic_locations/FeatureServer",
+        "updated": 1582572600000,
+        "snippet": "Feature layer generated from Summarize Nearby"
+      },
+      {
+        "name": "Clinic Indoor Viewer Map WFL1",
+        "owner": "pau12975@esri.com_healthgis",
+        "url": "https://www.arcgis.com/home/item.html?id=c82144c2dab04ec3bc6f13a18b9aa9ea",
+        "source_url": "https://services2.arcgis.com/cPVqgcKAQtE6xCja/arcgis/rest/services/Clinic_Indoor_Viewer_Map_WFL1/FeatureServer",
+        "updated": 1693241645000,
+        "snippet": "Demo Clinic Viewer Map"
+      },
+      {
+        "name": "PA Mammography Clinic Study LB WFL1",
+        "owner": "lyena.birkenstock",
+        "url": "https://www.arcgis.com/home/item.html?id=c0498b45ebc04f54aad0820fa5c18323",
+        "source_url": "https://services1.arcgis.com/CtMjdUqInecbPao9/arcgis/rest/services/PA_Mammography_Clinic_Study_LB_WFL1/FeatureServer",
+        "updated": 1614531316000,
+        "snippet": "Assignment 8 PA Mammography Clinics vs. Female Population"
+      },
+      {
+        "name": "Professional Referrals   Clinic  20152023  US",
+        "owner": "amenclinics",
+        "url": "https://www.arcgis.com/home/item.html?id=852b5cea2aef446886bc46d61c44aea6",
+        "source_url": "https://services3.arcgis.com/8SLJwQJGLgs2nV2I/arcgis/rest/services/Professional_Referrals___Clinic__20152023__US/FeatureServer",
+        "updated": 1716486283000,
+        "snippet": "known professional referrals clinic 2013-2023 "
+      },
+      {
+        "name": "Summarize Metro Bus Stops in Urgent Care Clinic locations quart mile 2",
+        "owner": "fjm57_georgetownuniv",
+        "url": "https://www.arcgis.com/home/item.html?id=62cd54da40334fd0b0b73441bd519968",
+        "source_url": "https://services3.arcgis.com/vQ3OYhyPnynK3Zqb/arcgis/rest/services/Summarize_Metro_Bus_Stops_in_Urgent_Care_Clinic_locations_quart_mile_2/FeatureServer",
+        "updated": 1582518921000,
+        "snippet": "Feature layer generated from Summarize Nearby"
+      },
+      {
+        "name": "PA Mammography Clinic Study DorothyTang WFL1",
+        "owner": "Dorothy.Tang",
+        "url": "https://www.arcgis.com/home/item.html?id=e464d7aecaaf465e89f30cf6a55a22ca",
+        "source_url": "https://services1.arcgis.com/CtMjdUqInecbPao9/arcgis/rest/services/PA_Mammography_Clinic_Study_DorothyTang_WFL1/FeatureServer",
+        "updated": 1614378724000,
+        "snippet": "Number of mammography clinics by ZIP code in Pennsylvania compared to number of females 40-74 by ZIP code"
+      },
+      {
+        "name": "Metro Bus Stops within 0 5mi walk of Urgent Care Clinic locations 2",
+        "owner": "fjm57_georgetownuniv",
+        "url": "https://www.arcgis.com/home/item.html?id=efee98d3ce1142978b1cfedd38b31a74",
+        "source_url": "https://services3.arcgis.com/vQ3OYhyPnynK3Zqb/arcgis/rest/services/Metro_Bus_Stops_within_0_5mi_walk_of_Urgent_Care_Clinic_locations_2/FeatureServer",
+        "updated": 1582572305000,
+        "snippet": "Feature layer generated from Summarize Nearby"
+      },
+      {
+        "name": "Metro Bus Stops within 0 25mi walk of Urgent Care Clinic locations 2",
+        "owner": "fjm57_georgetownuniv",
+        "url": "https://www.arcgis.com/home/item.html?id=e26b28ac45df4d16ae18c7d5a362abd3",
+        "source_url": "https://services3.arcgis.com/vQ3OYhyPnynK3Zqb/arcgis/rest/services/Metro_Bus_Stops_within_0_25mi_walk_of_Urgent_Care_Clinic_locations_2/FeatureServer",
+        "updated": 1582572060000,
+        "snippet": "Feature layer generated from Summarize Nearby"
+      }
+    ],
+    "School": [
+      {
+        "name": "School HFL Collection",
+        "owner": "cgst_csungis",
+        "url": "https://www.arcgis.com/home/item.html?id=b556d43e50f844d68298e3221944a991",
+        "source_url": "https://services6.arcgis.com/4XnW0LugjJEsZM3v/arcgis/rest/services/School_HFL_Collection/FeatureServer",
+        "updated": 1652311372000,
+        "snippet": "Contains layers for elementary, secondary, and unified school districts in the five county study area"
+      },
+      {
+        "name": "School Districts",
+        "owner": "ITWLR_hanovercounty",
+        "url": "https://www.arcgis.com/home/item.html?id=b7b5e150e3b44b59aa4b02994ba24fa3",
+        "source_url": "https://services2.arcgis.com/sKZWgJlU6SekCzQV/arcgis/rest/services/School_Districts/FeatureServer",
+        "updated": 1603307666000,
+        "snippet": "Displays Hanover school zones."
+      },
+      {
+        "name": "School Boundaries Map",
+        "owner": "douglakg",
+        "url": "https://www.arcgis.com/home/item.html?id=5896ba255d5b4fe2914edb1eb9a07ff4",
+        "source_url": "https://services.arcgis.com/MnSL3OxrZYrc6w4v/arcgis/rest/services/School_Boundaries_Map/FeatureServer",
+        "updated": 1626367925000,
+        "snippet": "Rock Island/Milan School Boundaries"
+      },
+      {
+        "name": "School",
+        "owner": "logoliberation",
+        "url": "https://www.arcgis.com/home/item.html?id=c9be3aafc8f84db7a7638cce0cf6d0de",
+        "source_url": "https://services2.arcgis.com/6Miy5NqQWjMYTGFY/arcgis/rest/services/School/FeatureServer",
+        "updated": 1442176844000,
+        "snippet": "School location and proficiency index data for the Portland, OR metro region."
+      },
+      {
+        "name": "CherryHill School Districts",
+        "owner": "JHainsworth_cherryhill_nj",
+        "url": "https://www.arcgis.com/home/item.html?id=55a3fc923bf24b30b52062acbdee01d9",
+        "source_url": "https://services5.arcgis.com/UFyA9soK8NRbWhx7/arcgis/rest/services/CherryHill_School_Districts/FeatureServer",
+        "updated": 1488983945000,
+        "snippet": "Cherry Hill Township School District Boundaries"
+      },
+      {
+        "name": "Lawrence School Website",
+        "owner": "GTPDD",
+        "url": "https://www.arcgis.com/home/item.html?id=4b2b6d13093d419cbf8fa079f26f2d10",
+        "source_url": "https://services2.arcgis.com/kQPfxbSKhIDcSFXL/arcgis/rest/services/Lawrence_School_Website/FeatureServer",
+        "updated": 1687879023000,
+        "snippet": "Lawrence School District"
+      },
+      {
+        "name": "Administrative Elementary School Boundary",
+        "owner": "MatSuBorough",
+        "url": "https://www.arcgis.com/home/item.html?id=ab3fecccf3dc46af9d038d5b2d167147",
+        "source_url": "https://services.arcgis.com/fX5IGselyy1TirdY/arcgis/rest/services/MSBSD_Elementary_FindMySchool_07172019/FeatureServer",
+        "updated": 1745451369000,
+        "snippet": "This data supports the MSBSD Find My Schools Application.  Contains school registration boundaries and related school points.\n\nLast Updated on 07-17-2019"
+      },
+      {
+        "name": "Schools Zones and School Locations",
+        "owner": "rbthayer_Henrico",
+        "url": "https://www.arcgis.com/home/item.html?id=65ea5c9cb6674364864a976084896cbe",
+        "source_url": "https://services.arcgis.com/LxWK4CxNTBBlLshT/arcgis/rest/services/Schools_zones/FeatureServer",
+        "updated": 1696527147000,
+        "snippet": "Henrico County School Zones and locations"
+      },
+      {
+        "name": "school sheriff geofence",
+        "owner": "baltimore_city",
+        "url": "https://www.arcgis.com/home/item.html?id=07161cfc0a6a43178907d92915e87931",
+        "source_url": "https://services1.arcgis.com/UWYHeuuJISiGmgXx/arcgis/rest/services/school_sheriff_geofence/FeatureServer",
+        "updated": 1422559765000,
+        "snippet": "school sheriff geofence"
+      },
+      {
+        "name": "School District",
+        "owner": "WylieTx_GIS",
+        "url": "https://www.arcgis.com/home/item.html?id=64a1a95b966a4bebaf4c779e15535116",
+        "source_url": "https://services7.arcgis.com/6qzfxgiNv7oGnzvU/arcgis/rest/services/School_District/FeatureServer",
+        "updated": 1648647688000,
+        "snippet": "Mapping and Analysis"
+      },
+      {
+        "name": "School Board November 2022",
+        "owner": "rajahmail",
+        "url": "https://www.arcgis.com/home/item.html?id=602629216ae148239b2d3675681f8d67",
+        "source_url": "https://services5.arcgis.com/S0KaTKb4QgwASoQS/arcgis/rest/services/School_Board_November_2022/FeatureServer",
+        "updated": 1669543147000,
+        "snippet": "School board"
+      },
+      {
+        "name": "School District Education",
+        "owner": "kgoodeCFRPA",
+        "url": "https://www.arcgis.com/home/item.html?id=d0beaddd21434969ac294fabc5c847ca",
+        "source_url": "https://services5.arcgis.com/UP048envsuas7q4h/arcgis/rest/services/School_District_Education/FeatureServer",
+        "updated": 1733430527000,
+        "snippet": "Data Source: PA Department of Education & 2022 ACS 5-Year Estimates, U.S. Census Bureau"
+      },
+      {
+        "name": "School Attendance Boundaries",
+        "owner": "CityofRocklin",
+        "url": "https://www.arcgis.com/home/item.html?id=4b03f1811d4140239930da2a4e715357",
+        "source_url": "https://utility.arcgis.com/usrsvcs/servers/4b03f1811d4140239930da2a4e715357/rest/services/Hosted/School_Attendance_Boundaries/FeatureServer",
+        "updated": 1758922693000,
+        "snippet": "School attendance boundaries within the City of Rocklin. "
+      },
+      {
+        "name": "School Districts Boundary",
+        "owner": "geonb_admin",
+        "url": "https://www.arcgis.com/home/item.html?id=0ec02e2ef4254f9e8c4e7a7cea9aeea1",
+        "source_url": "https://geonb-t.snb.ca/arcgis/rest/services/GeoNB_ENB_SchoolDistricts/FeatureServer",
+        "updated": 1676648931000,
+        "snippet": "New Brunswick Anglophone School Districts/Districts scolaires anglophones du Nouveau -Brunswick"
+      },
+      {
+        "name": "School Systems",
+        "owner": "RenvilleCounty",
+        "url": "https://www.arcgis.com/home/item.html?id=732d5d31c7e54eb5885986315f04b686",
+        "source_url": "https://gis.renvillecountymn.gov/arcgis/rest/services/SchoolSystems/FeatureServer",
+        "updated": 1706634673000,
+        "snippet": "The published representation of the school district boundaries and the educational facilities of Renville County."
+      },
+      {
+        "name": "Public School Boundaries",
+        "owner": "Asir.Khan_MarionCountyFL",
+        "url": "https://www.arcgis.com/home/item.html?id=fce49d062aa64732b61f8c6fd9c0c2a8",
+        "source_url": "https://services1.arcgis.com/oMGpBoZpy1Db2sAl/arcgis/rest/services/Public_School_Boundaries/FeatureServer",
+        "updated": 1694787364000,
+        "snippet": "Boundaries for public schools in Marion County, FL"
+      },
+      {
+        "name": "U.S. School Districts",
+        "owner": "waldenka",
+        "url": "https://www.arcgis.com/home/item.html?id=b0fa08167e474ed9ad90c344cd35d10a",
+        "source_url": "https://services1.arcgis.com/aPXzI1wanSZRiYh1/arcgis/rest/services/Nyden_School_District_Layers/FeatureServer",
+        "updated": 1571078869000,
+        "snippet": "School District Layers (Elementary, Secondary, Unified) from the U.S. Census Bureau"
+      },
+      {
+        "name": "Nearest Surrey Transit Routes to Secondary School",
+        "owner": "geog351fa21_zha51",
+        "url": "https://www.arcgis.com/home/item.html?id=77fdc0ad10fb495b9aa20a2ea26a79c4",
+        "source_url": "https://services.arcgis.com/E5vyYQKPMX5X3R3H/arcgis/rest/services/Nearest_Surrey_Transit_Routes_to_Secondary_School/FeatureServer",
+        "updated": 1636960638000,
+        "snippet": "Feature layer generated from Find Nearest"
+      },
+      {
+        "name": "Iowa School Buildings",
+        "owner": "education_iowa",
+        "url": "https://www.arcgis.com/home/item.html?id=af92090370284a1794bb8373980092b2",
+        "source_url": "https://services.arcgis.com/vPD5PVLI6sfkZ5E4/arcgis/rest/services/IowaSchoolBldgs/FeatureServer",
+        "updated": 1743034629000,
+        "snippet": "Iowa Public and Private K-12 School Buildings - maintained by the Iowa Department of Education - updated 3/26/2025"
+      },
+      {
+        "name": "Fauquier County School Districts DL",
+        "owner": "dan.stell",
+        "url": "https://www.arcgis.com/home/item.html?id=13a2ec3e1dd74be481e6eb7541985526",
+        "source_url": "https://gis-agol.fauquiercounty.gov/arcgis/rest/services/WebMapServices/Fauquier_County_School_Districts_DL/FeatureServer",
+        "updated": 1674761030000,
+        "snippet": "Fauquier County School Districts for download."
+      }
+    ],
+    "Flood": [
+      {
+        "name": "Flood 2006",
+        "owner": "eparsons3878",
+        "url": "https://www.arcgis.com/home/item.html?id=47d72b5d03304b76b115e56d7c453e39",
+        "source_url": "https://services6.arcgis.com/8d73jg7hu4OPnp1F/arcgis/rest/services/Flood_2006/FeatureServer",
+        "updated": 1718651234000,
+        "snippet": "2006 Flood Zone Data"
+      },
+      {
+        "name": "FEMA Flood Zones 2016 Proposed",
+        "owner": "jcenteno",
+        "url": "https://www.arcgis.com/home/item.html?id=dc42dc2d3ebd4c3dbd678eb7cf0617c5",
+        "source_url": "https://services.arcgis.com/5iWzb1srkjPDXmpL/arcgis/rest/services/FEMA_Flood_Zones_2016_Proposed/FeatureServer",
+        "updated": 1522697028000,
+        "snippet": "FEMA Flood Zones 2016 Proposed"
+      },
+      {
+        "name": "WCC Flood Hazard Layers",
+        "owner": "wwl_rbuchanan",
+        "url": "https://www.arcgis.com/home/item.html?id=024f4f191df04da5b4b07a4a6d7fbbd0",
+        "source_url": "https://services7.arcgis.com/2ECs938g489DMWjt/arcgis/rest/services/WCC_Flood_Hazard_Layers/FeatureServer",
+        "updated": 1668372985000,
+        "snippet": "WCC Flood Hazard Layers - streams, inundation extent, and overland flow paths."
+      },
+      {
+        "name": "Flood Polygons",
+        "owner": "Sigurd_Olson",
+        "url": "https://www.arcgis.com/home/item.html?id=074e631d6e18499ba8f842c488b71249",
+        "source_url": "https://services5.arcgis.com/QwKU2m39zaSlQgLF/arcgis/rest/services/Flood_Polygons/FeatureServer",
+        "updated": 1490833145000,
+        "snippet": "Flood Extent Polygons"
+      },
+      {
+        "name": "FEMA Flood",
+        "owner": "SantaBarbaraCountyFire",
+        "url": "https://www.arcgis.com/home/item.html?id=c3cd4dc477c14d2c8965de76e8864b28",
+        "source_url": "https://services.arcgis.com/12ZpLdNBJek66bmF/arcgis/rest/services/FEMA_Flood/FeatureServer",
+        "updated": 1567025669000,
+        "snippet": "FEMA"
+      },
+      {
+        "name": "FEMA Flood Hazard",
+        "owner": "EauClaireCo",
+        "url": "https://www.arcgis.com/home/item.html?id=9c90911586ea485cb6e8ca286189300b",
+        "source_url": "https://gis.co.eau-claire.wi.us/agsserver/rest/services/FEMA/FEMA_Flood_Hazard/FeatureServer",
+        "updated": 1579904355000,
+        "snippet": "FEMA National Flood Hazard Layer"
+      },
+      {
+        "name": "FEMA Flood Insurance Map",
+        "owner": "Sharlena",
+        "url": "https://www.arcgis.com/home/item.html?id=c9c38b58bd3a44c1ba152b606efc3373",
+        "source_url": "https://services1.arcgis.com/XhE4Nx2bBPScQrhF/arcgis/rest/services/FEMA_Flood_Insurance_Map/FeatureServer",
+        "updated": 1690306944000,
+        "snippet": "FEMA Flood Insurance Map"
+      },
+      {
+        "name": "Flood Data June 2024",
+        "owner": "wrajamaica_GOJ",
+        "url": "https://www.arcgis.com/home/item.html?id=c593e300819b4ac2820766b6e34cf8a1",
+        "source_url": "https://services6.arcgis.com/3R3y1KXaPJ9BFnsU/arcgis/rest/services/Flood_Data_June_2024/FeatureServer",
+        "updated": 1719853963000,
+        "snippet": "Digitized Flood Data from Flood Events"
+      },
+      {
+        "name": "Flood Risk Modeling",
+        "owner": "CityofRoseville",
+        "url": "https://www.arcgis.com/home/item.html?id=0e0d89c491d64a31a91213d3de2b5d72",
+        "source_url": "https://services1.arcgis.com/yIZWbv8PF0WADSXn/arcgis/rest/services/PotentialFloodModeling/FeatureServer",
+        "updated": 1748889306000,
+        "snippet": "Flood risk modeling boundary with associated attributes."
+      },
+      {
+        "name": "TRF Flood Layer",
+        "owner": "nbetland@citytrf.net",
+        "url": "https://www.arcgis.com/home/item.html?id=406c139cf0494b4c9c0576bd56867a19",
+        "source_url": "https://services6.arcgis.com/PZH7SMMue6M4l4UQ/arcgis/rest/services/TRF_Flood_Layer/FeatureServer",
+        "updated": 1675374341000,
+        "snippet": "This feature layer contains the flood plain layer along with sites identified as damaged due to the FEMA flood declaration for the spring of 2022."
+      },
+      {
+        "name": "Flood Zone",
+        "owner": "Ocala_GIS",
+        "url": "https://www.arcgis.com/home/item.html?id=7a5f03b5b5744f998c29e6e5f84162a2",
+        "source_url": "https://gis.ocalafl.org/arcgis/rest/services/Public/Flood/FeatureServer",
+        "updated": 1744725725000,
+        "snippet": "Flood Zone data provided by FEMA."
+      },
+      {
+        "name": "JC flood model",
+        "owner": "missouri_dnr",
+        "url": "https://www.arcgis.com/home/item.html?id=628fc156ea8e4e2b9837a7ffda9b3cf7",
+        "source_url": "https://services8.arcgis.com/RPgcHScWtnrsNIP7/arcgis/rest/services/JC_flood_model/FeatureServer",
+        "updated": 1559767698000,
+        "snippet": "Flood models generated from LiDAR for the Jefferson City area "
+      },
+      {
+        "name": "Public Flood Survey Layers",
+        "owner": "chrcgis",
+        "url": "https://www.arcgis.com/home/item.html?id=64988409a646454386c090ed913f040b",
+        "source_url": "https://services3.arcgis.com/ktIX0lbLK1PjSHV8/arcgis/rest/services/Public_Flood_Survey_Layers/FeatureServer",
+        "updated": 1511738075000,
+        "snippet": "Public_Flood_Survey_Layers"
+      },
+      {
+        "name": "Flood Control District Facilities",
+        "owner": "Ryan_Hunsicker",
+        "url": "https://www.arcgis.com/home/item.html?id=e99faad3c40741e3bc16f3e8013f089e",
+        "source_url": "https://services.arcgis.com/ZZ0KZXZVmgB1v555/arcgis/rest/services/Flood_Control_District_Facilities/FeatureServer",
+        "updated": 1597177229000,
+        "snippet": null
+      },
+      {
+        "name": "2050 MHHW Flood, 1%",
+        "owner": "KitsapCountyDCD",
+        "url": "https://www.arcgis.com/home/item.html?id=a5709cde65104f71a4fd608e9e360c24",
+        "source_url": "https://services1.arcgis.com/W83ZJWdj5f1f4WwG/arcgis/rest/services/2050_MHHW_Apr25/FeatureServer",
+        "updated": 1750708801000,
+        "snippet": "SLR - 2050 MHHW Flood, 1%"
+      },
+      {
+        "name": "2050 MHHW Flood, 50%",
+        "owner": "KitsapCountyDCD",
+        "url": "https://www.arcgis.com/home/item.html?id=2f4a52ce05ba4815809010c1676d1aca",
+        "source_url": "https://services1.arcgis.com/W83ZJWdj5f1f4WwG/arcgis/rest/services/2050_MHHW_Apr25/FeatureServer",
+        "updated": 1750708827000,
+        "snippet": "SLR - 2050 MHHW Flood, 50%"
+      },
+      {
+        "name": "Flood Georgetown Gauge 5 7 Feet",
+        "owner": "HSEMA_PPD",
+        "url": "https://www.arcgis.com/home/item.html?id=81dd715931804c189f618a34ab3bef82",
+        "source_url": "https://services.arcgis.com/neT9SoYxizqTHZPH/arcgis/rest/services/Flood_Georgetown_Gauge_5_7_Feet/FeatureServer",
+        "updated": 1766505703000,
+        "snippet": "Map showing possible flooding in the District of Columbia based on 5.7 feet of flooding at the Georgetown flood gauge."
+      },
+      {
+        "name": "2050 MHHW Flood, 90%",
+        "owner": "KitsapCountyDCD",
+        "url": "https://www.arcgis.com/home/item.html?id=e712a96ce84a448383ab5fe71ada164d",
+        "source_url": "https://services1.arcgis.com/W83ZJWdj5f1f4WwG/arcgis/rest/services/2050_MHHW_Apr25/FeatureServer",
+        "updated": 1750708849000,
+        "snippet": "SLR - 2050 MHHW Flood, 90%"
+      },
+      {
+        "name": "Flood hazard2",
+        "owner": "BECQ_Publisher",
+        "url": "https://www.arcgis.com/home/item.html?id=e70eb8f978864757bdca4ee09e476293",
+        "source_url": "https://services.arcgis.com/qchgHH9IIeiivY5M/arcgis/rest/services/Flood_hazard2/FeatureServer",
+        "updated": 1461623744000,
+        "snippet": "Test service for possible flood hazard reports in CNMI citizen science app"
+      },
+      {
+        "name": "NRW Flood Risk from Rivers",
+        "owner": "geospatial.data_nrw",
+        "url": "https://www.arcgis.com/home/item.html?id=c90e3d590f914fcd82588e4433a84020",
+        "source_url": "https://services.arcgis.com/hQoYDJEEJMaPw8Sy/arcgis/rest/services/NRW_Flood_Risk_from_Rivers/FeatureServer",
+        "updated": 1595840640000,
+        "snippet": "Flood Risk from Rivers"
+      }
+    ],
+    "Coastal": [
+      {
+        "name": "Coastal",
+        "owner": "benta_kuniversity",
+        "url": "https://www.arcgis.com/home/item.html?id=6eba9299214a48bda2c4437d3f992ff4",
+        "source_url": "https://services1.arcgis.com/Kw7jGaBPiN3WUAmT/arcgis/rest/services/Coastal/FeatureServer",
+        "updated": 1647933908000,
+        "snippet": "Coastal Region"
+      },
+      {
+        "name": "Coastal Sites Species",
+        "owner": "dwhitley78",
+        "url": "https://www.arcgis.com/home/item.html?id=a1e521b5cf4a4d51b58b36f099b0862c",
+        "source_url": "https://services1.arcgis.com/lDFzr3JyGEn5Eymu/arcgis/rest/services/Coastal_Sites_Species/FeatureServer",
+        "updated": 1469650586000,
+        "snippet": "Sites identified by Atlantic Coastal PM as priority based on species' data"
+      },
+      {
+        "name": "Ridge and Coastal Trails",
+        "owner": "zstanley_parksconservancy",
+        "url": "https://www.arcgis.com/home/item.html?id=65944b6583c7486881ef0e0988b02f77",
+        "source_url": "https://services5.arcgis.com/tdQLEzq0fgVElWN3/arcgis/rest/services/Ridge_and_Coastal_Trails/FeatureServer",
+        "updated": 1476970621000,
+        "snippet": "Coastal and Ridge Trail"
+      },
+      {
+        "name": "Southern Maine Coastal Public Access Sites",
+        "owner": "melissa.britsch@maine.gov_maine",
+        "url": "https://www.arcgis.com/home/item.html?id=c00d482abafa490ab3b027ed3390852a",
+        "source_url": "https://services1.arcgis.com/RbMX0mRVOFNTdLzd/arcgis/rest/services/Southern_Maine_Sites_040425/FeatureServer",
+        "updated": 1757958833000,
+        "snippet": "Southern Maine Public Coastal Access Sites"
+      },
+      {
+        "name": "WALTON Coastal Data",
+        "owner": "Rachel_STC",
+        "url": "https://www.arcgis.com/home/item.html?id=aa43caa01f5d4c56a115c4bd844375a6",
+        "source_url": "https://services5.arcgis.com/XDpoW8lLscMx0xwE/arcgis/rest/services/WALTON_Coastal_Data/FeatureServer",
+        "updated": 1573140858000,
+        "snippet": "Coastal data for Walton County, FL includes parcels, parks, CCCL and beach access sites."
+      },
+      {
+        "name": "NYC Coastal Erosion Hazard Areas",
+        "owner": "nycem_adminpub",
+        "url": "https://www.arcgis.com/home/item.html?id=1396831360a14107b02621d9ab8dbfda",
+        "source_url": "https://services1.arcgis.com/8cuieNI8NbqQZQVJ/arcgis/rest/services/NY_DEC_CEHA/FeatureServer",
+        "updated": 1709582301000,
+        "snippet": "Coastal Erosion Hazard Areas of NYC based off of maps issued by DEC"
+      },
+      {
+        "name": "Coastal and Marine Data",
+        "owner": "dangermond_preserve@tnc.org_TNC",
+        "url": "https://www.arcgis.com/home/item.html?id=d5ac4b816ec0466aabb04b2f5f53c87c",
+        "source_url": "https://services.arcgis.com/F7DSX1DSNSiWmOqh/arcgis/rest/services/Coastal_and_Marine/FeatureServer",
+        "updated": 1713544009000,
+        "snippet": "Marine data in the region surrounding the Dangermond Preserve, Santa Barbara (and adjacent) county."
+      },
+      {
+        "name": "Coastal Health Report master data outputs",
+        "owner": "Thomas.Campion_scrc",
+        "url": "https://www.arcgis.com/home/item.html?id=98c6e9ba711c4deabcc1631c8af6d64c",
+        "source_url": "https://services3.arcgis.com/NvTosUQn3ZE5keno/arcgis/rest/services/Coastal_Health_Report_master_data_outputs/FeatureServer",
+        "updated": 1694562490000,
+        "snippet": "Coastal Health Report master data outputs"
+      },
+      {
+        "name": "Alaska Coastal Profiles",
+        "owner": "keith.horen@alaska.gov_SOA_DNR",
+        "url": "https://www.arcgis.com/home/item.html?id=5806e702648b4c9aaf8d971a1bba9113",
+        "source_url": "https://services1.arcgis.com/7HDiw78fcUiM2BWn/arcgis/rest/services/Alaska_Coastal_Profiles/FeatureServer",
+        "updated": 1765829638000,
+        "snippet": "This data set was created as a means to organize and provide public access to spatial data sets within the state of Alaska's coastal zone."
+      },
+      {
+        "name": "Coastal Bedrock Geology",
+        "owner": "DAERA_OpenContent",
+        "url": "https://www.arcgis.com/home/item.html?id=a818bd537d854296851186fcb1df2090",
+        "source_url": "https://services-eu1.arcgis.com/kswen6BYexuc1SUk/arcgis/rest/services/Bedrock_Geology/FeatureServer",
+        "updated": 1715852235000,
+        "snippet": "A Northern Ireland wide coastal geological dataset, detailing the bedrock geology."
+      },
+      {
+        "name": "Coastal Plain  (United States) ",
+        "owner": "Georgeanne.Hribar.GaDOE",
+        "url": "https://www.arcgis.com/home/item.html?id=5f729d6f62d74e03808247e7fa1c6e77",
+        "source_url": "https://services4.arcgis.com/grZq8OsvG4UPYeTp/arcgis/rest/services/usphysical2/FeatureServer",
+        "updated": 1720055021000,
+        "snippet": "Shows the location of the coatal plain in the United States."
+      },
+      {
+        "name": "Coastal Development",
+        "owner": "paul.nihell",
+        "url": "https://www.arcgis.com/home/item.html?id=0bb7e7ab064f4a4290ee0bf8ef39abe7",
+        "source_url": "https://services3.arcgis.com/arG2UzeMsqPNJzQ1/arcgis/rest/services/Coastal_Development/FeatureServer",
+        "updated": 1695121022000,
+        "snippet": "Coastal Development September 2023"
+      },
+      {
+        "name": "Buurtgemeentes Coastal District",
+        "owner": "geoinformatie",
+        "url": "https://www.arcgis.com/home/item.html?id=a2da995480004a26b63ad3bcd5ad8b68",
+        "source_url": "https://services7.arcgis.com/b8OtZx5E96LVMxxJ/arcgis/rest/services/Buurtgemeentes_Coastal_District/FeatureServer",
+        "updated": 1603972843000,
+        "snippet": "Grens Coastal District t.b.v. Storymap Coastal District"
+      },
+      {
+        "name": "MGS Coastal Barrier Resources System",
+        "owner": "Christian.H.Halsted@maine.gov_maine",
+        "url": "https://www.arcgis.com/home/item.html?id=eb62aee2646a4f1d83a605faca651df1",
+        "source_url": "https://services1.arcgis.com/RbMX0mRVOFNTdLzd/arcgis/rest/services/MGS_Coastal_Barrier_Resources_System/FeatureServer",
+        "updated": 1739198225000,
+        "snippet": "This dataset displays the Coastal Barrier Resources System areas defined by Maine statute (Title 38, Chapter 21, \u00a71901-1905) that are in addition to the CBRS areas in Maine defined by the U.S. Fish and Wildlife Service.  The Coastal Barrier Resources Act (CBRA) of 1982 and subsequent amendments established the John H. Chafee Coastal Barrier Resources System (CBRS). The CBRS consists of relatively undeveloped coastal barriers and other areas located the Atlantic, Gulf of Mexico, Great Lakes, U.S. Virgin Islands, and Puerto Rico coasts."
+      },
+      {
+        "name": "coastal data",
+        "owner": "nurulainni",
+        "url": "https://www.arcgis.com/home/item.html?id=8c71fc05ef774a69afa3e3e428e5cdca",
+        "source_url": "https://services1.arcgis.com/nVWwjvpMI42bNRMF/arcgis/rest/services/coastal_data/FeatureServer",
+        "updated": 1595239317000,
+        "snippet": null
+      },
+      {
+        "name": "Coastal V2",
+        "owner": "nurulainni",
+        "url": "https://www.arcgis.com/home/item.html?id=e60c36a3db314c6d9af92227ba3347ba",
+        "source_url": "https://services1.arcgis.com/nVWwjvpMI42bNRMF/arcgis/rest/services/Coastal_V2/FeatureServer",
+        "updated": 1697961525000,
+        "snippet": "ver 2"
+      },
+      {
+        "name": "Coastal Area and Boundary Polygon",
+        "owner": "deepgis",
+        "url": "https://www.arcgis.com/home/item.html?id=7a2a7364bd5d47d696e82c3d1a8360e2",
+        "source_url": "https://services1.arcgis.com/FjPcSmEFuDYlIdKC/arcgis/rest/services/Coastal_Area_Boundary_Polygon/FeatureServer",
+        "updated": 1688410148000,
+        "snippet": "Coastal Area & Boundary Polygon"
+      },
+      {
+        "name": "Coastal Final WFL1",
+        "owner": "SGRC_GIS",
+        "url": "https://www.arcgis.com/home/item.html?id=1f83e45fd4f8484581bae8227b1ea825",
+        "source_url": "https://services1.arcgis.com/Ug5xGQbHsD8zuZzM/arcgis/rest/services/Coastal_Final_WFL1/FeatureServer",
+        "updated": 1694197026000,
+        "snippet": "Coastal Web Map"
+      },
+      {
+        "name": "Coastal Natural Character",
+        "owner": "ecangisteam",
+        "url": "https://www.arcgis.com/home/item.html?id=7e1b82c9ebc64e20a3a05d10f7a4f8db",
+        "source_url": "https://services1.arcgis.com/RNxkQaMWQcgbiF98/arcgis/rest/services/Coastal_Natural_Character/FeatureServer",
+        "updated": 1730408220000,
+        "snippet": "Coastal Natural Character layer for the Regional Policy Statement 2024"
+      },
+      {
+        "name": "Coastal Resilience FGDB",
+        "owner": "shon.zimmerman",
+        "url": "https://www.arcgis.com/home/item.html?id=efd8dce22bcf438f82bc7d0536614c46",
+        "source_url": "https://services7.arcgis.com/F8VN7MYN9lP1oiiV/arcgis/rest/services/CoastResilx_gdb/FeatureServer",
+        "updated": 1634065217000,
+        "snippet": null
+      }
+    ],
+    "Land Use": [
+      {
+        "name": "Future Land Use",
+        "owner": "Kerik",
+        "url": "https://www.arcgis.com/home/item.html?id=8ea59650865f44f0abe85c10b93ea53a",
+        "source_url": "https://services1.arcgis.com/jwbgoAzqzCbiJmg4/arcgis/rest/services/Future_Land_Use/FeatureServer",
+        "updated": 1766760352000,
+        "snippet": "Future land use in the City of Novi."
+      },
+      {
+        "name": "Land Use",
+        "owner": "PAEPublisher1",
+        "url": "https://www.arcgis.com/home/item.html?id=489a2b3a82c047b68fb8e7c6d18d9118",
+        "source_url": "https://services1.arcgis.com/o2uOINLfbzW2zEYE/arcgis/rest/services/Land_Use/FeatureServer",
+        "updated": 1721795766000,
+        "snippet": "Land Use in 2018 and 2021 in the City of Port Adelaide Enfield"
+      },
+      {
+        "name": "Land Use Layers",
+        "owner": "HRG_JV_Admin",
+        "url": "https://www.arcgis.com/home/item.html?id=1c6d50058b9c492c9c7c8dd0a45d37ae",
+        "source_url": "https://utility.arcgis.com/usrsvcs/servers/1c6d50058b9c492c9c7c8dd0a45d37ae/rest/services/CA_JurupaValley/Jurupa_Valley_Land_Use_Layers/FeatureServer",
+        "updated": 1695327969000,
+        "snippet": null
+      },
+      {
+        "name": "Land Use",
+        "owner": "Putnam_County_NY",
+        "url": "https://www.arcgis.com/home/item.html?id=b09cdb27185a4f0eaeae13a1e2f7b0c7",
+        "source_url": "https://services2.arcgis.com/dU6jdOIkCUj2UDe9/arcgis/rest/services/Land_Use/FeatureServer",
+        "updated": 1759778111000,
+        "snippet": "Parcel-based Land Use (2024-25)"
+      },
+      {
+        "name": "Existing land use",
+        "owner": "hoferdy",
+        "url": "https://www.arcgis.com/home/item.html?id=02d9145883c349db86dc90521a648847",
+        "source_url": "https://services.arcgis.com/LBbVDC0hKPAnLRpO/arcgis/rest/services/Existing_land_use/FeatureServer",
+        "updated": 1511956792000,
+        "snippet": "Charlotte Land Use 2015"
+      },
+      {
+        "name": "Land Use Restrictions2",
+        "owner": "TMantegna@tampaairport.com_flytpa",
+        "url": "https://www.arcgis.com/home/item.html?id=1469b41d5cdd48c0964d3d01f6ae8edd",
+        "source_url": "https://services5.arcgis.com/YTApDBs0YanBdxkq/arcgis/rest/services/Land_Use_Restrictions2/FeatureServer",
+        "updated": 1700884843000,
+        "snippet": "Chapter 333 Land Use Review"
+      },
+      {
+        "name": "RSM Exist Land Use Map",
+        "owner": "gitwestpublisher",
+        "url": "https://www.arcgis.com/home/item.html?id=4468c844e6b74f44905d54eb9cc170b5",
+        "source_url": "https://services1.arcgis.com/q8sarOko6mCDwiGm/arcgis/rest/services/RSM_Exist_Land_Use_Map/FeatureServer",
+        "updated": 1756412137000,
+        "snippet": "RSM Land Use"
+      },
+      {
+        "name": "General Land Use",
+        "owner": "Jesse.Miller.JDE",
+        "url": "https://www.arcgis.com/home/item.html?id=fd91067a4eb84de2bc5c22458d6fa982",
+        "source_url": "https://services1.arcgis.com/nSnGtAgSmNZcvEzK/arcgis/rest/services/General_Land_Use/FeatureServer",
+        "updated": 1635265443000,
+        "snippet": "Cedar City General Land Use"
+      },
+      {
+        "name": "Land Use Designations OCP2040",
+        "owner": "DOS_GIS",
+        "url": "https://www.arcgis.com/home/item.html?id=b453ef8f9d404f45bfe8fcbca22ce4ec",
+        "source_url": "https://services.arcgis.com/YCM10gnCAvCoAhpj/arcgis/rest/services/Land_Use_Designations_OCP2040/FeatureServer",
+        "updated": 1687362417000,
+        "snippet": "OCP2040 Land Use"
+      },
+      {
+        "name": "Land Use Hosted",
+        "owner": "egagoladmin_elkmap",
+        "url": "https://www.arcgis.com/home/item.html?id=5b76fed04ec24a80bd824769cc67b10d",
+        "source_url": "https://services1.arcgis.com/r6QlyAADl0kfhp1m/arcgis/rest/services/Land_Use_Hosted/FeatureServer",
+        "updated": 1712186058000,
+        "snippet": "Land Use Hosted"
+      },
+      {
+        "name": "Ballard Land Use and Zoning",
+        "owner": "JD_Admin",
+        "url": "https://www.arcgis.com/home/item.html?id=a7dd995616c546dc8965f60ed1bacff0",
+        "source_url": "https://services1.arcgis.com/nSnGtAgSmNZcvEzK/arcgis/rest/services/Ballard_Land_Use_and_Zoning/FeatureServer",
+        "updated": 1463432971000,
+        "snippet": "Ballard City land use and zoning"
+      },
+      {
+        "name": "Future Land Use Concept 3",
+        "owner": "dparry",
+        "url": "https://www.arcgis.com/home/item.html?id=a28c03877e834ec7b96c28247a43ff47",
+        "source_url": "https://services2.arcgis.com/gyfpgFh2Wj2gglYD/arcgis/rest/services/Future_Land_Use_Concept_3/FeatureServer",
+        "updated": 1568217231000,
+        "snippet": "Future land use map for Hoytsville, UT concept 3"
+      },
+      {
+        "name": "LandUse",
+        "owner": "kingcity",
+        "url": "https://www.arcgis.com/home/item.html?id=e609bc76f2bb4d46be6845234991aa14",
+        "source_url": "https://services8.arcgis.com/NsUn9YuPFCjrkDe3/arcgis/rest/services/LandUse_3e8fde658c3541b680c8deb6a6369cc3/FeatureServer",
+        "updated": 1607974296000,
+        "snippet": "Current and proposed land use classifications sometimes defined at the parcel level and designed to guide future community development actions."
+      },
+      {
+        "name": "UM Land Use and Materials",
+        "owner": "brimcel_umich",
+        "url": "https://www.arcgis.com/home/item.html?id=f2379fa2f3b44822a036648499bd8066",
+        "source_url": "https://services1.arcgis.com/4ezfu5dIwH83BUNL/arcgis/rest/services/UM_Land_Use_and_Materials/FeatureServer",
+        "updated": 1751978175000,
+        "snippet": "University of Michigan land use and materials at ground-level"
+      },
+      {
+        "name": "General Land Use",
+        "owner": "dmp_com",
+        "url": "https://www.arcgis.com/home/item.html?id=71e91e2513db429db79d631ea2d5af20",
+        "source_url": "https://gis.medfordmaps.org/arcgis/rest/services/Public/LandUsePlanning_Service/MapServer/10",
+        "updated": 1477434371000,
+        "snippet": null
+      },
+      {
+        "name": "LAND USE - Land Use",
+        "owner": "adam_perschon_coalition",
+        "url": "https://www.arcgis.com/home/item.html?id=c194ae2c0fe1466c86417486f6ea88ed",
+        "source_url": "https://services5.arcgis.com/Mc2lczOZGUNC7Ov5/arcgis/rest/services/LAND_USE_Land_Use/FeatureServer",
+        "updated": 1712076129000,
+        "snippet": "Land use data"
+      },
+      {
+        "name": "Land Use Inventory for Northeastern Illinois 2020",
+        "owner": "chant.mwrd",
+        "url": "https://www.arcgis.com/home/item.html?id=de0225b51efe4e6e898d0c81edc3f8c7",
+        "source_url": "https://services5.arcgis.com/LcMXE3TFhi1BSaCY/arcgis/rest/services/LUI20_geodatabase_v1_CMAP/FeatureServer",
+        "updated": 1767038640000,
+        "snippet": "The Land Use Inventory for Northeastern Illinois is produced by the Chicago Metropolitan Agency for Planning (CMAP) in 2020."
+      },
+      {
+        "name": "LandUse public",
+        "owner": "kingcity",
+        "url": "https://www.arcgis.com/home/item.html?id=139f1744011d4318bc9dcc8c215247c9",
+        "source_url": "https://services8.arcgis.com/NsUn9YuPFCjrkDe3/arcgis/rest/services/LandUse_public_9f23a63f299048ec9e9819b32a2211a1/FeatureServer",
+        "updated": 1578090698000,
+        "snippet": "A public view of current and proposed land use classifications sometimes defined at the parcel level and designed to guide future community development actions."
+      },
+      {
+        "name": "Pella Land Use Planning Public",
+        "owner": "pellaelec1",
+        "url": "https://www.arcgis.com/home/item.html?id=bda2f3c1c8f54ac2a63e44fea013c3dc",
+        "source_url": "https://services7.arcgis.com/gw2LC2HdjEQbBIyL/arcgis/rest/services/Pella_Land_Use_Planning_Public/FeatureServer",
+        "updated": 1723213052000,
+        "snippet": "Pella Land Use Planning Public View Layer"
+      },
+      {
+        "name": "Existing Land Use",
+        "owner": "JimboWilliams2",
+        "url": "https://www.arcgis.com/home/item.html?id=369b096194c34cec9ddc63272ea423e7",
+        "source_url": "https://services2.arcgis.com/PGv0SS9sE3M9RybT/arcgis/rest/services/Existing_Land_Use/FeatureServer",
+        "updated": 1637013352000,
+        "snippet": "City of Horseshoe Bay existing land use GIS layers."
+      }
+    ]
+  },
+  "WCG": {
+    "Health Facilities": [
+      {
+        "name": "hiv health facilities",
+        "owner": "pramudhiarta@unfpa.org_UNFPAPDP",
+        "url": "https://www.arcgis.com/home/item.html?id=0472d0ab9da8412b8054550c0986e258",
+        "source_url": "https://services5.arcgis.com/aQMqya7Haac8J82d/arcgis/rest/services/hiv_health_facilities/FeatureServer",
+        "updated": 1626087322000,
+        "snippet": "hiv health facilities"
+      },
+      {
+        "name": "Medic Health Facilities",
+        "owner": "MscSecondYear1",
+        "url": "https://www.arcgis.com/home/item.html?id=ca7387765ae84eb2a4fe744e5be17747",
+        "source_url": "https://services2.arcgis.com/4WiMNWDUQZIvdL5U/arcgis/rest/services/Medic_Health_Facilities/FeatureServer",
+        "updated": 1594068148000,
+        "snippet": "Medical Stores and Health Facilities"
+      },
+      {
+        "name": "Medical Health Facilities",
+        "owner": "MscSecondYear7",
+        "url": "https://www.arcgis.com/home/item.html?id=b3d9de9b57404089bdbdef7c934366d8",
+        "source_url": "https://services2.arcgis.com/4WiMNWDUQZIvdL5U/arcgis/rest/services/Medical_Health_Facilities/FeatureServer",
+        "updated": 1594068093000,
+        "snippet": "Medical Stores and health facilities in Ghana"
+      },
+      {
+        "name": "Health Facilities (public)",
+        "owner": "GISAdmin",
+        "url": "https://www.arcgis.com/home/item.html?id=592593d6185044769888e14acd603a80",
+        "source_url": "https://gis.peoriacounty.gov/arcgis/rest/services/OpioidAwarenessMaps/HealthFacilities_public/FeatureServer",
+        "updated": 1650998378000,
+        "snippet": "A public view of drug treatment, mental health, homelessness, and other health and human services facilities."
+      },
+      {
+        "name": "Health Facilities in Kenya",
+        "owner": "dmuthami_davacc",
+        "url": "https://www.arcgis.com/home/item.html?id=fbf3921ddb35464c9fc8288fee10fece",
+        "source_url": "https://services8.arcgis.com/FQbr5p5T7GjUGPDK/arcgis/rest/services/Health_Facilities_in_Kenya/FeatureServer",
+        "updated": 1637698616000,
+        "snippet": "Health Facilities in Kenya Categorized as Lab, Pharmacy and Service"
+      },
+      {
+        "name": "Health Facilities PriscillaDjaba",
+        "owner": "MscFirstYear3",
+        "url": "https://www.arcgis.com/home/item.html?id=ebefd5f27d8a40c19cec69bef7d4a604",
+        "source_url": "https://services2.arcgis.com/4WiMNWDUQZIvdL5U/arcgis/rest/services/Health_Facilities_PriscillaDjaba/FeatureServer",
+        "updated": 1595605060000,
+        "snippet": "This is a map project to map out health facilities in my vicinity"
+      },
+      {
+        "name": "Nearest New Health Facilities (Points) to Bauchi Maternal Health Facilities",
+        "owner": "shareem22",
+        "url": "https://www.arcgis.com/home/item.html?id=342f414255e84ff493b704a915cc35c8",
+        "source_url": "https://services8.arcgis.com/oTalEaSXAuyNT7xf/arcgis/rest/services/Nearest_New_Health_Facilities_(Points)_to_Bauchi_Maternal_Health_Facilities/FeatureServer",
+        "updated": 1674490648000,
+        "snippet": "Feature layer generated from Find Nearest"
+      },
+      {
+        "name": "Ebola Liberia Health Facilities 2010",
+        "owner": "davidjhealy",
+        "url": "https://www.arcgis.com/home/item.html?id=62ca1e37f0a34f1898c0902d9110fd21",
+        "source_url": "https://services.arcgis.com/pwNwIGBE7M7VOXjQ/arcgis/rest/services/Ebola_Liberia_Health_Facilities_2010/FeatureServer",
+        "updated": 1417466371000,
+        "snippet": "Liberia Health Facilities, 2010"
+      },
+      {
+        "name": "Proximity of Health Facilities to Conflict Points",
+        "owner": "Sontine",
+        "url": "https://www.arcgis.com/home/item.html?id=287c96883d0f44769ba0daeb272530ae",
+        "source_url": "https://services8.arcgis.com/oTalEaSXAuyNT7xf/arcgis/rest/services/Proximity_of_Health_Facilities_to_Conflict_Points/FeatureServer",
+        "updated": 1688553212000,
+        "snippet": "Feature layer generated from Find Nearest"
+      },
+      {
+        "name": "Nearest Maiduguri IDP Sites to Maiduguri Health Facilities",
+        "owner": "s1078798_ZGIS",
+        "url": "https://www.arcgis.com/home/item.html?id=9ada49f31a0d4959933977969b0add04",
+        "source_url": "https://services.arcgis.com/Sf0q24s0oDKgX14j/arcgis/rest/services/Nearest_Maiduguri_IDP_Sites_to_Maiduguri_Health_Facilities/FeatureServer",
+        "updated": 1603747637000,
+        "snippet": "Feature layer generated from Find Nearest"
+      },
+      {
+        "name": "Summarize Bauchi Maternal Health Facilities within Bauchi Layer",
+        "owner": "shareem22",
+        "url": "https://www.arcgis.com/home/item.html?id=f27445b7735d4eeb9a1ed5af9c4b6551",
+        "source_url": "https://services8.arcgis.com/oTalEaSXAuyNT7xf/arcgis/rest/services/Summarize_Bauchi_Maternal_Health_Facilities_within_Bauchi_Layer/FeatureServer",
+        "updated": 1674482366000,
+        "snippet": "Feature layer generated from Summarize Within"
+      },
+      {
+        "name": "Aggregation of Nigeria Health Facilities to Bauchi Layer",
+        "owner": "shareem22",
+        "url": "https://www.arcgis.com/home/item.html?id=31bff5b4d1354d36bdd5ed5d4e86b3ca",
+        "source_url": "https://services8.arcgis.com/oTalEaSXAuyNT7xf/arcgis/rest/services/Aggregation_of_Nigeria_Health_Facilities_to_Bauchi_Layer/FeatureServer",
+        "updated": 1674405284000,
+        "snippet": "Feature layer generated from Aggregate Points"
+      },
+      {
+        "name": "Proximity of Health Facilities to Where Boko Hram Attacked in 2015",
+        "owner": "Sontine",
+        "url": "https://www.arcgis.com/home/item.html?id=c4517ac0bb75407e9ad09a775f3530e5",
+        "source_url": "https://services8.arcgis.com/oTalEaSXAuyNT7xf/arcgis/rest/services/Proximity_of_Health_Facilities_to_Where_Boko_Hram_Attacked_in_2015/FeatureServer",
+        "updated": 1688551814000,
+        "snippet": "Feature layer generated from Find Nearest"
+      },
+      {
+        "name": "Proximity of Health Facilities Areas Hot Spot Areas Attacked by Boko Haram",
+        "owner": "Sontine",
+        "url": "https://www.arcgis.com/home/item.html?id=7ccf1f0362b443e7b5bdb7e90aa3ec90",
+        "source_url": "https://services8.arcgis.com/oTalEaSXAuyNT7xf/arcgis/rest/services/Proximity_of_Health_Facilities_Areas_Hot_Spot_Areas_Attacked_by_Boko_Haram/FeatureServer",
+        "updated": 1688551658000,
+        "snippet": "Feature layer generated from Find Nearest"
+      },
+      {
+        "name": "AMA Health Facilities",
+        "owner": "amoahjacob282_ugarc",
+        "url": "https://www.arcgis.com/home/item.html?id=82d0a5fcc194425f9eab1705e1fedc2a",
+        "source_url": "https://services2.arcgis.com/4WiMNWDUQZIvdL5U/arcgis/rest/services/AMA_Health_Facilities/FeatureServer",
+        "updated": 1566397048000,
+        "snippet": "AMA Health Facilities"
+      },
+      {
+        "name": "Health Facilities layers",
+        "owner": "clyons@carthage.edu_CarthageCollege",
+        "url": "https://www.arcgis.com/home/item.html?id=17e6b2a8d23f4c3b8cc3692d73160c1b",
+        "source_url": "https://services1.arcgis.com/DRYt3fps0uMvIxeE/arcgis/rest/services/clyons_carthage_edu_CarthageCollege_Health_Fa/FeatureServer",
+        "updated": 1765504736000,
+        "snippet": null
+      },
+      {
+        "name": "Ethiopia - Health data",
+        "owner": "esite_unhcr",
+        "url": "https://www.arcgis.com/home/item.html?id=74055ea1ae0a4616b67950b363f20439",
+        "source_url": "https://services.arcgis.com/qovwaCdMoEzUUFzS/arcgis/rest/services/Health_data/FeatureServer",
+        "updated": 1614329751000,
+        "snippet": "Health facilities in Ethiopia (clinics, health centres, hospitals)."
+      },
+      {
+        "name": "Health Facilities (2022)",
+        "owner": "greyes_ACHD",
+        "url": "https://www.arcgis.com/home/item.html?id=4710648bd3b147a088a7321cbfffc18b",
+        "source_url": "https://services8.arcgis.com/8G2jD4VY84pgX1Z5/arcgis/rest/services/Adams_County_Facilities_2022_WFL1/FeatureServer",
+        "updated": 1702413816000,
+        "snippet": "Colorado Department of Public Health and Environment health facilities | Last Updated: 2022"
+      },
+      {
+        "name": "Health Facilities South Africa",
+        "owner": "PICCEDD007",
+        "url": "https://www.arcgis.com/home/item.html?id=1bfb7365ee53470391c9b6b21a42313d",
+        "source_url": "https://services9.arcgis.com/RYQ3IL0r0GJPalzJ/arcgis/rest/services/Health_Facilities_South_Africa/FeatureServer",
+        "updated": 1579823506000,
+        "snippet": "All Health Facilities in South Africa"
+      },
+      {
+        "name": "HealthFacilities public",
+        "owner": "NWong@isd.lacounty.gov_lacounty",
+        "url": "https://www.arcgis.com/home/item.html?id=9724b2d8d91f4da5ac9dc2e9452773db",
+        "source_url": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/HealthFacilities_public/FeatureServer",
+        "updated": 1594620942000,
+        "snippet": "A public view of drug treatment, mental health, homelessness, and other health and human services facilities."
+      }
+    ],
+    "Education Facilities": [
+      {
+        "name": "Population - Maryland Education Facilities (MHEC)",
+        "owner": "HSEMA_PPD",
+        "url": "https://www.arcgis.com/home/item.html?id=bed045a34f2e4833b543563ebcbcdc99",
+        "source_url": "https://geodata.md.gov/imap/rest/services/Education/MD_EducationFacilities/FeatureServer",
+        "updated": 1689172289000,
+        "snippet": "Map service of Maryland Education Facilities"
+      },
+      {
+        "name": "Maryland Education Facilities",
+        "owner": "JKirkendallUMB",
+        "url": "https://www.arcgis.com/home/item.html?id=3da0dec91e9b47469ef470967d953314",
+        "source_url": "https://geodata.md.gov/imap/rest/services/Education/MD_EducationFacilities/FeatureServer",
+        "updated": 1585959734000,
+        "snippet": "Map service of Maryland Education Facilities"
+      },
+      {
+        "name": "Educational Facilities",
+        "owner": "Sarah.Wright@clarkcountynv.gov",
+        "url": "https://www.arcgis.com/home/item.html?id=eab8cae59c904a238da512d65fa9078b",
+        "source_url": "https://maps.clarkcountynv.gov/arcgis/rest/services/OpenData/Education/FeatureServer",
+        "updated": 1688068435000,
+        "snippet": "Facilities"
+      },
+      {
+        "name": "GEO licensed child care facilities",
+        "owner": "david.mather",
+        "url": "https://www.arcgis.com/home/item.html?id=0616e0dd8eb840fe8a377068d4db03ce",
+        "source_url": "https://services.arcgis.com/uUvqNMGPm7axC2dD/arcgis/rest/services/GEO_licensed_child_care_facilities/FeatureServer",
+        "updated": 1373936599000,
+        "snippet": "Licensed Child Care Facilities by Legislative Districts"
+      },
+      {
+        "name": "Education",
+        "owner": "Effingham_GIS",
+        "url": "https://www.arcgis.com/home/item.html?id=f2bdf117e91740be931639f9c1489e4a",
+        "source_url": "https://services.arcgis.com/9scQWTgPOi3GxJRr/arcgis/rest/services/Education/FeatureServer",
+        "updated": 1439564276000,
+        "snippet": "Education Layer"
+      },
+      {
+        "name": "Education lev",
+        "owner": "samebaj",
+        "url": "https://www.arcgis.com/home/item.html?id=b9a84e403d1e44278081fdc097e07325",
+        "source_url": "https://services.arcgis.com/BLHClr0XLs9EAETm/arcgis/rest/services/Education_lev/FeatureServer",
+        "updated": 1648101279000,
+        "snippet": "Education Level"
+      },
+      {
+        "name": "Facilities",
+        "owner": "C.Wood_11_edinuniv",
+        "url": "https://www.arcgis.com/home/item.html?id=0701841ed7604b07b5b0809412af2ee7",
+        "source_url": "https://services5.arcgis.com/U8xJBTiAx2RGR2e2/arcgis/rest/services/Facilities/FeatureServer",
+        "updated": 1560357870000,
+        "snippet": "Facilities"
+      },
+      {
+        "name": "HIFLD Education",
+        "owner": "ltrogers4",
+        "url": "https://www.arcgis.com/home/item.html?id=5a649717be0543c397554631163ca457",
+        "source_url": "https://services.arcgis.com/0ZRg6WRC7mxSLyKX/arcgis/rest/services/ISWG_Infrastructure_Education_FeatureService/FeatureServer",
+        "updated": 1559184599000,
+        "snippet": "Infrastructure showing commercial features."
+      },
+      {
+        "name": "Education",
+        "owner": "sanmateocountygis",
+        "url": "https://www.arcgis.com/home/item.html?id=ffda3885a01f4476b661c0079b5109a2",
+        "source_url": "https://services.arcgis.com/yq3FgOI44hYHAFVZ/arcgis/rest/services/Education/FeatureServer",
+        "updated": 1473199457000,
+        "snippet": "Education Map Layers: Schools and Districts"
+      },
+      {
+        "name": "Facilities",
+        "owner": "jayne.kyle19_CBCni",
+        "url": "https://www.arcgis.com/home/item.html?id=e10942bf5a4b4ea4ae6aad01a6ecf212",
+        "source_url": "https://services.arcgis.com/kNPftFdcdm7bfDuO/arcgis/rest/services/Facilities/FeatureServer",
+        "updated": 1441709907000,
+        "snippet": "Facilities in CCGBC"
+      },
+      {
+        "name": "Facilities IM",
+        "owner": "Afiq.Bakar_mottmacapna",
+        "url": "https://www.arcgis.com/home/item.html?id=e78dec1e46d5446588a3d7fecb6a07bb",
+        "source_url": "https://services7.arcgis.com/CyAIXDXp25TucW0b/arcgis/rest/services/Facilities_IM/FeatureServer",
+        "updated": 1621256647000,
+        "snippet": "Facilities"
+      },
+      {
+        "name": "Education",
+        "owner": "mnorthey@Ocalafl.gov_ocalafl",
+        "url": "https://www.arcgis.com/home/item.html?id=80d38b34b96346b68890047a85da7ee2",
+        "source_url": "https://gis.ocalafl.org/arcgis/rest/services/Public/Education/FeatureServer",
+        "updated": 1728071864000,
+        "snippet": "Education locations and districts in and around the City of Ocala, FL."
+      },
+      {
+        "name": "Internet Education Learning",
+        "owner": "THArcGISOnline",
+        "url": "https://www.arcgis.com/home/item.html?id=40931838f3054e9fa00bcd0550a83e2e",
+        "source_url": "https://services1.arcgis.com/KZuCGRSe2K5BiG1Z/arcgis/rest/services/Internet_Education_Learning/FeatureServer",
+        "updated": 1754308940000,
+        "snippet": "Tower Hamlets Internet Map Education & Learning"
+      },
+      {
+        "name": "Facilities",
+        "owner": "ealvarez_oakgis",
+        "url": "https://www.arcgis.com/home/item.html?id=a543d360b35d4c32978d330bc3efd33c",
+        "source_url": "https://services.arcgis.com/9tC74aDHuml0x5Yz/arcgis/rest/services/Facilities/FeatureServer",
+        "updated": 1693246785000,
+        "snippet": "MDU facilities located within the city of Oakland."
+      },
+      {
+        "name": "Critical Facilities",
+        "owner": "CityOfAlbany",
+        "url": "https://www.arcgis.com/home/item.html?id=8fef391d3f8244e89b9536ac29dbd4b3",
+        "source_url": "https://services1.arcgis.com/rTbYoZX7yR1PY1BP/arcgis/rest/services/Critical_Facilities_Inundation/FeatureServer",
+        "updated": 1510270308000,
+        "snippet": "Critical Facilities within Albany Dam Break Inundation Areas"
+      },
+      {
+        "name": "Education centre",
+        "owner": "GIS_CityOfWodonga",
+        "url": "https://www.arcgis.com/home/item.html?id=15cc3adf0e8e43b797d3ce870f1997d4",
+        "source_url": "https://services-ap1.arcgis.com/w6r4LlwgJu8O0neQ/arcgis/rest/services/Education_centre/FeatureServer",
+        "updated": 1661152151000,
+        "snippet": "This is a sub-dataset from the VICMAP Geomark."
+      },
+      {
+        "name": "Public Facilities",
+        "owner": "snimako_cerritos",
+        "url": "https://www.arcgis.com/home/item.html?id=b8230acc4c874bb1a77fefb291a29d2a",
+        "source_url": "https://services7.arcgis.com/ARSJY3IpcOAaTE5R/arcgis/rest/services/Public_Facilities/FeatureServer",
+        "updated": 1696858595000,
+        "snippet": "Public Facilities"
+      },
+      {
+        "name": "Afghanistan Education Stats 2021 view",
+        "owner": "najamr@oregonstate.edu_OSUGISci",
+        "url": "https://www.arcgis.com/home/item.html?id=f43035da53384067a9e6d9875be654bd",
+        "source_url": "https://services1.arcgis.com/CD5mKowwN6nIaqd8/arcgis/rest/services/Afghanistan_Education_Stats_2021_view/FeatureServer",
+        "updated": 1672266835000,
+        "snippet": "This layer visualizes general education (grades 1-12) statistics for Afghanistan - 1400 (2021) academic year."
+      },
+      {
+        "name": "Community Education and Enterprise",
+        "owner": "SouthDublinCoCoMaps",
+        "url": "https://www.arcgis.com/home/item.html?id=da89975259b8402bbfcc94af7fe6514e",
+        "source_url": "https://services1.arcgis.com/PxbTDTskGHCe4sv6/arcgis/rest/services/Community_Education_and_Enterprise/FeatureServer",
+        "updated": 1643289009000,
+        "snippet": "Community GIS - Education and Enterprise"
+      },
+      {
+        "name": "Facilities",
+        "owner": "LakeCounty_ForestPreserves",
+        "url": "https://www.arcgis.com/home/item.html?id=a0ecb8efd8dd402696520a47b84bf272",
+        "source_url": "https://pubaccess.lcfpd.org/arcgis/rest/services/Public/Facilities/FeatureServer",
+        "updated": 1550093460000,
+        "snippet": "Facilities include the District's building points and outlines."
+      }
+    ],
+    "Schools": [
+      {
+        "name": "SCHOOLS",
+        "owner": "agolpro_Wildomar",
+        "url": "https://www.arcgis.com/home/item.html?id=64a18d43fa34426b91a17c71a452d0c7",
+        "source_url": "https://services6.arcgis.com/kIJQVjhDSsSdR0Xt/arcgis/rest/services/SCHOOLS/FeatureServer",
+        "updated": 1708468948000,
+        "snippet": "Feature Class published from Interwest SDE."
+      },
+      {
+        "name": "Schools",
+        "owner": "ClearfieldGIS",
+        "url": "https://www.arcgis.com/home/item.html?id=754e6997f2714e33b230772b6898a7ad",
+        "source_url": "https://services1.arcgis.com/v0kJH5eNqLU1DwuT/arcgis/rest/services/Schools/FeatureServer",
+        "updated": 1513738522000,
+        "snippet": "Schools"
+      },
+      {
+        "name": "Schools",
+        "owner": "HenryCountyEngineer",
+        "url": "https://www.arcgis.com/home/item.html?id=14bd8c4a787841e99c181d582a3ca77e",
+        "source_url": "https://services.arcgis.com/osmyvTbXDC07yFxn/arcgis/rest/services/Schools/FeatureServer",
+        "updated": 1762962788000,
+        "snippet": "Henry County Schools"
+      },
+      {
+        "name": "Schools",
+        "owner": "paul.nihell",
+        "url": "https://www.arcgis.com/home/item.html?id=3142204a28904dafba390c116f0e3bda",
+        "source_url": "https://services3.arcgis.com/arG2UzeMsqPNJzQ1/arcgis/rest/services/Schools/FeatureServer",
+        "updated": 1488444147000,
+        "snippet": "Schools"
+      },
+      {
+        "name": "TalentPipeline Schools",
+        "owner": "CommunitySystems",
+        "url": "https://www.arcgis.com/home/item.html?id=5629f9ec9fe845d1b89d5e07152a2c90",
+        "source_url": "https://services.arcgis.com/5vLZQrahy5J1GciW/arcgis/rest/services/TalentPipeline_Schools/FeatureServer",
+        "updated": 1561728638000,
+        "snippet": "Schools"
+      },
+      {
+        "name": "Schools",
+        "owner": "aeroberts605",
+        "url": "https://www.arcgis.com/home/item.html?id=daa5a173612445b8bc9a4ff953639c00",
+        "source_url": "https://services5.arcgis.com/N1ybEAKiuuUIL8Mz/arcgis/rest/services/Schools/FeatureServer",
+        "updated": 1731528208000,
+        "snippet": "Muskingum County Schools and School Districts"
+      },
+      {
+        "name": "Zimbabwe Schools",
+        "owner": "o.odhiambo97_kuniversity",
+        "url": "https://www.arcgis.com/home/item.html?id=0d79760a78d944399760236adc26de8b",
+        "source_url": "https://services1.arcgis.com/Kw7jGaBPiN3WUAmT/arcgis/rest/services/Zimbabwe_Schools/FeatureServer",
+        "updated": 1647585465000,
+        "snippet": "Zimbabwe Schools"
+      },
+      {
+        "name": "Schools",
+        "owner": "friedlandere_cityofreno",
+        "url": "https://www.arcgis.com/home/item.html?id=e6681e989b754c7c9d1c0fc99dc92829",
+        "source_url": "https://services5.arcgis.com/RjM4BJrv5ZkqP4XC/arcgis/rest/services/Schools/FeatureServer",
+        "updated": 1628702304000,
+        "snippet": "City of Reno Schools and Regional Schools"
+      },
+      {
+        "name": "HDSB Schools",
+        "owner": "StawarekR_HCDSB",
+        "url": "https://www.arcgis.com/home/item.html?id=58bb07eacf3944e89fe409da691d5849",
+        "source_url": "https://services1.arcgis.com/Z2ZyXpStrYRDJ1cf/arcgis/rest/services/MyMapService/FeatureServer",
+        "updated": 1654781674000,
+        "snippet": "HDSB Schools"
+      },
+      {
+        "name": "Schools",
+        "owner": "planning.gisonline_ladcp",
+        "url": "https://www.arcgis.com/home/item.html?id=9e3ec453cce146e6972ebf09ca763dde",
+        "source_url": "https://services1.arcgis.com/tzwalEyxl2rpamKs/arcgis/rest/services/Schools/FeatureServer",
+        "updated": 1580343725000,
+        "snippet": "Schools in the City of Los Angeles"
+      },
+      {
+        "name": "Schools",
+        "owner": "CorkCityCo",
+        "url": "https://www.arcgis.com/home/item.html?id=85555a57caf4448486234a2b647ca698",
+        "source_url": "https://services-eu1.arcgis.com/f0ZQOHXBIeLonX0V/arcgis/rest/services/Schools/FeatureServer",
+        "updated": 1711652688000,
+        "snippet": "Schools  in Cork"
+      },
+      {
+        "name": "Schools",
+        "owner": "Jonathan.Paramore@raleighnc.gov_ral",
+        "url": "https://www.arcgis.com/home/item.html?id=6c4fb392726c4360be5215f01ab314d5",
+        "source_url": "https://services.arcgis.com/v400IkDOw1ad7Yad/arcgis/rest/services/Schools_Dec2019/FeatureServer",
+        "updated": 1677527326000,
+        "snippet": "List of schools visited by Education and Outreach staff."
+      },
+      {
+        "name": "Schools",
+        "owner": "mtmazih_ccboc",
+        "url": "https://www.arcgis.com/home/item.html?id=704dd22f247f43189bb082f8fbef01fc",
+        "source_url": "https://services3.arcgis.com/feUM6sTOP0Mfde8s/arcgis/rest/services/Schools_62410b25c3054de9a0205cf957945c8c/FeatureServer",
+        "updated": 1714762531000,
+        "snippet": "A feature layer used to store schools, bus stops and attendance zones."
+      },
+      {
+        "name": "Schools",
+        "owner": "Alfred_Hall",
+        "url": "https://www.arcgis.com/home/item.html?id=1e3c07ffab114e339e5c92b6672916e0",
+        "source_url": "https://services1.arcgis.com/9zBsuOcsn7vJzSLJ/arcgis/rest/services/Schools_deca6739765543e2a38cb2f256eb242d/FeatureServer",
+        "updated": 1723825392000,
+        "snippet": "A feature layer used to store schools, bus stops and attendance zones."
+      },
+      {
+        "name": "Schools",
+        "owner": "ypeng_OntarioRegion",
+        "url": "https://www.arcgis.com/home/item.html?id=ee84c79f247f4931b15b97a0cb729b0f",
+        "source_url": "https://services.arcgis.com/AtfpSdJcsnQiIRhL/arcgis/rest/services/Schools_d95a09ad741e4b84b7484d39d45fe5bb/FeatureServer",
+        "updated": 1682992864000,
+        "snippet": "A feature layer used to store schools, bus stops and attendance zones."
+      },
+      {
+        "name": "Schools",
+        "owner": "william.smedley",
+        "url": "https://www.arcgis.com/home/item.html?id=0f4795bf6e5c4609ac92d2ab135b40c2",
+        "source_url": "https://services3.arcgis.com/vS6jO1qrSVqdHIdf/arcgis/rest/services/Schools_b6cbf2525172404d901b9c264272b636/FeatureServer",
+        "updated": 1755107575000,
+        "snippet": "A feature layer used to store schools, bus stops and attendance zones."
+      },
+      {
+        "name": "Schools",
+        "owner": "lcecil5",
+        "url": "https://www.arcgis.com/home/item.html?id=0650cf2afd024efcaf27938c7e830f24",
+        "source_url": "https://services.arcgis.com/10N2YvfR3dqhPYAK/arcgis/rest/services/Schools_51e5ab7b167e457ebc668581dda23731/FeatureServer",
+        "updated": 1690215945000,
+        "snippet": "A feature layer used to store schools, bus stops and attendance zones."
+      },
+      {
+        "name": "Schools MajEmploy",
+        "owner": "zher",
+        "url": "https://www.arcgis.com/home/item.html?id=86638c11a7e8471e998615638da78678",
+        "source_url": "https://services5.arcgis.com/SRuaqVyoD8TEQJga/arcgis/rest/services/Schools_MajEmploy/FeatureServer",
+        "updated": 1528983107000,
+        "snippet": "Schools and Major Employers"
+      },
+      {
+        "name": "Ohio Schools",
+        "owner": "roberts_605_MVESC9",
+        "url": "https://www.arcgis.com/home/item.html?id=ec20aadb0cfa41a19610c0d3ff283458",
+        "source_url": "https://services2.arcgis.com/i0VhXlMVvMgmVNLt/arcgis/rest/services/Ohio_Schools/FeatureServer",
+        "updated": 1540389509000,
+        "snippet": "Ohio Public Schools 2018"
+      },
+      {
+        "name": "Schools",
+        "owner": "hcopropappr",
+        "url": "https://www.arcgis.com/home/item.html?id=c55c23c59cdb4f3aadd23afdfc2c7179",
+        "source_url": "https://services2.arcgis.com/x5zvhhxfUuRDntRe/arcgis/rest/services/Schools/FeatureServer",
+        "updated": 1768594568000,
+        "snippet": "Hernando County Schools information, including school locations, two-mile walking boundaries, and elementary, middle, and high school districts.  Created: 05/05/25"
+      }
+    ],
+    "Informal Settlements": [
+      {
+        "name": "HDA InformalSettlements gdb",
+        "owner": "hremas",
+        "url": "https://www.arcgis.com/home/item.html?id=6eab021a2b8449ca9c3701f7515eb476",
+        "source_url": "https://services.arcgis.com/0QTbS9dOzA9di1jl/arcgis/rest/services/HDA_InformalSettlements_gdb/FeatureServer",
+        "updated": 1590578791000,
+        "snippet": null
+      },
+      {
+        "name": "Informal Settlements in Kenya and Ghana",
+        "owner": "jdindiok_adra_ghana",
+        "url": "https://www.arcgis.com/home/item.html?id=d667b41c65b944a0a52c989fbdd8fc20",
+        "source_url": "https://services1.arcgis.com/93Ieg4hfTR8LTwJ7/arcgis/rest/services/Accra_Informal_Settlements/FeatureServer",
+        "updated": 1725450579000,
+        "snippet": "This web map provides a comprehensive visualization of informal settlements in Kenya and Ghana, highlighting key economic activities, population density, and common diseases affecting these communities. The map is designed to support data-driven decision-making for urban planning, public health interventions, and sustainable development initiatives. It leverages geospatial data to offer insights into the challenges and opportunities within these densely populated areas."
+      },
+      {
+        "name": "Stakeholder Settlements Western Limb Operations WFL1",
+        "owner": "Satplan",
+        "url": "https://www.arcgis.com/home/item.html?id=19c820a7662d4aa49421226beeddedf3",
+        "source_url": "https://services8.arcgis.com/qH8zjYRAW90u8Vtu/arcgis/rest/services/Stakeholder_Settlements_Western_Limb_Operations_WFL1/FeatureServer",
+        "updated": 1687161401000,
+        "snippet": "Webmap of Stakeholder Settlements for Glencore Western Limb Operations "
+      },
+      {
+        "name": "AGOL Rural Settlements",
+        "owner": "shaw_b",
+        "url": "https://www.arcgis.com/home/item.html?id=ea1aa2c5030e465dad96b94845bd9967",
+        "source_url": "https://services1.arcgis.com/FGUXPreBedGXDRFM/arcgis/rest/services/AGOL_Rural_Settlements/FeatureServer",
+        "updated": 1759478578000,
+        "snippet": "NISRA Rural Classified Settlements"
+      },
+      {
+        "name": "Informal Settlements",
+        "owner": "gis@nkhopheleh.co.za",
+        "url": "https://www.arcgis.com/home/item.html?id=669193e1308945fb890b42a3f2515589",
+        "source_url": "https://services2.arcgis.com/fBaP2JVe62xtbsit/arcgis/rest/services/Informal_Settlements/FeatureServer",
+        "updated": 1737475472000,
+        "snippet": ""
+      },
+      {
+        "name": "AGOL Urban Settlements",
+        "owner": "shaw_b",
+        "url": "https://www.arcgis.com/home/item.html?id=d39232c2d284491095cbc4c2239017bd",
+        "source_url": "https://services1.arcgis.com/FGUXPreBedGXDRFM/arcgis/rest/services/AGOL_Urban_Settlements/FeatureServer",
+        "updated": 1759479344000,
+        "snippet": "NISRA Urban Classified Settlements "
+      },
+      {
+        "name": "Kibera Atlas",
+        "owner": "dkyalo_Cadasta",
+        "url": "https://www.arcgis.com/home/item.html?id=af168b9cbeed4620a759c1fbdf69c27a",
+        "source_url": "https://services8.arcgis.com/8tX9OH8doNBidChm/arcgis/rest/services/Kibera_Atlas/FeatureServer",
+        "updated": 1632645985000,
+        "snippet": "Kibera atlas"
+      },
+      {
+        "name": "Colonial Settlements 1607 1699",
+        "owner": "vgagis",
+        "url": "https://www.arcgis.com/home/item.html?id=8029558a3d2541aebcb4c2384510ebc4",
+        "source_url": "https://services1.arcgis.com/TQSFiGYN0xveoERF/arcgis/rest/services/Colonial_Settlements_1607_1699/FeatureServer",
+        "updated": 1585349466000,
+        "snippet": "Colonial settlements 1607-1699"
+      },
+      {
+        "name": "Informal Settlements WFL1",
+        "owner": "One_to_One",
+        "url": "https://www.arcgis.com/home/item.html?id=aef15f1094ff435292e1f887b34a5651",
+        "source_url": "https://services6.arcgis.com/I02x1zJfLX46L5tx/arcgis/rest/services/Informal_Settlements_WFL1/FeatureServer",
+        "updated": 1730355607000,
+        "snippet": ""
+      },
+      {
+        "name": "Informal settlements south america",
+        "owner": "lurgancoll_admin",
+        "url": "https://www.arcgis.com/home/item.html?id=a5a2f215370e49c6b803475ecde1796d",
+        "source_url": "https://services4.arcgis.com/jrFk2Dy6GRgxmTji/arcgis/rest/services/Informal_settlements_south_america/FeatureServer",
+        "updated": 1649836639000,
+        "snippet": null
+      },
+      {
+        "name": "Kouga LM Informal Settlements Survey",
+        "owner": "kouga_admin",
+        "url": "https://www.arcgis.com/home/item.html?id=6d6fb1bc8a464016bb47ce4a576874e5",
+        "source_url": "https://services6.arcgis.com/HrQQGPZkIr5BuMyY/arcgis/rest/services/service_88cfc8e9b4c5434da50519502d3b64f7/FeatureServer",
+        "updated": 1688047089000,
+        "snippet": null
+      },
+      {
+        "name": "Aggregation of Settlements of Belize to Districts",
+        "owner": "adele_o_ramos",
+        "url": "https://www.arcgis.com/home/item.html?id=0d10cfdd003d4eb5b4be1030f87b7cea",
+        "source_url": "https://services7.arcgis.com/nepqZq6X1y0gxouO/arcgis/rest/services/Aggregation%20of%20Settlements%20of%20Belize%20to%20Districts/FeatureServer",
+        "updated": 1477969033000,
+        "snippet": "Analysis Feature Service generated from Aggregate Points"
+      },
+      {
+        "name": "Micmac and European settlements in 1630 and 1740",
+        "owner": "EsriCanadaEducation",
+        "url": "https://www.arcgis.com/home/item.html?id=e29a8d356e8947ea9ae078d46cd42534",
+        "source_url": "https://services.arcgis.com/As5CFN3ThbQpy8Ph/arcgis/rest/services/Acadia_OtherSettlements/FeatureServer",
+        "updated": 1549391303000,
+        "snippet": "Micmac and European settlements in Acadia circa 1630 and 1740."
+      },
+      {
+        "name": "HousingSnapshotsUpdate 20 04 2022",
+        "owner": "st63_AUB",
+        "url": "https://www.arcgis.com/home/item.html?id=d017599ab9d9429dac65980d6c53afa9",
+        "source_url": "https://services3.arcgis.com/tuNLpt6Wfhd22qmO/arcgis/rest/services/HousingSnapshotsUpdate_20_04_2022/FeatureServer",
+        "updated": 1650462171000,
+        "snippet": "EXPLOITATIVE RENT LAYER"
+      },
+      {
+        "name": "Public Review Informal Appeals Base",
+        "owner": "StarkCountyOH",
+        "url": "https://www.arcgis.com/home/item.html?id=3898abb58d1746ffacd7a2a8afedf907",
+        "source_url": "https://scgisa.starkcountyohio.gov/arcgis/rest/services/Auditor/PublicReview/MapServer",
+        "updated": 1722601794000,
+        "snippet": "Public Review Informal Appeals Base parcels features, Buildings, and Other Building Features service"
+      },
+      {
+        "name": "WC IS Sanitation Heatmap WFL1",
+        "owner": "DlaminiS_dwa",
+        "url": "https://www.arcgis.com/home/item.html?id=6485866a37834998b7b1de1b503ac7fa",
+        "source_url": "https://services3.arcgis.com/QdLJLZBqzVAhCil8/arcgis/rest/services/WC_IS_Sanitation_Heatmap_WFL1/FeatureServer",
+        "updated": 1750338042000,
+        "snippet": "Heatmap showing density of informal settlements in the Western Cape"
+      },
+      {
+        "name": "CitizenProblems Planning and Economic Development Integrated Human Settlements Housing Development",
+        "owner": "stelliesgis",
+        "url": "https://www.arcgis.com/home/item.html?id=0b035657aca54f159deae0801402a59d",
+        "source_url": "https://services7.arcgis.com/1VIB2KKteTyIpwkV/arcgis/rest/services/CitizenProblems_Planning_and_Economic_Development_Integrated_Human_Settlements_Housing_Development/FeatureServer",
+        "updated": 1628164763000,
+        "snippet": "Problems reported by general public through focused citizen engagement applications.\nPlanning and Economic Development - Integrated Human Settlements, Housing Development"
+      },
+      {
+        "name": "Police stations distribution   Informal Settlements in Argentina WFL1",
+        "owner": "nottage.s@northeastern.edu_NU",
+        "url": "https://www.arcgis.com/home/item.html?id=8d99be95b2a8474ca32bcf074e1c226f",
+        "source_url": "https://services1.arcgis.com/KUeKSLlMUcWvuPRM/arcgis/rest/services/Police_stations_distribution___Informal_Settlements_in_Argentina_WFL1/FeatureServer",
+        "updated": 1763060295000,
+        "snippet": ""
+      },
+      {
+        "name": "Settlements",
+        "owner": "npulumo_Ehlanzeni",
+        "url": "https://www.arcgis.com/home/item.html?id=1ee252b37ef0448fa483af9902a76b60",
+        "source_url": "https://services7.arcgis.com/fNVuaETlEDvt1x1Y/arcgis/rest/services/Settlements/FeatureServer",
+        "updated": 1597242898000,
+        "snippet": "EDM Settlements"
+      },
+      {
+        "name": "DEVNET BER INFORMAL HEARING MAP EXPLORER TEST WFL1",
+        "owner": "devnet_ucnc_gis",
+        "url": "https://www.arcgis.com/home/item.html?id=5209f9fd37104f569c479dae7a5d22b2",
+        "source_url": "https://services2.arcgis.com/Z7YhSKLuj0a3XHN6/arcgis/rest/services/DEVNET_BER_INFORMAL_HEARING_MAP_EXPLORER_TEST_WFL1/FeatureServer",
+        "updated": 1674838906000,
+        "snippet": "BER Informal Hearings map explorer - Union"
+      }
+    ],
+    "Flood": [
+      {
+        "name": "Flood 2006",
+        "owner": "eparsons3878",
+        "url": "https://www.arcgis.com/home/item.html?id=47d72b5d03304b76b115e56d7c453e39",
+        "source_url": "https://services6.arcgis.com/8d73jg7hu4OPnp1F/arcgis/rest/services/Flood_2006/FeatureServer",
+        "updated": 1718651234000,
+        "snippet": "2006 Flood Zone Data"
+      },
+      {
+        "name": "FEMA Flood Zones 2016 Proposed",
+        "owner": "jcenteno",
+        "url": "https://www.arcgis.com/home/item.html?id=dc42dc2d3ebd4c3dbd678eb7cf0617c5",
+        "source_url": "https://services.arcgis.com/5iWzb1srkjPDXmpL/arcgis/rest/services/FEMA_Flood_Zones_2016_Proposed/FeatureServer",
+        "updated": 1522697028000,
+        "snippet": "FEMA Flood Zones 2016 Proposed"
+      },
+      {
+        "name": "Flood Polygons",
+        "owner": "Sigurd_Olson",
+        "url": "https://www.arcgis.com/home/item.html?id=074e631d6e18499ba8f842c488b71249",
+        "source_url": "https://services5.arcgis.com/QwKU2m39zaSlQgLF/arcgis/rest/services/Flood_Polygons/FeatureServer",
+        "updated": 1490833145000,
+        "snippet": "Flood Extent Polygons"
+      },
+      {
+        "name": "WCC Flood Hazard Layers",
+        "owner": "wwl_rbuchanan",
+        "url": "https://www.arcgis.com/home/item.html?id=024f4f191df04da5b4b07a4a6d7fbbd0",
+        "source_url": "https://services7.arcgis.com/2ECs938g489DMWjt/arcgis/rest/services/WCC_Flood_Hazard_Layers/FeatureServer",
+        "updated": 1668372985000,
+        "snippet": "WCC Flood Hazard Layers - streams, inundation extent, and overland flow paths."
+      },
+      {
+        "name": "FEMA Flood",
+        "owner": "SantaBarbaraCountyFire",
+        "url": "https://www.arcgis.com/home/item.html?id=c3cd4dc477c14d2c8965de76e8864b28",
+        "source_url": "https://services.arcgis.com/12ZpLdNBJek66bmF/arcgis/rest/services/FEMA_Flood/FeatureServer",
+        "updated": 1567025669000,
+        "snippet": "FEMA"
+      },
+      {
+        "name": "FEMA Flood Hazard",
+        "owner": "EauClaireCo",
+        "url": "https://www.arcgis.com/home/item.html?id=9c90911586ea485cb6e8ca286189300b",
+        "source_url": "https://gis.co.eau-claire.wi.us/agsserver/rest/services/FEMA/FEMA_Flood_Hazard/FeatureServer",
+        "updated": 1579904355000,
+        "snippet": "FEMA National Flood Hazard Layer"
+      },
+      {
+        "name": "FEMA Flood Insurance Map",
+        "owner": "Sharlena",
+        "url": "https://www.arcgis.com/home/item.html?id=c9c38b58bd3a44c1ba152b606efc3373",
+        "source_url": "https://services1.arcgis.com/XhE4Nx2bBPScQrhF/arcgis/rest/services/FEMA_Flood_Insurance_Map/FeatureServer",
+        "updated": 1690306944000,
+        "snippet": "FEMA Flood Insurance Map"
+      },
+      {
+        "name": "Flood Data June 2024",
+        "owner": "wrajamaica_GOJ",
+        "url": "https://www.arcgis.com/home/item.html?id=c593e300819b4ac2820766b6e34cf8a1",
+        "source_url": "https://services6.arcgis.com/3R3y1KXaPJ9BFnsU/arcgis/rest/services/Flood_Data_June_2024/FeatureServer",
+        "updated": 1719853963000,
+        "snippet": "Digitized Flood Data from Flood Events"
+      },
+      {
+        "name": "Flood Risk Modeling",
+        "owner": "CityofRoseville",
+        "url": "https://www.arcgis.com/home/item.html?id=0e0d89c491d64a31a91213d3de2b5d72",
+        "source_url": "https://services1.arcgis.com/yIZWbv8PF0WADSXn/arcgis/rest/services/PotentialFloodModeling/FeatureServer",
+        "updated": 1748889306000,
+        "snippet": "Flood risk modeling boundary with associated attributes."
+      },
+      {
+        "name": "TRF Flood Layer",
+        "owner": "nbetland@citytrf.net",
+        "url": "https://www.arcgis.com/home/item.html?id=406c139cf0494b4c9c0576bd56867a19",
+        "source_url": "https://services6.arcgis.com/PZH7SMMue6M4l4UQ/arcgis/rest/services/TRF_Flood_Layer/FeatureServer",
+        "updated": 1675374341000,
+        "snippet": "This feature layer contains the flood plain layer along with sites identified as damaged due to the FEMA flood declaration for the spring of 2022."
+      },
+      {
+        "name": "Flood Zone",
+        "owner": "Ocala_GIS",
+        "url": "https://www.arcgis.com/home/item.html?id=7a5f03b5b5744f998c29e6e5f84162a2",
+        "source_url": "https://gis.ocalafl.org/arcgis/rest/services/Public/Flood/FeatureServer",
+        "updated": 1744725725000,
+        "snippet": "Flood Zone data provided by FEMA."
+      },
+      {
+        "name": "JC flood model",
+        "owner": "missouri_dnr",
+        "url": "https://www.arcgis.com/home/item.html?id=628fc156ea8e4e2b9837a7ffda9b3cf7",
+        "source_url": "https://services8.arcgis.com/RPgcHScWtnrsNIP7/arcgis/rest/services/JC_flood_model/FeatureServer",
+        "updated": 1559767698000,
+        "snippet": "Flood models generated from LiDAR for the Jefferson City area "
+      },
+      {
+        "name": "Public Flood Survey Layers",
+        "owner": "chrcgis",
+        "url": "https://www.arcgis.com/home/item.html?id=64988409a646454386c090ed913f040b",
+        "source_url": "https://services3.arcgis.com/ktIX0lbLK1PjSHV8/arcgis/rest/services/Public_Flood_Survey_Layers/FeatureServer",
+        "updated": 1511738075000,
+        "snippet": "Public_Flood_Survey_Layers"
+      },
+      {
+        "name": "Flood Control District Facilities",
+        "owner": "Ryan_Hunsicker",
+        "url": "https://www.arcgis.com/home/item.html?id=e99faad3c40741e3bc16f3e8013f089e",
+        "source_url": "https://services.arcgis.com/ZZ0KZXZVmgB1v555/arcgis/rest/services/Flood_Control_District_Facilities/FeatureServer",
+        "updated": 1597177229000,
+        "snippet": null
+      },
+      {
+        "name": "2050 MHHW Flood, 1%",
+        "owner": "KitsapCountyDCD",
+        "url": "https://www.arcgis.com/home/item.html?id=a5709cde65104f71a4fd608e9e360c24",
+        "source_url": "https://services1.arcgis.com/W83ZJWdj5f1f4WwG/arcgis/rest/services/2050_MHHW_Apr25/FeatureServer",
+        "updated": 1750708801000,
+        "snippet": "SLR - 2050 MHHW Flood, 1%"
+      },
+      {
+        "name": "2050 MHHW Flood, 50%",
+        "owner": "KitsapCountyDCD",
+        "url": "https://www.arcgis.com/home/item.html?id=2f4a52ce05ba4815809010c1676d1aca",
+        "source_url": "https://services1.arcgis.com/W83ZJWdj5f1f4WwG/arcgis/rest/services/2050_MHHW_Apr25/FeatureServer",
+        "updated": 1750708827000,
+        "snippet": "SLR - 2050 MHHW Flood, 50%"
+      },
+      {
+        "name": "Flood Georgetown Gauge 5 7 Feet",
+        "owner": "HSEMA_PPD",
+        "url": "https://www.arcgis.com/home/item.html?id=81dd715931804c189f618a34ab3bef82",
+        "source_url": "https://services.arcgis.com/neT9SoYxizqTHZPH/arcgis/rest/services/Flood_Georgetown_Gauge_5_7_Feet/FeatureServer",
+        "updated": 1766505703000,
+        "snippet": "Map showing possible flooding in the District of Columbia based on 5.7 feet of flooding at the Georgetown flood gauge."
+      },
+      {
+        "name": "2050 MHHW Flood, 90%",
+        "owner": "KitsapCountyDCD",
+        "url": "https://www.arcgis.com/home/item.html?id=e712a96ce84a448383ab5fe71ada164d",
+        "source_url": "https://services1.arcgis.com/W83ZJWdj5f1f4WwG/arcgis/rest/services/2050_MHHW_Apr25/FeatureServer",
+        "updated": 1750708849000,
+        "snippet": "SLR - 2050 MHHW Flood, 90%"
+      },
+      {
+        "name": "Flood hazard2",
+        "owner": "BECQ_Publisher",
+        "url": "https://www.arcgis.com/home/item.html?id=e70eb8f978864757bdca4ee09e476293",
+        "source_url": "https://services.arcgis.com/qchgHH9IIeiivY5M/arcgis/rest/services/Flood_hazard2/FeatureServer",
+        "updated": 1461623744000,
+        "snippet": "Test service for possible flood hazard reports in CNMI citizen science app"
+      },
+      {
+        "name": "NRW Flood Risk from Rivers",
+        "owner": "geospatial.data_nrw",
+        "url": "https://www.arcgis.com/home/item.html?id=c90e3d590f914fcd82588e4433a84020",
+        "source_url": "https://services.arcgis.com/hQoYDJEEJMaPw8Sy/arcgis/rest/services/NRW_Flood_Risk_from_Rivers/FeatureServer",
+        "updated": 1595840640000,
+        "snippet": "Flood Risk from Rivers"
+      }
+    ],
+    "River": [
+      {
+        "name": "Locks and Dams on the Ohio River",
+        "owner": "ldslattery_OEMA",
+        "url": "https://www.arcgis.com/home/item.html?id=ebdda996e218421e994f5aee4dd7a849",
+        "source_url": "https://services7.arcgis.com/n1YM8pTrFmm7L4hs/ArcGIS/rest/services/ndc/FeatureServer",
+        "updated": 1669734878000,
+        "snippet": "Locks and Dams on the Ohio River"
+      },
+      {
+        "name": "Lakes In Upper Missouri River Basin",
+        "owner": "sbell_landscape",
+        "url": "https://www.arcgis.com/home/item.html?id=1d0f9dab074b462a853a7396932a346f",
+        "source_url": "https://services1.arcgis.com/pf6KDbd8NVL1IUHa/arcgis/rest/services/Lakes_In_Upper_Missouri_River_Basin/FeatureServer",
+        "updated": 1428093531000,
+        "snippet": "Lakes Clipped to Missouri River Basin"
+      },
+      {
+        "name": "James River",
+        "owner": "taylor.holden_urichmond",
+        "url": "https://www.arcgis.com/home/item.html?id=7dea36713bfb48ffbd9931f4d7d004a3",
+        "source_url": "https://services.arcgis.com/ak2bo87wLfUpMrt1/arcgis/rest/services/James_River/FeatureServer",
+        "updated": 1495032278000,
+        "snippet": "Polygon layers of the James River and the James River clipped to the tri-county RVA area. "
+      },
+      {
+        "name": "Tennessee River Watershed",
+        "owner": "Georgeanne.Hribar.GaDOE",
+        "url": "https://www.arcgis.com/home/item.html?id=bc0f431435f1491e8de774ec159e7259",
+        "source_url": "https://services4.arcgis.com/9lICIlhSEuRFezSF/arcgis/rest/services/nsdin4515/FeatureServer",
+        "updated": 1718915285000,
+        "snippet": "Watershed of the Tennessee River"
+      },
+      {
+        "name": "River Gauge Stations",
+        "owner": "rcmrd_online",
+        "url": "https://www.arcgis.com/home/item.html?id=a6fccaf5458346f5a82f228a1db411a5",
+        "source_url": "https://maps.rcmrd.org/arcgis/rest/services/AfricaContinent/River_Gauge_Stations/FeatureServer",
+        "updated": 1488925451000,
+        "snippet": null
+      },
+      {
+        "name": "Union River Watershed",
+        "owner": "coagis_org",
+        "url": "https://www.arcgis.com/home/item.html?id=1368fd095cca42cabdcb882ec3dbaa09",
+        "source_url": "https://services1.arcgis.com/0EOqWPtpCmgQr2ay/arcgis/rest/services/URW/FeatureServer",
+        "updated": 1674568786000,
+        "snippet": "Union River Watershed Major Geographic Features"
+      },
+      {
+        "name": "Columbia River Basin Dams",
+        "owner": "Christopher_Daughton",
+        "url": "https://www.arcgis.com/home/item.html?id=c2f03a8c0ee542b587b22c6bdcc26f4e",
+        "source_url": "https://services.arcgis.com/0eQ6yjEtstKi5cDb/arcgis/rest/services/Columbia_River_Basin_Dams/FeatureServer",
+        "updated": 1481155030000,
+        "snippet": "Map of the Columbia River Basin and Some of its dams."
+      },
+      {
+        "name": "Columbia River Basin Outline",
+        "owner": "Flychamp22",
+        "url": "https://www.arcgis.com/home/item.html?id=ebc66e0e6f204d37828ee92bb327343d",
+        "source_url": "https://services.arcgis.com/uUvqNMGPm7axC2dD/arcgis/rest/services/Rivers/FeatureServer",
+        "updated": 1587497625000,
+        "snippet": null
+      },
+      {
+        "name": "River Bylaws WFL1",
+        "owner": "HorizonsRC",
+        "url": "https://www.arcgis.com/home/item.html?id=c22eefea69d644bca357eeb21a088ccf",
+        "source_url": "https://services1.arcgis.com/VuN78wcRdq1Oj69W/arcgis/rest/services/River_Bylaws_WFL1/FeatureServer",
+        "updated": 1754002485000,
+        "snippet": "Manawatu river and tributaries navigation safety Bylaw 2020 data as used in river bylaws map viewer"
+      },
+      {
+        "name": "Susquehanna River Basin",
+        "owner": "bxw5337_pennstate",
+        "url": "https://www.arcgis.com/home/item.html?id=e41185509b464cbb8df2d5456a53b865",
+        "source_url": "https://services9.arcgis.com/6EuFgO4fLTqfNOhu/arcgis/rest/services/Oh__Susquehanna__Intro_Web_Map_WFL1/FeatureServer",
+        "updated": 1668451021000,
+        "snippet": "A feature layer of the Susquehanna River Basin."
+      },
+      {
+        "name": "RIVER FIRE",
+        "owner": "Juan.Witrago",
+        "url": "https://www.arcgis.com/home/item.html?id=23ef540d9b394ca7a673351757cc68eb",
+        "source_url": "https://services6.arcgis.com/1t7wwtWWQetYRAXB/arcgis/rest/services/RIVER_FIRE/FeatureServer",
+        "updated": 1626393611000,
+        "snippet": "River Fire"
+      },
+      {
+        "name": "Big River line and kms",
+        "owner": "Jennifer01_MissouriState",
+        "url": "https://www.arcgis.com/home/item.html?id=ba280364b1344d2aa1decc910694bd8c",
+        "source_url": "https://services1.arcgis.com/1107UTfqeg4EWnbL/arcgis/rest/services/Big_River_line_and_kms/FeatureServer",
+        "updated": 1423507559000,
+        "snippet": "GPS Photo points on Big River MO taken July 2014"
+      },
+      {
+        "name": "Yukon River NWI",
+        "owner": "timothy_a_ericson@fws.gov_fws",
+        "url": "https://www.arcgis.com/home/item.html?id=8b4971b52ccc481c9c9c9e0a1dac9b35",
+        "source_url": "https://services.arcgis.com/QVENGdaPbd4LUkLV/arcgis/rest/services/AK_NWI/FeatureServer",
+        "updated": 1683327655000,
+        "snippet": "A clip of the NWI to show areas only within the Yukon River watershed."
+      },
+      {
+        "name": "Peace River Collector",
+        "owner": "dustin.atwater",
+        "url": "https://www.arcgis.com/home/item.html?id=de8d3c0cebd64373a244637e2b269d97",
+        "source_url": "https://services1.arcgis.com/2MTjpWs2Miw1F40D/arcgis/rest/services/Peace_River_Collector/FeatureServer",
+        "updated": 1707935424000,
+        "snippet": "Peace River"
+      },
+      {
+        "name": "Missouri River Recreation",
+        "owner": "NGPC.GISAdmin",
+        "url": "https://www.arcgis.com/home/item.html?id=144aa79ae157496387f262a4de1a2017",
+        "source_url": "https://services5.arcgis.com/IOshH1zLrIieqrNk/arcgis/rest/services/MissouriRiverRecreation/FeatureServer",
+        "updated": 1654629013000,
+        "snippet": "Recreation sites along the Missouri River in Nebraska and neighboring states. Last updated  Spring 2021."
+      },
+      {
+        "name": "COP River Miles",
+        "owner": "es2-inc",
+        "url": "https://www.arcgis.com/home/item.html?id=5de3e1fb7e1649d683305883b775f5b7",
+        "source_url": "https://services1.arcgis.com/Brg1qbmzmFn7JtpX/arcgis/rest/services/COP_River_Miles/FeatureServer",
+        "updated": 1495746790000,
+        "snippet": "River Mile Markers"
+      },
+      {
+        "name": "Waikato River Catchments",
+        "owner": "anneevans1st",
+        "url": "https://www.arcgis.com/home/item.html?id=c67e4a2dc8ad4f4ba17de489ae2e9011",
+        "source_url": "https://services8.arcgis.com/Awar775pT2hpdDPz/arcgis/rest/services/Waikato_River_Catchments/FeatureServer",
+        "updated": 1540397927000,
+        "snippet": "Waikato River Catchments"
+      },
+      {
+        "name": "Bear River Development",
+        "owner": "WCG_AGOL_User1",
+        "url": "https://www.arcgis.com/home/item.html?id=f04d9dea010340ec9cd02c3f194b1ffb",
+        "source_url": "https://services9.arcgis.com/xdpm0FCzFgMkMhqo/arcgis/rest/services/Bear_River_Pipeline/FeatureServer",
+        "updated": 1690225453000,
+        "snippet": "Bear River Development"
+      },
+      {
+        "name": "Burnt River Timmins ",
+        "owner": "okeefejc",
+        "url": "https://www.arcgis.com/home/item.html?id=c9c9c808893c4887b7e09ff652d8832d",
+        "source_url": "https://services7.arcgis.com/fVnWbcyf3MaN3KKY/arcgis/rest/services/Burnt_River_Timmins_/FeatureServer",
+        "updated": 1731359871000,
+        "snippet": "Burnt River Timmins"
+      },
+      {
+        "name": "High River Subdivision Layer",
+        "owner": "BGIS_Fall2016_Shepherd",
+        "url": "https://www.arcgis.com/home/item.html?id=bb7d1efe4a794274bfd7a4aedc86d6cb",
+        "source_url": "https://services.arcgis.com/xYjDUN35YwdCEcMm/arcgis/rest/services/High_River_Subdivision_Layer/FeatureServer",
+        "updated": 1490296293000,
+        "snippet": "High River Layers"
+      }
+    ],
+    "Wetland": [
+      {
+        "name": "Wetland Bank Monitoring Data",
+        "owner": "aaronspence",
+        "url": "https://www.arcgis.com/home/item.html?id=ba0d7a60af094654a0ee7ea112f72a56",
+        "source_url": "https://services.arcgis.com/TgFxeQvjFimdfccF/arcgis/rest/services/Wetland_Bank_Monitoring_Data/FeatureServer",
+        "updated": 1589509675000,
+        "snippet": "Service contains data collected by wetland bank monitoring staff."
+      },
+      {
+        "name": "Stormwater BMP Wetland",
+        "owner": "jmuriithi_esrieaut",
+        "url": "https://www.arcgis.com/home/item.html?id=8294f172de4d421aa0b16d353a27eb8b",
+        "source_url": "https://services5.arcgis.com/cdBxbTWz2yE2cVD3/arcgis/rest/services/Stormwater_BMP_Wetland/FeatureServer",
+        "updated": 1511266674000,
+        "snippet": "Stormwater best management practice wetland."
+      },
+      {
+        "name": "Wetland Areas",
+        "owner": "Kerik",
+        "url": "https://www.arcgis.com/home/item.html?id=6b31fc0121f347ed8b1618abc7d6b7c7",
+        "source_url": "https://services1.arcgis.com/jwbgoAzqzCbiJmg4/arcgis/rest/services/Wetland_Areas/FeatureServer",
+        "updated": 1766764434000,
+        "snippet": "Regulated wetland areas throughout the City of Novi."
+      },
+      {
+        "name": "Wetland Data Viewer Reference",
+        "owner": "idahofishandgame",
+        "url": "https://www.arcgis.com/home/item.html?id=b77aa52ba9034f468421be7fa812e05b",
+        "source_url": "https://services.arcgis.com/FjJI5xHF2dUPVrgK/arcgis/rest/services/Wetland_Data_Viewer_Reference/FeatureServer",
+        "updated": 1759513823000,
+        "snippet": "Reference GIS data from Sealaska Consulting to add into the Wetland Data Viewer."
+      },
+      {
+        "name": "Wetland Indicating Sediments",
+        "owner": "paddyc",
+        "url": "https://www.arcgis.com/home/item.html?id=ec6976eb73414bf2b411a43d0cfe27b4",
+        "source_url": "https://services1.arcgis.com/vNAHNdAUu6O4Hiz5/arcgis/rest/services/WMI_Import_Jul_2020/FeatureServer",
+        "updated": 1594583205000,
+        "snippet": "Dataset includes an export of wetland indicating sediments (proxy for original extent of wetlands) from the Quaternary Map of Ireland produced by Geological Survey Ireland."
+      },
+      {
+        "name": "Wetland Mitigation: SR-12 MP 44 to 46",
+        "owner": "nlucchetti@utah.gov_uplan",
+        "url": "https://www.arcgis.com/home/item.html?id=c4c3f97b68954095a7155a3fc203ff7b",
+        "source_url": "https://services.arcgis.com/pA2nEVnB6tquxgOW/arcgis/rest/services/SR12_MP_44_46/FeatureServer",
+        "updated": 1762388304000,
+        "snippet": "This filegeodatabase contains data related to the wetland mitigation project on SR-12 from MP 44 to 46."
+      },
+      {
+        "name": "flood and wetland map",
+        "owner": "ccornell6",
+        "url": "https://www.arcgis.com/home/item.html?id=5ca6c23ecc314eadae395a8d2a78a9ea",
+        "source_url": "https://services5.arcgis.com/Zuw6weNBpZX2wFbS/arcgis/rest/services/flood_and_wetland_map/FeatureServer",
+        "updated": 1582317413000,
+        "snippet": "flood zone and wetland map"
+      },
+      {
+        "name": "BH Wetland  Features",
+        "owner": "bhoffos",
+        "url": "https://www.arcgis.com/home/item.html?id=abcaae5ec5cf4b909f0eed0f60472958",
+        "source_url": "https://services5.arcgis.com/7tj7rgpq1fcYCLtB/arcgis/rest/services/BH_WetlandsMap/FeatureServer",
+        "updated": 1569861350000,
+        "snippet": "Wetland Facilities Inventory Layers to be used in Collector for ArcGIS App"
+      },
+      {
+        "name": "Rainwater Basin Wetland Complex Watershed Restorations WFL1",
+        "owner": "roger_grosse@fws.gov_fws",
+        "url": "https://www.arcgis.com/home/item.html?id=edda39f2a81f40afb239b605ae331293",
+        "source_url": "https://services.arcgis.com/QVENGdaPbd4LUkLV/arcgis/rest/services/Rainwater_Basin_Wetland_Complex_Watershed_Restorations_WFL1/FeatureServer",
+        "updated": 1678377327000,
+        "snippet": "Rainwater Basin wetland restorations that include irrigation re-use or concentration pit fills.  Watershed restorations involve filling irrigation re-use pits previously associated with gravity irrigation.  Pits within historic wetland footprints were usually designed to concentrate water within the wetland allowing the de-watered portion of the footprint to be used for agricultural purposes.  Concentration pits were often used for gravity irrigation water re-use, as well.  However, most irrigation within the region has been converted to center pivot irrigation, making re-use pits obsolete.  Remnant irrigation re-use pits reduce wetland function by intercepting water from rainfall that may otherwise accumulate within wetlands."
+      },
+      {
+        "name": "Watershed and Ecological Groups",
+        "owner": "idahofishandgame",
+        "url": "https://www.arcgis.com/home/item.html?id=bcd1050333494e1ea96b8464804de35e",
+        "source_url": "https://services.arcgis.com/FjJI5xHF2dUPVrgK/arcgis/rest/services/Watershed_and_Ecological_Groups/FeatureServer",
+        "updated": 1759513819000,
+        "snippet": "Feature service contains watershed ecological groups and ecological zones along with related tables containing functional wetland data and wetland mitigation..."
+      },
+      {
+        "name": "Wetland Preservation Plan",
+        "owner": "gbrunner_geodesign",
+        "url": "https://www.arcgis.com/home/item.html?id=8625af7812f444fc9647a6459c17db7b",
+        "source_url": "https://services.arcgis.com/2ycVue24EK6qzjat/arcgis/rest/services/ForGeodesignIdc349473eb07442f9b403cb002f53319d/FeatureServer",
+        "updated": 1485990417000,
+        "snippet": "Plan to conserve New York's wetland cores"
+      },
+      {
+        "name": "Wetland Mitigation Locations",
+        "owner": "jennifer.lanzarotta_ODOT",
+        "url": "https://www.arcgis.com/home/item.html?id=c1d2ea84ec9c4400aed48b41d0806631",
+        "source_url": "https://services.arcgis.com/uUvqNMGPm7axC2dD/arcgis/rest/services/Wetland_Mitigation_Locations/FeatureServer",
+        "updated": 1667856270000,
+        "snippet": "Wetland mitigation sites in ODOT Region 4."
+      },
+      {
+        "name": "Wetland",
+        "owner": "j.hinojasa_ufl",
+        "url": "https://www.arcgis.com/home/item.html?id=1105d60055f74c71a45d611ace31ac4b",
+        "source_url": "https://services.arcgis.com/LBbVDC0hKPAnLRpO/arcgis/rest/services/Wetland/FeatureServer",
+        "updated": 1656303377000,
+        "snippet": "wetland and water"
+      },
+      {
+        "name": "SC Wetland Bank Locations",
+        "owner": "kbernie@clemson.edu_Clemson",
+        "url": "https://www.arcgis.com/home/item.html?id=477abdb7bf8f4f949ede12a8a43574cb",
+        "source_url": "https://services1.arcgis.com/x5wCko8UnSi4h0CB/arcgis/rest/services/SC_wetland_bank_locations/FeatureServer",
+        "updated": 1523825847000,
+        "snippet": "Current as of Spring 2018 wetland mitigation bank and in-lieu fee locations in South Carolina "
+      },
+      {
+        "name": "Planning and Zoning Conservancy/Wetland Layers",
+        "owner": "gis@co.adams.wi.us",
+        "url": "https://www.arcgis.com/home/item.html?id=59c274c6d3184d94bcc101a8ae95e550",
+        "source_url": "https://services5.arcgis.com/cmcEK45KcVMmaCd7/arcgis/rest/services/PlanningandZoningWebLayers/FeatureServer",
+        "updated": 1648844089000,
+        "snippet": null
+      },
+      {
+        "name": "Wetland Function",
+        "owner": "SWMPC_GIS",
+        "url": "https://www.arcgis.com/home/item.html?id=17417fc7d748470b96967ff4def68b61",
+        "source_url": "https://services2.arcgis.com/djh8oO0rYU7YdX5J/arcgis/rest/services/Wetland_Function/FeatureServer",
+        "updated": 1721083288000,
+        "snippet": "The biological, chemical, and physical operations of a wetland are known as wetland functions.\nWetland Function is clipped to the Kalamazoo River Urban Corridor"
+      },
+      {
+        "name": "Wetland Jewels",
+        "owner": "KatHoenke",
+        "url": "https://www.arcgis.com/home/item.html?id=58f18334330d41b2b074117d03911d8d",
+        "source_url": "https://services9.arcgis.com/jLLC0IEfFUxV8nml/arcgis/rest/services/Wetland_Jewels/FeatureServer",
+        "updated": 1714574331000,
+        "snippet": "Wetland Jewels in New Mexico"
+      },
+      {
+        "name": "SC Wetland Bank Locations KDB",
+        "owner": "kbernie@clemson.edu_Clemson",
+        "url": "https://www.arcgis.com/home/item.html?id=f5c5427257884cff9e53d66315fa0c36",
+        "source_url": "https://services1.arcgis.com/x5wCko8UnSi4h0CB/arcgis/rest/services/SC_wetland_bank_locations_KDB/FeatureServer",
+        "updated": 1523826188000,
+        "snippet": "Current as of Spring 2018 wetland mitigation bank and in-lieu fee locations in South Carolina "
+      },
+      {
+        "name": "NMED Wetland Project Status",
+        "owner": "GSS_Developer",
+        "url": "https://www.arcgis.com/home/item.html?id=97f06dcf6277412fa3c125537dbf6b86",
+        "source_url": "https://services.arcgis.com/Qmnh5K1IrqlBQ9WP/arcgis/rest/services/NMED_Wetland_Project_Status/FeatureServer",
+        "updated": 1573492077000,
+        "snippet": "MRG New Mexico wetlands mapping status map"
+      },
+      {
+        "name": "WDNR Mapped Wetland",
+        "owner": "NateWerner113",
+        "url": "https://www.arcgis.com/home/item.html?id=231e4f03f10e4822a2c2d1c2ef1583c7",
+        "source_url": "https://services8.arcgis.com/C2VJ8j4yRkBzQc4D/arcgis/rest/services/City_of_Schofield_GIS_BaseMap_Layers/FeatureServer",
+        "updated": 1508189656000,
+        "snippet": null
+      }
+    ],
+    "Roads": [
+      {
+        "name": "Roads",
+        "owner": "Ellensburg",
+        "url": "https://www.arcgis.com/home/item.html?id=d9df88112cb444e0a54690df1c44973c",
+        "source_url": "https://gis.ellensburgwa.gov/server/rest/services/BaseLayers/Roads/FeatureServer",
+        "updated": 1719878002000,
+        "snippet": "COE Roads"
+      },
+      {
+        "name": "Roads",
+        "owner": "lndungo",
+        "url": "https://www.arcgis.com/home/item.html?id=45efb42cbe24429fbc7181b0db5795c0",
+        "source_url": "https://services.arcgis.com/CmINIEzurW7Tagtl/arcgis/rest/services/Roads/FeatureServer",
+        "updated": 1369850443000,
+        "snippet": "Roads in Kenya"
+      },
+      {
+        "name": "Roads",
+        "owner": "OfficeOfGIS_LasVegas",
+        "url": "https://www.arcgis.com/home/item.html?id=cb69a74fadef4b7fad9d1a7bac457adb",
+        "source_url": "https://services1.arcgis.com/F1v0ufATbBQScMtY/arcgis/rest/services/CLV_ROADS/FeatureServer",
+        "updated": 1713311778000,
+        "snippet": "Roads and Road Polygons within the City of Las Vegas"
+      },
+      {
+        "name": "hillsdale roads",
+        "owner": "m.word_HillsdaleMI",
+        "url": "https://www.arcgis.com/home/item.html?id=5460a5afdd5a41838b49a86e2da00695",
+        "source_url": "https://services.arcgis.com/OeX2IGuO6RXdWbJX/arcgis/rest/services/hillsdale_roads/FeatureServer",
+        "updated": 1497993059000,
+        "snippet": "Road Centerlines"
+      },
+      {
+        "name": "911 Roads",
+        "owner": "alanb_scnygis",
+        "url": "https://www.arcgis.com/home/item.html?id=92984bb726054eb5a50844e52cf78d3a",
+        "source_url": "https://services2.arcgis.com/NZkLeERo9XICXiuy/arcgis/rest/services/911_Roads/FeatureServer",
+        "updated": 1766074383000,
+        "snippet": "911 Roads"
+      },
+      {
+        "name": "MassDOT Roads",
+        "owner": "153766_boston",
+        "url": "https://www.arcgis.com/home/item.html?id=93e5f24152e94a2ea8aa62c8386457db",
+        "source_url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/MassDOT_Roads_SHP/FeatureServer",
+        "updated": 1588784232000,
+        "snippet": "Shapefile downloaded May 6 2020, from MassGIS. This is the MassDOT Roads Shapefile."
+      },
+      {
+        "name": "Village Roads",
+        "owner": "vpocock_RMOW",
+        "url": "https://www.arcgis.com/home/item.html?id=4ecda387ebb9402f9147754b025789a1",
+        "source_url": "https://services7.arcgis.com/gENeutiVOvqS3PuS/arcgis/rest/services/Village_Roads/FeatureServer",
+        "updated": 1595260443000,
+        "snippet": "Main Roads in Whistler Village."
+      },
+      {
+        "name": "SUPERSEDED Roads Predictor",
+        "owner": "sfulton_mitcham",
+        "url": "https://www.arcgis.com/home/item.html?id=180d29f307b246bf82abb018d9d5c2c4",
+        "source_url": "https://services6.arcgis.com/UphqjK3yJGEvvlyt/arcgis/rest/services/Roads_Predictor/FeatureServer",
+        "updated": 1675136981000,
+        "snippet": "Roads Dataset to be used for Assetic Predictor"
+      },
+      {
+        "name": "CLV ROADS ARTERIAL PAVEMENT",
+        "owner": "OfficeOfGIS_LasVegas",
+        "url": "https://www.arcgis.com/home/item.html?id=e84d3e8e100441da977c7a5ccc54e501",
+        "source_url": "https://services1.arcgis.com/F1v0ufATbBQScMtY/arcgis/rest/services/CLV_ROADS_ARTERIAL_PAVEMENT/FeatureServer",
+        "updated": 1712090762000,
+        "snippet": "Arterial pavements located within the city limits of Las Vegas"
+      },
+      {
+        "name": "Roads (Public, Labels)",
+        "owner": "rmofspringfield",
+        "url": "https://www.arcgis.com/home/item.html?id=206d685bcd8548d5b03d53f71d0acb9b",
+        "source_url": "https://services7.arcgis.com/ItPzqsu2wLY4GCZY/arcgis/rest/services/Transportation_(Public)/FeatureServer",
+        "updated": 1746727644000,
+        "snippet": "RM of Springfield public road data labelled"
+      },
+      {
+        "name": "Roads Survey",
+        "owner": "Chester.Lindley_CDFW",
+        "url": "https://www.arcgis.com/home/item.html?id=7597a200004847a394e4721ed93e0944",
+        "source_url": "https://services2.arcgis.com/Uq9r85Potqm3MfRV/arcgis/rest/services/Roads_Survey/FeatureServer",
+        "updated": 1622840983000,
+        "snippet": "An inventory of unpaved roads in the Lagunitas Creek watershed that may contribute sediment to the stream, compiled by Stetson Engineers Inc. in 2013 for Marin Water, formerly Marin Municipal Water District."
+      },
+      {
+        "name": "Roads",
+        "owner": "C.Wood_11_edinuniv",
+        "url": "https://www.arcgis.com/home/item.html?id=ea22cf94b5bd4e59866c4f3d816d5395",
+        "source_url": "https://services5.arcgis.com/U8xJBTiAx2RGR2e2/arcgis/rest/services/StVincentRoads/FeatureServer",
+        "updated": 1576760370000,
+        "snippet": "Roads"
+      },
+      {
+        "name": "Kenya Main Roads",
+        "owner": "KatyAppletonUEA",
+        "url": "https://www.arcgis.com/home/item.html?id=de31761bdbfc4ac49ed922b24d6b452b",
+        "source_url": "https://services.arcgis.com/ak2bo87wLfUpMrt1/arcgis/rest/services/Kenya_Roads_OSM/FeatureServer",
+        "updated": 1548794013000,
+        "snippet": "Kenya Primary & Trunk Roads Open Street Map 5/14/18"
+      },
+      {
+        "name": "DTP Managed Roads",
+        "owner": "networkdata_victransport",
+        "url": "https://www.arcgis.com/home/item.html?id=ecb3bf46623d4e539b51e97c4811d50d",
+        "source_url": "https://services-ap1.arcgis.com/sRWrfkKjSushj6ql/arcgis/rest/services/DTP_Managed_Roads/FeatureServer",
+        "updated": 1768274272000,
+        "snippet": "DTP Managed Roads"
+      },
+      {
+        "name": "Burlington Roads Municipalities2",
+        "owner": "merrilee",
+        "url": "https://www.arcgis.com/home/item.html?id=7667970d3f124e3caab2412c76b189e3",
+        "source_url": "https://services1.arcgis.com/X3dmaNvzWUnemDAc/arcgis/rest/services/Burlington_Roads_Municipalities2/FeatureServer",
+        "updated": 1587082126000,
+        "snippet": "This map service contains roads and municipal boundaries for Burlington County, NJ for use in web maps."
+      },
+      {
+        "name": "Major Roads - City of Barrie",
+        "owner": "BarrieGIS",
+        "url": "https://www.arcgis.com/home/item.html?id=20f953c5642e4022bf7c7a8fe4d155fc",
+        "source_url": "https://services3.arcgis.com/C964zBpHgJUpj4d0/arcgis/rest/services/CommunityPlan_/FeatureServer",
+        "updated": 1593092700000,
+        "snippet": "Major Roads in the City of Barrie"
+      },
+      {
+        "name": "Roads",
+        "owner": "cbarrows_LCOG",
+        "url": "https://www.arcgis.com/home/item.html?id=340958f1177a434096557a82ce04e7e1",
+        "source_url": "https://services5.arcgis.com/9s1YtFmLS0YTl10F/arcgis/rest/services/Roads/FeatureServer",
+        "updated": 1602277579000,
+        "snippet": "Roads inside Holiday Farm Fire"
+      },
+      {
+        "name": "Addresses and Roads in Upper Hutt",
+        "owner": "connor.spence_UHCC",
+        "url": "https://www.arcgis.com/home/item.html?id=cb44f59ada6944adaa3a6bb39774cf0d",
+        "source_url": "https://services1.arcgis.com/H0o1MSouS8mlA3T1/arcgis/rest/services/Addresses_and_Roads/FeatureServer",
+        "updated": 1626823576000,
+        "snippet": "Addresses and Road Dataset for Upper Hutt City Council. Data created by Upper Hutt City Council Spatial Team during subdivisions and correction of historical addresses."
+      },
+      {
+        "name": "Roads MDI",
+        "owner": "coagis_org",
+        "url": "https://www.arcgis.com/home/item.html?id=0c96a4f83a414159b83826a43da3914c",
+        "source_url": "https://services1.arcgis.com/0EOqWPtpCmgQr2ay/arcgis/rest/services/Roads_MDI/FeatureServer",
+        "updated": 1436989595000,
+        "snippet": "Roads MDI"
+      },
+      {
+        "name": "Wairarapa Roads Resilience",
+        "owner": "GWRC_Admin",
+        "url": "https://www.arcgis.com/home/item.html?id=c463155a1f954b099c96e261185d53a3",
+        "source_url": "https://services2.arcgis.com/RS7BXJAO6ksvblJm/arcgis/rest/services/Wairarapa_Roads_Resilience/FeatureServer",
+        "updated": 1690565699000,
+        "snippet": "Wairarapa Roads Resilience - WELG - May 2022"
+      }
+    ]
+  }
+}
