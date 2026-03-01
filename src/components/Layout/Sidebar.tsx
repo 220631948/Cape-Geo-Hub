@@ -32,7 +32,7 @@ const MODULES: { id: ModuleType; label: string; icon: LucideIcon }[] = [
   { id: 'utilities', label: 'Utilities', icon: Zap },
 ];
 
-const Sidebar: React.FC<SidebarProps> = ({
+const SidebarBase: React.FC<SidebarProps> = ({
   isOpen,
   isCollapsed,
   onToggleCollapse,
@@ -122,5 +122,8 @@ const Sidebar: React.FC<SidebarProps> = ({
     </>
   );
 };
+
+const Sidebar = React.memo(SidebarBase);
+Sidebar.displayName = 'Sidebar';
 
 export default Sidebar;

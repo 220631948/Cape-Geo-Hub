@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import Header from './Header';
 import Sidebar, { type ModuleType } from './Sidebar';
 
@@ -25,10 +25,29 @@ const AppLayout: React.FC<AppLayoutProps> = ({ children }) => {
     };
   }, []);
 
+  const handleMenuToggle = useCallback(() => {
+    setSidebarOpen(prev => !prev);
+  }, []);
+
+  const handleToggleCollapse = useCallback(() => {
+    setSidebarCollapsed(prev => !prev);
+  }, []);
+
+  const handleCloseMobile = useCallback(() => {
+    setSidebarOpen(false);
+  }, []);
+
+  const handleModuleChange = useCallback((module: ModuleType) => {
+    setActiveModule(module);
+    if (window.innerWidth < 768) {
+      setSidebarOpen(false);
+    }
+  }, []);
+
   return (
     <div className="flex h-screen w-screen flex-col overflow-hidden bg-gray-50">
       <Header
-        onMenuToggle={() => setSidebarOpen(!sidebarOpen)}
+        onMenuToggle={handleMenuToggle}
         isOnline={isOnline}
       />
 
@@ -36,15 +55,10 @@ const AppLayout: React.FC<AppLayoutProps> = ({ children }) => {
         <Sidebar
           isOpen={sidebarOpen}
           isCollapsed={sidebarCollapsed}
-          onToggleCollapse={() => setSidebarCollapsed(!sidebarCollapsed)}
-          onCloseMobile={() => setSidebarOpen(false)}
+          onToggleCollapse={handleToggleCollapse}
+          onCloseMobile={handleCloseMobile}
           activeModule={activeModule}
-          onModuleChange={(module) => {
-            setActiveModule(module);
-            if (window.innerWidth < 768) {
-              setSidebarOpen(false);
-            }
-          }}
+          onModuleChange={handleModuleChange}
         />
 
         <main className="flex-1 relative z-0 h-full w-full">
